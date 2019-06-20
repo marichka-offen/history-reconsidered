@@ -2,21 +2,36 @@
   <div class="bg">
     <div id="app">
       <Title />
-      <div id="nav">
-        <router-link to="/">Home</router-link>|
-        <router-link to="/about">About</router-link>
+      <div class="grid">
+        <div class="grid__left">
+          <Navbar />
+          <br />
+          <ArticleBar />
+        </div>
+        <div class="grid__right">
+          <MainQuote />
+          <router-view class="main-content" />
+        </div>
       </div>
-      <router-view />
+      <Copyright class="copyright" />
     </div>
   </div>
 </template>
 
 <script>
 import Title from "@/components/Title.vue";
+import Navbar from "./components/Navbar.vue";
+import ArticleBar from "./components/ArticleBar.vue";
+import MainQuote from "./components/MainQuote.vue";
+import Copyright from "./components/Copyright.vue";
 
 export default {
   components: {
-    Title
+    Title,
+    Navbar,
+    ArticleBar,
+    MainQuote,
+    Copyright
   }
 };
 </script>
@@ -32,6 +47,11 @@ export default {
   src: url("assets/fonts/teutonic4.ttf") format("truetype");
 }
 
+@font-face {
+  font-family: "Windsong";
+  src: url("assets/fonts/Windsong.ttf") format("truetype");
+}
+
 html {
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
@@ -42,41 +62,49 @@ html {
 body {
   margin: 0;
   font-family: "Goudy Bookletter 1911", serif;
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   line-height: 1.5;
 }
 
 .bg {
-  height: 100vh;
-  background-image: url("assets/images/bg.jpg");
+  height: max-content;
+  background-image: linear-gradient(
+      rgba(149, 83, 83, 0.3),
+      rgba(56, 53, 53, 0.3)
+    ),
+    url("assets/images/bg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  filter: grayscale(70%);
+  background-attachment: fixed;
+  filter: grayscale(10%);
 }
 
 #app {
   box-sizing: border-box;
   width: 75%;
-  height: 100vh;
+  min-height: 100vh;
   padding: 0 2rem 2rem;
   margin: 0 auto;
   background-color: rgba(255, 255, 255, 0.85);
   box-shadow: 0 3px 12px 0 rgba(0, 0, 0, 0.2), 0 1px 15px 0 rgba(0, 0, 0, 0.19);
+  position: relative;
 }
 
 h1 {
   font-size: 3em;
-  font-family: "Teutonic4", cursive;
   text-align: center;
   padding: 2rem;
   margin: 0;
+  letter-spacing: 1rem;
 }
 h2 {
   font-size: 1.5em;
+  color: #a72525;
 }
 h3 {
   font-size: 1.17em;
+  color: #a72525;
 }
 h4 {
   font-size: 1.12em;
@@ -86,5 +114,32 @@ h5 {
 }
 h6 {
   font-size: 0.75em;
+}
+
+a {
+  text-decoration: none;
+}
+
+small {
+  font-size: 90%;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: max-content auto;
+}
+
+.main-content {
+  padding: 0 5rem 2rem;
+  margin: 0 auto;
+}
+
+.copyright {
+  padding: 1rem;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #a72525;
 }
 </style>
