@@ -4,22 +4,26 @@
       <Title />
       <div class="grid">
         <div class="grid__left">
-          <Navbar />
-          <br />
-          <ArticleBar />
+          <div>
+            <Navbar />
+            <br />
+            <ArticleBar />
+          </div>
         </div>
         <div class="grid__right">
           <MainQuote />
           <router-view class="main-content" />
         </div>
       </div>
+      <br />
+      <br />
       <Copyright class="copyright" />
     </div>
   </div>
 </template>
 
 <script>
-import Title from "@/components/Title.vue";
+import Title from "./components/Title.vue";
 import Navbar from "./components/Navbar.vue";
 import ArticleBar from "./components/ArticleBar.vue";
 import MainQuote from "./components/MainQuote.vue";
@@ -43,13 +47,13 @@ export default {
 }
 
 @font-face {
-  font-family: "Teutonic4";
-  src: url("assets/fonts/teutonic4.ttf") format("truetype");
+  font-family: "Windsong";
+  src: url("assets/fonts/Windsong.ttf") format("truetype");
 }
 
 @font-face {
-  font-family: "Windsong";
-  src: url("assets/fonts/Windsong.ttf") format("truetype");
+  font-family: "AquilineTwo";
+  src: url("assets/fonts/AquilineTwo.ttf") format("truetype");
 }
 
 html {
@@ -114,6 +118,13 @@ h5 {
 }
 h6 {
   font-size: 0.75em;
+  font-weight: 400;
+  text-align: right;
+  margin-top: 0;
+}
+
+p {
+  text-align: justify;
 }
 
 a {
@@ -121,12 +132,30 @@ a {
 }
 
 small {
-  font-size: 90%;
+  font-size: 70%;
+  color: #024a74;
+}
+
+hr {
+  height: 2rem;
+  border: none;
+  border-bottom: 1.5px solid rgba(#8d6f6f, 0.6);
+}
+
+blockquote {
+  text-align: center;
+  font-family: "AquilineTwo", cursive;
+  font-size: 2.5rem;
 }
 
 .grid {
   display: grid;
   grid-template-columns: max-content auto;
+
+  &__left > * {
+    position: sticky;
+    top: 5rem;
+  }
 }
 
 .main-content {
@@ -135,7 +164,6 @@ small {
 }
 
 .copyright {
-  padding: 1rem;
   position: absolute;
   bottom: 0;
   left: 50%;
