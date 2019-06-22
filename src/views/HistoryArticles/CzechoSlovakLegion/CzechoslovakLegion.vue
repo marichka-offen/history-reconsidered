@@ -3,8 +3,7 @@
     <h2>The Czechoslovak Legion 1914-1920</h2>
     <p>
       My next book will be
-      <i>None Shall Pass Us by in Silence, The Czechoslovak Legion, 1914-1920</i
-      >.
+      <i>None Shall Pass Us by in Silence, The Czechoslovak Legion, 1914-1920</i>.
     </p>
     <blockquote>
       "Neither the Allies or Vienna will be able to pass us by in silence if we
@@ -31,50 +30,27 @@
       made in the capitals for Europe, numerous Allied armies, and a government
       created in exile for a Czechoslovak state that did not exist, initially,
       except in the minds of its founders.
-      <br />
-      <br />The Legion captured the imagination and commanded the respect of the
+      <br>
+      <br>The Legion captured the imagination and commanded the respect of the
       Allied nations and gave legitimacy to the Czechoslovak government in
       exile’s claim to self-rule.
-      <br />
-      <br />As I write this book, the Legion will remain at the center of the
+      <br>
+      <br>As I write this book, the Legion will remain at the center of the
       story, but it is important to look at a context larger than their actions
       to understand their accomplishments.
-      <br />
-      <br />What they did was no less than earn nationhood for the Czechoslovak
+      <br>
+      <br>What they did was no less than earn nationhood for the Czechoslovak
       people. Watch this page for updates about the book.
-      <br />
-      <br />Here are some images from my personal collection that will be in
+      <br>
+      <br>Here are some images from my personal collection that will be in
       that book:
     </p>
 
     <!-- CAROUSELF WITH IMAGES -->
-    <div class="wrapper">
-      <input type="radio" id="trigger1" name="slider" />
-      <label for="trigger1"></label>
-      <div class="slide bg1"></div>
-
-      <input type="radio" id="trigger2" name="slider" checked autofocus />
-      <label for="trigger2"></label>
-      <div class="slide bg2"></div>
-
-      <input type="radio" id="trigger3" name="slider" />
-      <label for="trigger3"></label>
-      <div class="slide bg3"></div>
-
-      <input type="radio" id="trigger4" name="slider" />
-      <label for="trigger4"></label>
-      <div class="slide bg4"></div>
-
-      <input type="radio" id="trigger5" name="slider" />
-      <label for="trigger5"></label>
-      <div class="slide bg5"></div>
-    </div>
-
+    <Slider/>
     <!-- CAROUSELF WITH IMAGES -->
 
-    <h3>
-      Following are some of my research resources used to date for the book:
-    </h3>
+    <h3>Following are some of my research resources used to date for the book:</h3>
     <ol>
       <li>
         Ackerman, Carl, “Trailing the Bolsheviki,” Charles Scribner’s Sons, New
@@ -85,9 +61,7 @@
         Press, London 1926
       </li>
       <li>Becvar, Gustav, “The Lost Legion: A Czechoslovakian Epic"</li>
-      <li>
-        Benes, Eduard, “My War Memoirs,” Allen and Unwin, LTD. London, 1928
-      </li>
+      <li>Benes, Eduard, “My War Memoirs,” Allen and Unwin, LTD. London, 1928</li>
       <li>
         Bradley, John,. “ The Czechoslovak Legion in Russia”, East European
         Monographs, Columbia University Press, NY, 1991
@@ -147,86 +121,13 @@
 </template>
 
 <script>
-export default {};
+import Slider from "../../../components/Slider.vue";
+
+export default {
+  components: {
+    Slider
+  }
+};
 </script>
 
-<style lang="scss" scoped>
-.wrapper {
-  position: relative;
-  height: 400px;
-  width: 600px;
-  padding: 0;
-  margin: 0 auto;
-  text-align: center;
-  overflow: hidden;
-  z-index: 1000;
-}
-
-input {
-  position: absolute;
-  opacity: 0;
-  bottom: 0;
-  cursor: pointer;
-}
-
-label {
-  display: inline-block;
-  width: 12px;
-  height: 12px;
-  border: solid 2px white;
-  border-radius: 999px;
-  background-color: transparent;
-  margin: 380px 6px 5px 6px;
-  z-index: 2;
-  cursor: pointer;
-  transition-duration: 0.4s;
-}
-
-input:checked + label {
-  background-color: #fff;
-}
-
-input:focus + label {
-  box-shadow: 0 0 0 2px #a72525, 0 0 18px #eee;
-}
-
-.slide {
-  position: absolute;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  transform: translateX(-100%);
-  transition-duration: 1s;
-  opacity: 1;
-}
-
-input:checked ~ .slide {
-  transform: translateX(100%);
-}
-
-input:checked + label + .slide {
-  transform: translateX(0);
-  opacity: 1;
-}
-
-.bg1 {
-  background-image: url(https://images.unsplash.com/photo-1422806310414-91469fe4977e?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=114e7a73b2385128045a5555b981e939);
-}
-.bg2 {
-  background-image: url(https://images.unsplash.com/photo-1490020641477-3b0e96306b9a?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=d8358f021c68f49335fe44b10f70b700);
-}
-.bg3 {
-  background-image: url(https://images.unsplash.com/photo-1512529111457-3e8a595ef8e9?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=9b3ab76b65a358830d60ca43be76f2e1);
-}
-.bg4 {
-  background-image: url(https://images.unsplash.com/photo-1504700610630-ac6aba3536d3?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=92d2cae094fb24e5266221828ee251e2);
-}
-.bg5 {
-  background-image: url(https://images.unsplash.com/reserve/wPCyys8TPCHY3GXm2N2D_ssp_inthewoods_1.jpg?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=654d988a19f43ca9ac27f2eacbe2a554);
-}
-</style>
+<style lang="scss" scoped></style>
