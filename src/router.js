@@ -21,6 +21,8 @@ import WilliamiteWar from "./views/HistoryArticles/IrishHistory/WilliamiteWar.vu
 import IrishMilEstabl from "./views/HistoryArticles/IrishHistory/IrishMilEstabl.vue";
 // DUTCH HISTORY
 import DutchHistory from "./views/HistoryArticles/DutchHistory/DutchHistory.vue";
+import EightyYearsWar from "./views/HistoryArticles/DutchHistory/EightyYearsWar.vue";
+import NewNetherlans from "./views/HistoryArticles/DutchHistory/NewNetherlans.vue";
 // SCOTTISH HISTORY
 import ScottishHistory from "./views/HistoryArticles/ScottishHistory/ScottishHistory.vue";
 // COLONIAL HISTORY
@@ -108,6 +110,16 @@ export default new Router({
       path: "/dutch-history",
       name: "dutch-history",
       component: DutchHistory
+    },
+    {
+      path: "/dutch-history/eighty-years-war",
+      name: "eighty-years-war",
+      component: EightyYearsWar
+    },
+    {
+      path: "/dutch-history/new-netherlands",
+      name: "new-netherlands",
+      component: NewNetherlans
     },
     {
       path: "/scottish-history",
