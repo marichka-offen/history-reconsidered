@@ -36,7 +36,15 @@
     </router-link>
 
     <!-- DUTCH HISTORY -->
-    <router-link :to="{ name: 'dutch-history' }">Dutch History</router-link>
+    <router-link :to="{ name: 'dutch-history' }">
+      <span @click="dutch = !dutch">Dutch History</span>
+    </router-link>
+    <router-link :to="{ name: 'eighty-years-war' }" v-show="!dutch">
+      <small>80 Years War</small>
+    </router-link>
+    <router-link :to="{ name: 'new-netherlands' }" v-show="!dutch">
+      <small>New Netherlands</small>
+    </router-link>
 
     <!-- SCOTTISH HISTORY -->
     <router-link :to="{ name: 'scottish-history' }"
@@ -58,7 +66,8 @@ export default {
   data() {
     return {
       kent: true,
-      irish: true
+      irish: true,
+      dutch: true
     };
   }
 };
