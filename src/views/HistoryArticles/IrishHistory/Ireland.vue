@@ -353,8 +353,4 @@ export default {};
 </script>
 
 <style lang="scss" scoped>
-ol {
-  font-size: 80%;
-  color: #444;
-}
 </style>

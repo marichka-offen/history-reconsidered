@@ -1,23 +1,23 @@
 <template>
   <div class="bg">
     <div id="app">
-      <Title />
+      <Title/>
       <div class="grid">
         <div class="grid__left">
           <div>
-            <Navbar />
-            <br />
-            <ArticleBar />
+            <Navbar/>
+            <br>
+            <ArticleBar/>
           </div>
         </div>
         <div class="grid__right">
-          <MainQuote />
-          <router-view class="main-content" />
+          <MainQuote/>
+          <router-view class="main-content"/>
         </div>
       </div>
-      <br />
-      <br />
-      <Copyright class="copyright" />
+      <br>
+      <br>
+      <Copyright class="copyright"/>
     </div>
   </div>
 </template>
@@ -115,6 +115,7 @@ h4 {
 }
 h5 {
   font-size: 0.83em;
+  margin: 0;
 }
 h6 {
   font-size: 0.75em;
@@ -148,6 +149,16 @@ blockquote {
   font-size: 2.5rem;
 }
 
+ol {
+  font-size: 80%;
+  color: #444;
+}
+
+img {
+  width: 100%;
+  box-shadow: 0 3px 12px 0 rgba(0, 0, 0, 0.2), 0 1px 15px 0 rgba(0, 0, 0, 0.19);
+}
+
 .grid {
   display: grid;
   grid-template-columns: max-content auto;
@@ -169,5 +180,19 @@ blockquote {
   left: 50%;
   transform: translateX(-50%);
   color: #a72525;
+}
+.image {
+  width: 70%;
+  margin: 5rem auto;
+  display: block;
+  text-align: center;
+
+  &--sm {
+    width: 60%;
+  }
+  &--cl {
+    width: 27%;
+    margin: 0 1rem;
+  }
 }
 </style>

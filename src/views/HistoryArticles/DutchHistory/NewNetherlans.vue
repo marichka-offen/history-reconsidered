@@ -104,17 +104,6 @@ export default {};
 </script>
 
 <style lang="scss" scoped>
-.image {
-  width: 70%;
-  margin: 5rem auto;
-  display: block;
-  text-align: center;
-
-  &--sm {
-    width: 60%;
-  }
-}
-
 img {
   width: 100%;
 }

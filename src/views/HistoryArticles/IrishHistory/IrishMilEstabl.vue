@@ -19,8 +19,8 @@
     <p>
       With this royal warrant, the first foot regiment in the post restoration
       Irish Military Establishment came into being.
-      <br />
-      <br />The King’s Regiment of Guards in the Kingdom of Ireland finds it
+      <br>
+      <br>The King’s Regiment of Guards in the Kingdom of Ireland finds it
       origins in a Regiment raised out of Connaught by George Cusack in 1653.
       George Cusack held the garrison of Inishbofin against Parliament, with the
       support of the Duke of Lorraine, until 1653. Cusack based on his
@@ -32,8 +32,8 @@
       men and commanded by Colonel George Grace. The regiment fought at the
       Battle of the Dunes in 1658, an abortive Spanish attempt to relieve the
       French-English siege of Dunkirk.
-      <br />
-      <br />Some of the men of the regiment and many of the officers were
+      <br>
+      <br>Some of the men of the regiment and many of the officers were
       transferred to England for service in Ireland in 1662. Those that remained
       in the Spanish Netherlands were sent to Tangier. The Marquis, now First
       Duke of Ormond, the Viceroy of Ireland while in exile, and now the Lord
@@ -74,8 +74,8 @@
       four companies of Guards sailed to Carrickfergus and put down the uprising
       in two days. The one hundred and ten mutineers were court-martialed and
       the two companies were disbanded.
-      <br />
-      <br />The Establishment was reorganized in 1672 with the five existing
+      <br>
+      <br>The Establishment was reorganized in 1672 with the five existing
       regiments of Horse and the troop of Life Guards and five regiments of foot
       (Massie’s, Howth’s, Power’s, Gore’s and Lord Lieutenant’s), and the
       Guards. Little or nothing changed in terms of the dispersed nature of the
@@ -88,8 +88,8 @@
       Soldiers were given to furtively taking up a trade to survive and by 1676
       this was an accepted practice. Command of the Guards went to Lord Ossory
       in 1674.
-      <br />
-      <br />In 1684, renewed interest in the Irish military situation led to a
+      <br>
+      <br>In 1684, renewed interest in the Irish military situation led to a
       reestablishment and organization of the Irish Military Establishment under
       Arthur, Lord Forbes, Earl of Granard and the Marshal of Ireland. There
       were two regiments of horse (Ormond’s and Arran’s) and a Troop of Life
@@ -99,8 +99,8 @@
       to Ulster to disarm potential rebels. In 1685, Granard's Regiment was sent
       to England in response to Monmouth's Rebellion and returned to Ireland
       shortly thereafter.
-      <br />
-      <br />As a result of the 1685 purging of Protestants from the Military
+      <br>
+      <br>As a result of the 1685 purging of Protestants from the Military
       Establishment of Ireland by the Earl of Tyrone, Arran's Regiment of Horse
       became Talbot's Regiment of Horse and Ormond's Regiment of Foot went to
       Justin Mac Carthy. Hamilton’s Regiment of Dragoons was established in
@@ -111,8 +111,8 @@
       5,043 were Catholics and of the 406 officers, 166 were Catholics, with
       Protestant numbers declining steadily until 1688. MacElligot’s Regiment of
       Foot was formed in 1688.
-      <br />
-      <br />In 1688, King James II had MacElligot’s Regiment of Foot, A
+      <br>
+      <br>In 1688, King James II had MacElligot’s Regiment of Foot, A
       Battalion of the Guards Regiment and Granard's Regiment of Foot
       transferred to England in preparation for a possible Dutch invasion.
       Tyrconnel stood up new regiments to replace those sent to England. Of
@@ -130,7 +130,7 @@
       of the fourteen hundred soldiers of the Royal Regiment of Foot Guards
       followed General Dorrington into French Service.
     </p>
-    <hr />
+    <hr>
     <h3>Sources:</h3>
     <ol>
       <li>
@@ -197,8 +197,4 @@ export default {};
 </script>
 
 <style lang="scss" scoped>
-ol {
-  font-size: 80%;
-  color: #444;
-}
 </style>

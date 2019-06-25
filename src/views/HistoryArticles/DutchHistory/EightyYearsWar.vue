@@ -2092,29 +2092,11 @@ export default {};
 </script>
 
 <style lang="scss" scoped>
-.image {
-  width: 70%;
-  margin: 5rem auto;
-  display: block;
-  text-align: center;
-
-  &--sm {
-    width: 60%;
-  }
-  &--cl {
-    width: 27%;
-    margin: 0 1rem;
-  }
-}
-
 .appendix {
   display: block;
   padding: 0 7rem;
 }
-img {
-  width: 100%;
-  box-shadow: 0 3px 12px 0 rgba(0, 0, 0, 0.2), 0 1px 15px 0 rgba(0, 0, 0, 0.19);
-}
+
 ol {
   font-size: 80%;
   color: #444;
