@@ -10,9 +10,7 @@
     </router-link>
 
     <!-- CZECHOSLVAK LEGION -->
-    <router-link :to="{ name: 'czechoslovak-legion' }"
-      >Czechoslovak Legion</router-link
-    >
+    <router-link :to="{ name: 'czechoslovak-legion' }">Czechoslovak Legion</router-link>
 
     <!-- IRISH HISTORY -->
     <router-link :to="{ name: 'irish-history' }">
@@ -47,14 +45,21 @@
     </router-link>
 
     <!-- SCOTTISH HISTORY -->
-    <router-link :to="{ name: 'scottish-history' }"
-      >Scottish History</router-link
-    >
+    <router-link :to="{ name: 'scottish-history' }">
+      <span @click="scottish = !scottish">Scottish History</span>
+    </router-link>
+    <router-link :to="{ name: 'mackeys-regiment' }" v-show="!scottish">
+      <small>MacKay's Regiment</small>
+    </router-link>
+    <router-link :to="{ name: 'dumbartons-regiment' }" v-show="!scottish">
+      <small>Dumbarton's Regiment</small>
+    </router-link>
+    <router-link :to="{ name: 'house-stuart' }" v-show="!scottish">
+      <small>House of Stuart</small>
+    </router-link>
 
     <!-- COLONIAL HISTORY -->
-    <router-link :to="{ name: 'colonial-history' }"
-      >Colonial History</router-link
-    >
+    <router-link :to="{ name: 'colonial-history' }">Colonial History</router-link>
 
     <!-- THE HUSSITES -->
     <router-link :to="{ name: 'hussites' }">Hussites</router-link>
@@ -67,7 +72,8 @@ export default {
     return {
       kent: true,
       irish: true,
-      dutch: true
+      dutch: true,
+      scottish: true
     };
   }
 };

@@ -25,6 +25,9 @@ import EightyYearsWar from "./views/HistoryArticles/DutchHistory/EightyYearsWar.
 import NewNetherlans from "./views/HistoryArticles/DutchHistory/NewNetherlans.vue";
 // SCOTTISH HISTORY
 import ScottishHistory from "./views/HistoryArticles/ScottishHistory/ScottishHistory.vue";
+import MacKay from "./views/HistoryArticles/ScottishHistory/MacKay.vue";
+import Dumbarton from "./views/HistoryArticles/ScottishHistory/Dumbarton.vue";
+import Stuart from "./views/HistoryArticles/ScottishHistory/Stuart.vue";
 // COLONIAL HISTORY
 import ColonialHistory from "./views/HistoryArticles/ColonialHistory/ColonialHistory.vue";
 // THE HUSSITES
@@ -125,6 +128,21 @@ export default new Router({
       path: "/scottish-history",
       name: "scottish-history",
       component: ScottishHistory
+    },
+    {
+      path: "/scottish-history/mackeys-regiment",
+      name: "mackeys-regiment",
+      component: MacKay
+    },
+    {
+      path: "/scottish-history/dumbartons-regiment",
+      name: "dumbartons-regiment",
+      component: Dumbarton
+    },
+    {
+      path: "/scottish-history/house-stuart",
+      name: "house-stuart",
+      component: Stuart
     },
     {
       path: "/colonial-history",
