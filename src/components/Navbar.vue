@@ -3,7 +3,7 @@
     <router-link :to="{ name: 'home' }">Home</router-link>
     <router-link :to="{ name: 'about' }">About</router-link>
     <router-link :to="{ name: 'book' }">My Book</router-link>
-    <router-link :to="{ name: 'recommendations' }">Books I Recommend</router-link>
+    <!-- <router-link :to="{ name: 'recommendations' }">Books I Recommend</router-link> -->
     <router-link :to="{ name: 'contact' }">Contact Me</router-link>
   </div>
 </template>
