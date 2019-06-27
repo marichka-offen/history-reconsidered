@@ -216,18 +216,27 @@
     </p>
     <blockquote>“In the very moment when our ship did breake on ground, there was a Sergeant’s wife a shipboard, who without the help of any other women was delivered of a boy, which all the time of the tempest, she did carefully preserve. and being come ashore, the next day she marched neere foure English mile with that in her armes which was in her belly the night before.”</blockquote>
     <h6>– Robert Monro, 1630</h6>
+    <blockquote>“It has been reported and is probable that Lord Dumbarton’s Regiment, which was their nursery for men of honor, did drawn 55,000 recruits from Scotland, whereof few returned with whole bones and less with estates”</blockquote>
+    <h6>– John Crookshanks, 1713</h6>
     <hr>
     <h3>References:</h3>
     <ol>
-      <li>Ahnlund, Nils, Gustavus Adolphus the Great (New York, 1940)</li>
-      <li>Barker, Thomas, The Military Intellectual and Battle, Raimondo Montecuccoli and the Thirty Years War, (New York, 1975)</li>
-      <li>Du Puy, Trevor, The Military Life of Gustavus Adolphus, (NY, 1969)</li>
-      <li>Fletcher, C.R., Gustavus Adolphus and the Struggle of Protestantism for Existence, (London, 1892)</li>
-      <li>Grant, James, The Scottish Soldier of Fortune, (London, 1890)</li>
-      <li>Monro, Robert, His Expedition with the Worthy Scots Regiment called MacKeys (London, 1637)</li>
-      <li>Parker Geoffrey, The Thirty Years War (London, 1997)</li>
-      <li>Watts William, The Swedish Intelligencer, (London, 1632)</li>
-      <li>Wedgewood, C.V., The Thirty Years War, (London, 1938)</li>
+      <li>Brander, A.M., The Royal Scots ( London, 1976)</li>
+      <li>Childs, John, The Army of Charles II ( London, 1976)</li>
+      <li>Dalton, Charles, The Scots Army, 1661-1688 ( London, 1909)</li>
+      <li>Ede-Borrett, S., The Army of James II, Uniforms and Organization (UK 2001)</li>
+      <li>Glozier, Matthew, Scottish Soldiers in France in the reign of the Sun King ( Leiden, 2004)</li>
+      <li>Grant, James, The Scottish Soldier of Fortune, ( London, 1890)</li>
+      <li>Malestein, Arthur J., The Restoration Army: Its Mission, Men, and Equipment</li>
+      <li>Reid, Stuart, Last Scots Army 1661-1714 ( UK, 2003)</li>
+      <li>Smithers, A.J., The Tangier Campaign, The Birth of the British Army ( UK, 2003)</li>
+      <li>Tincey, John, Armies of the Sedgemoor Campaign ( UK, 1998)</li>
+      <li>Tincey, John, The British Army, 1660-1704 ( UK, 1994)</li>
+      <li>Tincey, John, Monmouth’s Drill Book ( UK,1968)</li>
+      <li>Turner, James, Pallas Armata: Military essayes of the ancient Grecian, Roman, and modern art of war. Written in the years 1670 and 1671 (NY, 1968)</li>
+      <li>Weaver, Lawrence, The Story of the Royal Scots ( UK, 1915)</li>
+      <li>Weygand, Max, Turenne, Marshal of France ( London, 1930)</li>
+      <li>Williams, Noel Saint John Williams, Redcoats and Courtesans: The Birth of the British Army, 1660-1690 ( London, 1994)</li>
     </ol>
   </div>
 </template>

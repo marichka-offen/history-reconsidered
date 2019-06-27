@@ -30,8 +30,8 @@
       meeting the definition of what would later in the 18th century be called a
       “provincial” unit, but still does not meet the definition of a “regular”
       unit.
-      <br />
-      <br />The following chronology is an effort to gather in one place all
+      <br>
+      <br>The following chronology is an effort to gather in one place all
       that remains of a fragmentary record of military actions in Maryland from
       the establishment of the colony to the Union of the Crowns.
     </p>
@@ -57,8 +57,8 @@
       jurisdiction of Calvert’s colony by the King’s Star Chamber, the highest
       court of the time in England. The colony of Virginia objected and
       Claiborne was assured of his right to remain at Kent Island by the Crown.
-      <br />
-      <br />The colony of Maryland was established on 3 March 1634 on land
+      <br>
+      <br>The colony of Maryland was established on 3 March 1634 on land
       previously occupied by the Piscataway tribe, who did not have friendly
       relations with the Susquehannocks. Initially relations with local tribes
       had been friendly but by July the demeanor of the Native Americans had
@@ -73,8 +73,8 @@
       Island surrendered to Calvert’s authority and Claiborne began his long
       legal battle to regain his land and control of the settlement on Kent
       Island.
-      <br />
-      <br />Lord Baltimore’s plan for land distribution in the colony was that
+      <br>
+      <br>Lord Baltimore’s plan for land distribution in the colony was that
       manors would be established with tenants farming the land. The amount of
       land granted for manors was based on the number of tenants brought to
       Maryland. This was an essentially a medieval English land distribution
@@ -84,8 +84,8 @@
       Calvert supported by three councilors and a single legislative body. Kent
       Island was ‘commanded” by Captain Robert Evelyn beginning in December 1637
       and, by 1638, was called “Kent Hundred” in the County of St Mary’s.
-      <br />
-      <br />On 25 January 1638, the first colonial assembly met at St Mary’s
+      <br>
+      <br>On 25 January 1638, the first colonial assembly met at St Mary’s
       City comprised of “freemen” or those males between the ages of 16 and 60
       who were not indentured servants. The first assembly was small enough to
       be conducted as a plebiscite but all others would be representative
@@ -98,8 +98,8 @@
       island. There is no record of the outcome of this expedition. William
       Brainthwayte replaced Evelyn in late 1638 as Captain and commander of Kent
       Island only to be replaced by Giles Brent in February of 1639.
-      <br />
-      <br />In May of 1639 Giles Brent was appointed “Captain of the Military
+      <br>
+      <br>In May of 1639 Giles Brent was appointed “Captain of the Military
       Band” of the colony and was instructed to train all the colonists able to
       bear arms, council excluded, in “the art and discipline of war on holy
       days and any other time there should be need.” He or one of his
@@ -116,8 +116,8 @@
       Susquehannocks. There is no record of actions by this expedition. William
       Brianthwayte replaced Giles Brent as Captain and commander of Kent Island
       in August of 1639.
-      <br />
-      <br />In July of 1641 the Governor instructed the residents of Kent Island
+      <br>
+      <br>In July of 1641 the Governor instructed the residents of Kent Island
       to shoot on sight any Native Americans. It was believed that the natives
       threatening Kent Island were a group located vicinity Chestertown and had
       upwards of sixty fighting men armed with muskets while Kent Island could
@@ -138,8 +138,8 @@
       had occurred, the militia were to “keep guard.” The forts were St Inigoes
       Fort, Thomas Sterman’s House in St Michael’s Hundred, Thomas Weston’s
       House in St George’s Hundred and Patuxent Fort.
-      <br />
-      <br />In September the Susquehannock, Wicomico and Nanticoke tribes were
+      <br>
+      <br>In September the Susquehannock, Wicomico and Nanticoke tribes were
       declared “enemies to the province.” The colonial assembly raised an
       expedition to attack the Susquehannock by enlisting every third man out of
       each hundred armed, provisioned for two months and transported by their
@@ -167,8 +167,8 @@
       an expedition up the Susquehanna River to a Susquehannock village but was
       driven off, failing to end the continual raids against the settlements of
       the colony.
-      <br />
-      <br />The Great Civil War that was already two years old in the British
+      <br>
+      <br>The Great Civil War that was already two years old in the British
       Isles reached Maryland in January of 1644. Captain Richard Ingle was no
       stranger to Maryland as he had been involved for several years in the
       annual tobacco fleet which brought good from England to Maryland and
@@ -178,8 +178,8 @@
       Reformation. Both were temporary and it seemed that economic necessity
       both the ship captains and the colonies overrode political loyalties, for
       the moment.
-      <br />
-      <br />Leonard Calvert returned to Maryland in September of 1644 and by the
+      <br>
+      <br>Leonard Calvert returned to Maryland in September of 1644 and by the
       end of the month went to Virginia leaving William Brianthwaite to serve as
       deputy governor of the colony. By October William Ingle was on his way
       back to Maryland with a letter of marque allowing him to seize ‘enemy’
@@ -204,15 +204,15 @@
       rudimentary functions of government. Captain Edward Hill went to St Mary’s
       City in July of 1646 to retrieve men who had fled from Virginia and found
       himself governor of the colony until December of that year.
-      <br />
-      <br />Hill was operating under Leonard Calvert’s orders and found himself
+      <br>
+      <br>Hill was operating under Leonard Calvert’s orders and found himself
       only able to control events in St Mary’s County, with Kent County refusing
       to recognize Hill’s or Calvert’s authority. By late December Calvert
       returned to Maryland with a company of men raised in Virginia comprised of
       Virginians, Maryland refugees and assumed control with little or no
       resistance.
-      <br />
-      <br />William Claiborne returned to Kent Island in December of 1646 and
+      <br>
+      <br>William Claiborne returned to Kent Island in December of 1646 and
       attempted unsuccessfully to convince the local populace to march on St.
       Mary’s City. Calvert and his men regained control of Kent County in April
       of 1647. Calvert died in June and was replaced by Thomas Greene in June of
@@ -225,15 +225,15 @@
       brought with him five hundred puritan settlers who had been made unwelcome
       in Virginia who established the settlement of Providence, in current Ann
       Arundel County.
-      <br />
-      <br />The first colonial assembly under Governor Stone was presented with
+      <br>
+      <br>The first colonial assembly under Governor Stone was presented with
       an Act Concerning Religion which they modified and adopted as the law in
       Maryland. The Act called for religious toleration and forbade insulting
       language about religion, a first in British Law. The Act only applied to
       Christians. Thomas Greene was appointed Deputy Governor under Governor
       Stone.
-      <br />
-      <br />On 30 January 1649 Charles I was executed and in November of that
+      <br>
+      <br>On 30 January 1649 Charles I was executed and in November of that
       year Greene declared, on behalf of the Colony of Maryland, Charles II as
       the rightful King, much to the dismay of the new Puritan immigrants and
       many of the other Protestant settlers. Governor Stone retracted the
@@ -251,8 +251,8 @@
       the expedition was abandoned eastern shore in part due to both the
       lateness of the season and the unwillingness of the settlers at Providence
       to contribute men to the expedition.
-      <br />
-      <br />The Parliamentarian Commissioners, appointed by a Parliament
+      <br>
+      <br>The Parliamentarian Commissioners, appointed by a Parliament
       dismissed by Cromwell in December 1653, were in Virginia when Governor
       Stone, in May, proclaimed Cromwell Lord Protector of England and the
       colony of Maryland. They returned to Maryland and replaced Governor Stone
@@ -262,8 +262,8 @@
       approximately 130 men. Operating under orders from Governor Stone, CPT
       Josias Fendall leading a force of 20 men was involved in a raid to secure
       arms, ammunition and the colony records in Patuxent.
-      <br />
-      <br />Governor Stone set out to reduce Providence in the 20 March 1655.
+      <br>
+      <br>Governor Stone set out to reduce Providence in the 20 March 1655.
       Part of his force marched up the bay and part went by sea to the Severn
       River and arrived at the outer harbor of Providence by 24 March. Governor
       Stone landed his force, under fire from the ship Golden Lyon, and formed
@@ -313,8 +313,8 @@
       CPT Odber’s Company, that being provisions and assistance in constructing
       fortifications. The Company departed that same month. In 1662 Charles
       Calvert assumed the Governorship of Maryland
-      <br />
-      <br />By 1664 the assembly voted to tax inhabitants of the colony to allow
+      <br>
+      <br>By 1664 the assembly voted to tax inhabitants of the colony to allow
       for purchase of arms and ammunition for defense of the colony with those
       arms to be stored at county magazines. Charles Calvert the governor
       provided 250 muskets as well as swords and belts for the county arsenals
@@ -340,8 +340,8 @@
       charges of murder but the lower house of the colonial assembly refused to
       permit his execution and after a brief time in jail he was released.
       Thomas Notley was made Governor in 1676.
-      <br />
-      <br />In Sept 1676 a rebellion occurred in Calvert County, with sixty men
+      <br>
+      <br>In Sept 1676 a rebellion occurred in Calvert County, with sixty men
       refusing orders to disarm and disband until confronted by MAJ Henry Jowles
       and a company of militia. The reason for the rebellion is unknown but can
       be suggested by ongoing complaints against the proprietary government
@@ -351,8 +351,8 @@
       to attack the Nanticokes in to be commanded by COL William Coleborne, but
       there is no record of the outcome of this expedition. Charles Calvert
       became governor in 1679.
-      <br />
-      <br />In 1681, the same concerns and groundless rumors that caused a
+      <br>
+      <br>In 1681, the same concerns and groundless rumors that caused a
       revolt in 1676 with the added twist of an Irish army being invited to
       Maryland to wipe out the Protestants led to the arrest of two prominent
       member of the colony spreading the rumors, former Governor Josias Fendall
@@ -362,8 +362,8 @@
       banishment. Fendall was banished as well and Coode was freed with a
       warning. In 1684 a council of deputy governors ruled Maryland on behalf of
       the minor child Benedict Calvert until 1689.
-      <br />
-      <br />In November of 1688 William of Orange landed in England beginning a
+      <br>
+      <br>In November of 1688 William of Orange landed in England beginning a
       period of revolution, instability, uncertainty and war in Britain and the
       colonies. The colonies were waiting for a decree from the new monarchs,
       William and Mary in the spring of 1689 and this decree was lost on its way
@@ -381,22 +381,22 @@
       unable to challenge Coode’s force. Darnell and Sewell withdrew to
       Mattapnay Sewall and surrendered on 1 August 1689. Coode and the
       “Associators” ruled Maryland until 1692.
-      <br />
-      <br />In 1690 a company under CPT Gabriel Towson led a company raised to
+      <br>
+      <br>In 1690 a company under CPT Gabriel Towson led a company raised to
       strengthen Albany, NY during King William’s War from 1690 to 1697. In 1692
       Sir Lionel Copely arrived as the first Royal Governor of Maryland. His
       first assembly established the Church of England as the church of the
       colony. Copley died in 1692 and Sir Thomas Lawrence and Sir Edmund Andros
       briefly followed as Governors.
-      <br />
-      <br />In 1693 three forts were constructed to defend the western frontier
+      <br>
+      <br>In 1693 three forts were constructed to defend the western frontier
       of the colony from Native Americans, one in Charles County, one in Anne
       Arundel County and another near the falls of the Patapsco River. CPT John
       Addison and COL Nicholas Greenberry constructed the forts with pressed
       labor and each of the forts were garrisoned by nine militiamen and four
       Native Americans.
-      <br />
-      <br />In July 1694 Francis Nicholson became Governor of Maryland and moved
+      <br>
+      <br>In July 1694 Francis Nicholson became Governor of Maryland and moved
       the capital from St Mary’s City to Ann-Arundel Town, now Annapolis in
       1695. He was succeeded by Nathaniel Blackiston until 1704. John Seymour
       became Governor in 1704 until 1709. In 1705 Richard Clarke was accused of
@@ -404,200 +404,630 @@
       which was put down with the ringleaders disappearing after seizing a ship.
     </p>
     <h2>Identified Military Units and Commanders</h2>
-    <h3 class="pointer" @click="mary = !mary">
-      St. Mary’s County (established 1634) &#9662;
-    </h3>
+    <h3 class="pointer" @click="mary = !mary">St. Mary’s County (established 1634) &#9662;</h3>
     <p v-show="!mary">
-      1634-47 LTG Leonard Calvert, Maryland Militia Commander
-      <br />1642 St Mary’s and Kent Counties, CPT William Brainthwaite’s Militia
-      Company <br />1643 CPT Thomas Cornwallis’ expedition <br />1645 CPT
-      William Stone’s Militia Company <br />1646 CPT Nathaniel Pope’s Expedition
-      against Kent Island <br />1646-1652 CPT John Price, commander of Ft Inigoe
-      <br />1647 Captain General Thomas Green, Commander Maryland Militia
-      <br />1647 COL John Price’s expedition against the Nanticoke and Wickomick
-      <br />1647-50 COL John Price, Militia Commander <br />1650 COL Thomas
-      Dent, Militia Commander <br />1652-75 CPT Thomas Cornwallis’ Militia
-      Company <br />1654-57 CPT Josais Fendall’s Militia Company <br />1654-55
-      CPT Richard Hodskeys’ Militia Company <br />1654-55 CPT John Sly’s Militia
-      Company <br />1655 COL William Stone, Proprietary Force Commander
-      <br />1655 CPT William Evans’ Militia Company <br />1655 CPT Nicholas
-      Gwither’s Militia Company <br />1658 Major General Edward Gibbon, Maryland
-      Militia Commander <br />1658-59 COL William Evans, Militia Commander
-      <br />1658-65 CPT George Reed’s Militia Company <br />1660-61 LTG Phillip
-      Calvert, Commander of the Maryland Militia <br />1661 CPT Odber’s Company
-      at Susquehannock Fort (St Mary’s, Kent, Charles, Calvert, Ann Arundel)
-      <br />1661-75 LTG Charles Calvert, Commander of the Maryland Militia
-      <br />1661 CPT John Collier’s Militia Company <br />1664 CPT Luke
-      Gardiner’s Militia Company <br />1674 COL John Jarboe, Militia Commander
-      <br />1675 CPT Gerrard Sly’s Ranger’s <br />1676-79 CPT Henry Jowles’
-      Militia Company <br />1675 MAJ Thomas Truman’s Expedition against the
-      Susquehannocks (St Mary’s and Calvert) <br />1676 CPT John Pierce, Captain
-      of the Guard at Matapenny Sewall, Governor’s residence and arsenal,
-      1666-1684 <br />1676-1679 CPT John Coode’s Militia Company <br />1677-78
-      COL John Douglas, Militia Commander (St. Mary’s and Charles) <br />1678-81
-      COL William Calvert, Militia Foot Commander <br />1678-82 CPT Justinian
-      Gerard’s Militia Company <br />1679-88 St. Mary’s Guard <br />1680 CPT
-      William Diggs’ Militia Company <br />1689-90 COL John Coode, Commander of
-      Maryland <br />1689 CPT Edward Greenhald’s Company of Militia Horse
-      <br />1689 CPT John Payne’s Company of Militia Foot <br />1694 CPT Edward
-      Greenhald’s Company of Militia Foot <br />1694-1705 COL Sir Thomas
-      Lawrence’s Militia Regiment of Foot (St., Mary’s and Ann Arundel)
-      <br />1695 COL Henry Jowles, Militia Commander
+      <span class="padding">1634-47 LTG Leonard Calvert, Maryland Militia Commander</span>
+      <br>
+      <span class="padding">
+        1642 St Mary’s and Kent Counties, CPT William Brainthwaite’s Militia
+        Company
+      </span>
+      <br>
+      <span class="padding">1643 CPT Thomas Cornwallis’ expedition</span>
+      <br>
+      <span class="padding">
+        1645 CPT
+        William Stone’s Militia Company
+      </span>
+      <br>
+      <span class="padding">
+        1646 CPT Nathaniel Pope’s Expedition
+        against Kent Island
+      </span>
+      <br>
+      <span class="padding">1646-1652 CPT John Price, commander of Ft Inigoe</span>
+      <br>
+      <span class="padding">1647 Captain General Thomas Green, Commander Maryland Militia</span>
+      <br>
+      <span class="padding">1647 COL John Price’s expedition against the Nanticoke and Wickomick</span>
+      <br>
+      <span class="padding">1647-50 COL John Price, Militia Commander</span>
+      <br>
+      <span class="padding">
+        1650 COL Thomas
+        Dent, Militia Commander
+      </span>
+      <br>
+      <span class="padding">
+        1652-75 CPT Thomas Cornwallis’ Militia
+        Company
+      </span>
+      <br>
+      <span class="padding">1654-57 CPT Josais Fendall’s Militia Company</span>
+      <br>
+      <span class="padding">
+        1654-55
+        CPT Richard Hodskeys’ Militia Company
+      </span>
+      <br>
+      <span class="padding">
+        1654-55 CPT John Sly’s Militia
+        Company
+      </span>
+      <br>
+      <span class="padding">1655 COL William Stone, Proprietary Force Commander</span>
+      <br>
+      <span class="padding">1655 CPT William Evans’ Militia Company</span>
+      <br>
+      <span class="padding">
+        1655 CPT Nicholas
+        Gwither’s Militia Company
+      </span>
+      <br>
+      <span class="padding">
+        1658 Major General Edward Gibbon, Maryland
+        Militia Commander
+      </span>
+      <br>
+      <span class="padding">1658-59 COL William Evans, Militia Commander</span>
+      <br>
+      <span class="padding">1658-65 CPT George Reed’s Militia Company</span>
+      <br>
+      <span class="padding">
+        1660-61 LTG Phillip
+        Calvert, Commander of the Maryland Militia
+      </span>
+      <br>
+      <span class="padding">
+        1661 CPT Odber’s Company
+        at Susquehannock Fort (St Mary’s, Kent, Charles, Calvert, Ann Arundel)
+      </span>
+      <br>
+      <span class="padding">1661-75 LTG Charles Calvert, Commander of the Maryland Militia</span>
+      <br>
+      <span class="padding">1661 CPT John Collier’s Militia Company</span>
+      <br>
+      <span class="padding">
+        1664 CPT Luke
+        Gardiner’s Militia Company
+      </span>
+      <br>
+      <span class="padding">1674 COL John Jarboe, Militia Commander</span>
+      <br>
+      <span class="padding">1675 CPT Gerrard Sly’s Ranger’s</span>
+      <br>
+      <span class="padding">
+        1676-79 CPT Henry Jowles’
+        Militia Company
+      </span>
+      <br>
+      <span class="padding">
+        1675 MAJ Thomas Truman’s Expedition against the
+        Susquehannocks (St Mary’s and Calvert)
+      </span>
+      <br>
+      <span class="padding">
+        1676 CPT John Pierce, Captain
+        of the Guard at Matapenny Sewall, Governor’s residence and arsenal,
+        1666-1684
+      </span>
+      <br>
+      <span class="padding">1676-1679 CPT John Coode’s Militia Company</span>
+      <br>
+      <span class="padding">
+        1677-78
+        COL John Douglas, Militia Commander (St. Mary’s and Charles)
+      </span>
+      <br>
+      <span class="padding">
+        1678-81
+        COL William Calvert, Militia Foot Commander
+      </span>
+      <br>
+      <span class="padding">
+        1678-82 CPT Justinian
+        Gerard’s Militia Company
+      </span>
+      <br>
+      <span class="padding">1679-88 St. Mary’s Guard</span>
+      <br>
+      <span class="padding">
+        1680 CPT
+        William Diggs’ Militia Company
+      </span>
+      <br>
+      <span class="padding">
+        1689-90 COL John Coode, Commander of
+        Maryland
+      </span>
+      <br>
+      <span class="padding">1689 CPT Edward Greenhald’s Company of Militia Horse</span>
+      <br>
+      <span class="padding">1689 CPT John Payne’s Company of Militia Foot</span>
+      <br>
+      <span class="padding">
+        1694 CPT Edward
+        Greenhald’s Company of Militia Foot
+      </span>
+      <br>
+      <span class="padding">
+        1694-1705 COL Sir Thomas
+        Lawrence’s Militia Regiment of Foot (St., Mary’s and Ann Arundel)
+      </span>
+      <br>
+      <span class="padding">1695 COL Henry Jowles, Militia Commander</span>
     </p>
-    <h3 class="pointer" @click="kent = !kent">
-      Kent County (established 1642) &#9662;
-    </h3>
+    <h3 class="pointer" @click="kent = !kent">Kent County (established 1642) &#9662;</h3>
     <p v-show="!kent">
-      1642-44 CPT Giles Brent, Kent Island Military Commander
-      <br />1645-1660 CPT Robert Vaughn, Kent Island Military Commander
-      <br />1648 CPT Peter Knight’s Company (in rebellion against Proprietary)
-      <br />1652-58 COL Phillip Conner, Military Commander <br />1652-54 CPT
-      William Fuller’s expedition to the Eastern Shore <br />1658-61 CPT Thomas
-      Bradnox’s Militia Company on Kent Island <br />1662 CPT William Leed’s
-      Militia Company <br />1668-69 CPT John Vicaris, Military Commander
-      <br />1677 CPT Philemon Lloyd’s Militia Troop of Horse <br />1681 CPT
-      William Lawrence’s Militia Company <br />1681 COL Philemon Lloyd,
-      Commander of Militia Horse (Kent, Talbot and Cecil) <br />1687-1694 COL
-      Henry Coursey, Militia Commander <br />1689 CPT Edward, Sweatnams’ Militia
-      Company <br />1689 CPT Cornelius Comegys’ Militia Company <br />1689 CPT
-      John Hynson’s Militia Company <br />1689 CPT William Pierce’s Militia
-      Company of Foot <br />1690 CPT John Derricuts’ Militia Company <br />1692
-      CPT John Hawkins’ Militia Company <br />1694-1701 COL Codd St. Leger,
-      Militia Commander <br />1694-96 CPT John Coppedges’ Militia Company of
-      Foot <br />1695 COL John Hynson, Militia Commander
+      <span class="padding">1642-44 CPT Giles Brent, Kent Island Military Commander</span>
+      <br>
+      <span class="padding">1645-1660 CPT Robert Vaughn, Kent Island Military Commander</span>
+      <br>
+      <span class="padding">1648 CPT Peter Knight’s Company (in rebellion against Proprietary)</span>
+      <br>
+      <span class="padding">1652-58 COL Phillip Conner, Military Commander</span>
+      <br>
+      <span class="padding">
+        1652-54 CPT
+        William Fuller’s expedition to the Eastern Shore
+      </span>
+      <br>
+      <span class="padding">
+        1658-61 CPT Thomas
+        Bradnox’s Militia Company on Kent Island
+      </span>
+      <br>
+      <span class="padding">
+        1662 CPT William Leed’s
+        Militia Company
+      </span>
+      <br>
+      <span class="padding">1668-69 CPT John Vicaris, Military Commander</span>
+      <br>
+      <span class="padding">1677 CPT Philemon Lloyd’s Militia Troop of Horse</span>
+      <br>
+      <span class="padding">
+        1681 CPT
+        William Lawrence’s Militia Company
+      </span>
+      <br>
+      <span class="padding">
+        1681 COL Philemon Lloyd,
+        Commander of Militia Horse (Kent, Talbot and Cecil)
+      </span>
+      <br>
+      <span class="padding">
+        1687-1694 COL
+        Henry Coursey, Militia Commander
+      </span>
+      <br>
+      <span class="padding">
+        1689 CPT Edward, Sweatnams’ Militia
+        Company
+      </span>
+      <br>
+      <span class="padding">1689 CPT Cornelius Comegys’ Militia Company</span>
+      <br>
+      <span class="padding">
+        1689 CPT
+        John Hynson’s Militia Company
+      </span>
+      <br>
+      <span class="padding">
+        1689 CPT William Pierce’s Militia
+        Company of Foot
+      </span>
+      <br>
+      <span class="padding">1690 CPT John Derricuts’ Militia Company</span>
+      <br>
+      <span class="padding">
+        1692
+        CPT John Hawkins’ Militia Company
+      </span>
+      <br>
+      <span class="padding">
+        1694-1701 COL Codd St. Leger,
+        Militia Commander
+      </span>
+      <br>
+      <span class="padding">
+        1694-96 CPT John Coppedges’ Militia Company of
+        Foot
+      </span>
+      <br>
+      <span class="padding">1695 COL John Hynson, Militia Commander</span>
     </p>
-    <h3 class="pointer" @click="anne = !anne">
-      Anne Arundel County (established 1650) &#9662;
-    </h3>
+    <h3 class="pointer" @click="anne = !anne">Anne Arundel County (established 1650) &#9662;</h3>
     <p v-show="!anne">
-      1650-52 COL Edward Lloyd, Militia Commander
-      <br />1655 COL Edward Lloyd, Commander Puritan Forces <br />1655-1661 CPT
-      John Norwood’s Militia Company <br />1654-58 CPT Richard Ewen’s Militia
-      Company <br />1655 CPT William Fuller’s Militia Company (Battle of the
-      Severn 170 men) <br />1657-58 CPT Thomas Howell’s Militia Company
-      <br />1661-64 CPT William Burges’ South River Rangers <br />1661 CPT John
-      Norwood’s Militia Company <br />1665-81 COL William Burgess, Militia
-      Commander <br />1669 CPT Paul Marsh’s Militia Company of Foot <br />1678
-      CPT Nicholas Greenberry’s Militia Company of Foot <br />1678-81 CPT
-      Nicholas Gassaway’s Militia Company <br />1687-88 MAJ Edward Dorsey,
-      Militia Commander <br />1689 CPT Henry Ridgely’s Militia Company of Foot
-      <br />1691-94 CPT John Hammond’s Militia Troop of Horse <br />1692-94 COL
-      Nicholas Greenberry, Commander of Militia Horse <br />1692 CPT James
-      Maxwell’s Rangers <br />1693 Captain General Nicholas Greenbury, Commander
-      Maryland Militia <br />1694 COL Nicholas Greenberry’s Rangers (Ann Arundel
-      and Baltimore) <br />1695-99 COL Henry Ridgely, Militia Commander
-      <br />1694 CPT James Maxwell’s Militia Company <br />1694 CPT Robert
-      Lockwood’s Militia Troop of Horse <br />1701-03 CPT Lawrence Draper’s
-      Militia Company <br />1707 Major General John Hammond, Militia Commander
+      <span class="padding">1650-52 COL Edward Lloyd, Militia Commander</span>
+      <br>
+      <span class="padding">1655 COL Edward Lloyd, Commander Puritan Forces</span>
+      <br>
+      <span class="padding">
+        1655-1661 CPT
+        John Norwood’s Militia Company
+      </span>
+      <br>
+      <span class="padding">
+        1654-58 CPT Richard Ewen’s Militia
+        Company
+      </span>
+      <br>
+      <span class="padding">
+        1655 CPT William Fuller’s Militia Company (Battle of the
+        Severn 170 men)
+      </span>
+      <br>
+      <span class="padding">1657-58 CPT Thomas Howell’s Militia Company</span>
+      <br>
+      <span class="padding">1661-64 CPT William Burges’ South River Rangers</span>
+      <br>
+      <span class="padding">
+        1661 CPT John
+        Norwood’s Militia Company
+      </span>
+      <br>
+      <span class="padding">
+        1665-81 COL William Burgess, Militia
+        Commander
+      </span>
+      <br>
+      <span class="padding">1669 CPT Paul Marsh’s Militia Company of Foot</span>
+      <br>
+      <span class="padding">
+        1678
+        CPT Nicholas Greenberry’s Militia Company of Foot
+      </span>
+      <br>
+      <span class="padding">
+        1678-81 CPT
+        Nicholas Gassaway’s Militia Company
+      </span>
+      <br>
+      <span class="padding">
+        1687-88 MAJ Edward Dorsey,
+        Militia Commander
+      </span>
+      <br>
+      <span class="padding">1689 CPT Henry Ridgely’s Militia Company of Foot</span>
+      <br>
+      <span class="padding">1691-94 CPT John Hammond’s Militia Troop of Horse</span>
+      <br>
+      <span class="padding">
+        1692-94 COL
+        Nicholas Greenberry, Commander of Militia Horse
+      </span>
+      <br>
+      <span class="padding">
+        1692 CPT James
+        Maxwell’s Rangers
+      </span>
+      <br>
+      <span class="padding">
+        1693 Captain General Nicholas Greenbury, Commander
+        Maryland Militia
+      </span>
+      <br>
+      <span class="padding">
+        1694 COL Nicholas Greenberry’s Rangers (Ann Arundel
+        and Baltimore)
+      </span>
+      <br>
+      <span class="padding">1695-99 COL Henry Ridgely, Militia Commander</span>
+      <br>
+      <span class="padding">1694 CPT James Maxwell’s Militia Company</span>
+      <br>
+      <span class="padding">
+        1694 CPT Robert
+        Lockwood’s Militia Troop of Horse
+      </span>
+      <br>
+      <span class="padding">
+        1701-03 CPT Lawrence Draper’s
+        Militia Company
+      </span>
+      <br>
+      <span class="padding">1707 Major General John Hammond, Militia Commander</span>
     </p>
-    <h3 class="pointer" @click="patuxent = !patuxent">
-      Patuxent, later Calvert County (established 1654) &#9662;
-    </h3>
+    <h3
+      class="pointer"
+      @click="patuxent = !patuxent"
+    >Patuxent, later Calvert County (established 1654) &#9662;</h3>
     <p v-show="!patuxent">
-      1655 CPT John Smith, Militia Commander
-      <br />1655 CPT John Smith’s Militia Company <br />1655 CPT Peter Johnson’s
-      Militia Company <br />1656 CPT Woodman Stockley <br />1656 CPT Phillip
-      Morgan’s Militia Company <br />1658 CPT John Odbur’s Militia Company
-      <br />1664-70 CPT Sampson Waring’s Militia Company <br />1665-76 CPT John
-      Cobreath’s Militia Company <br />1668-81 CPT Ninian Beal and the Calvert
-      County Rangers <br />1689 CPT Richard Ladd’s Militia Company <br />1689
-      CPT Henry Mitchell’s Militia Company of Foot <br />1689 CPT Richard
-      Smith’s Militia Company of Foot <br />1689 CPT Thomas Tasker’s Militia
-      Company of Foot <br />1689-98 CPT /MAJ/COL Ninian Beal’ Rangers
-      <br />1689-94 CPT John Bigger’s Rangers <br />1692 CPT Richard
-      Brightwell’s Rangers <br />1694 CPT John Bigger’s Militia Company
-      <br />1694-98 COL Ninian Beal, Militia Commander <br />1694 COL Henry
-      Jowles, Militia Commander
+      <span class="padding">1655 CPT John Smith, Militia Commander</span>
+      <br>
+      <span class="padding">1655 CPT John Smith’s Militia Company</span>
+      <br>
+      <span class="padding">
+        1655 CPT Peter Johnson’s
+        Militia Company
+      </span>
+      <br>
+      <span class="padding">1656 CPT Woodman Stockley</span>
+      <br>
+      <span class="padding">
+        1656 CPT Phillip
+        Morgan’s Militia Company
+      </span>
+      <br>
+      <span class="padding">1658 CPT John Odbur’s Militia Company</span>
+      <br>
+      <span class="padding">1664-70 CPT Sampson Waring’s Militia Company</span>
+      <br>
+      <span class="padding">
+        1665-76 CPT John
+        Cobreath’s Militia Company
+      </span>
+      <br>
+      <span class="padding">
+        1668-81 CPT Ninian Beal and the Calvert
+        County Rangers
+      </span>
+      <br>
+      <span class="padding">1689 CPT Richard Ladd’s Militia Company</span>
+      <br>
+      <span class="padding">
+        1689
+        CPT Henry Mitchell’s Militia Company of Foot
+      </span>
+      <br>
+      <span class="padding">
+        1689 CPT Richard
+        Smith’s Militia Company of Foot
+      </span>
+      <br>
+      <span class="padding">
+        1689 CPT Thomas Tasker’s Militia
+        Company of Foot
+      </span>
+      <br>
+      <span class="padding">1689-98 CPT /MAJ/COL Ninian Beal’ Rangers</span>
+      <br>
+      <span class="padding">1689-94 CPT John Bigger’s Rangers</span>
+      <br>
+      <span class="padding">
+        1692 CPT Richard
+        Brightwell’s Rangers
+      </span>
+      <br>
+      <span class="padding">1694 CPT John Bigger’s Militia Company</span>
+      <br>
+      <span class="padding">1694-98 COL Ninian Beal, Militia Commander</span>
+      <br>
+      <span class="padding">
+        1694 COL Henry
+        Jowles, Militia Commander
+      </span>
     </p>
-    <h3 class="pointer" @click="charles = !charles">
-      Charles County (established 1658) &#9662;
-    </h3>
+    <h3 class="pointer" @click="charles = !charles">Charles County (established 1658) &#9662;</h3>
     <p v-show="!charles">
-      1658-75 CPT Thomas Corwallis’ Militia Company
-      <br />1658 CPT Gerard Fowke’s Militia Company <br />1658-60 CPT John
-      Jenkin’s Militia Company <br />1658 CPT Nicholas Gwither’s Militia Company
-      <br />1659-61 CPT James Langworth’s Militia Company <br />1666 CPT William
-      Boreman’s Militia Company <br />1675-76 CPT John Douglas’ Rangers
-      <br />1676-80 CPT John Wheeler’s Militia Company <br />1681-83 COL William
-      Chandler, Commander of Militia Foot <br />1681 COL Henry Darnall Commander
-      of Militia Horse <br />1682-89 CPT Humphrey Warren’s Militia Company
-      <br />1689-94 CPT John Coats’ Militia Company of Horse <br />1689-94 CPT
-      John Addison’s Militia Company of Horse <br />1694-95 CPT William Dent’s
-      Militia Company <br />1694-95 COL Humphrey Warren, Commander of Militia
-      Foot Troops <br />1695-97 COL John Coats, Militia Commander 1706 CPT
-      Philip Lynes’ Rangers
+      <span class="padding">1658-75 CPT Thomas Corwallis’ Militia Company</span>
+      <br>
+      <span class="padding">1658 CPT Gerard Fowke’s Militia Company</span>
+      <br>
+      <span class="padding">
+        1658-60 CPT John
+        Jenkin’s Militia Company
+      </span>
+      <br>
+      <span class="padding">1658 CPT Nicholas Gwither’s Militia Company</span>
+      <br>
+      <span class="padding">1659-61 CPT James Langworth’s Militia Company</span>
+      <br>
+      <span class="padding">
+        1666 CPT William
+        Boreman’s Militia Company
+      </span>
+      <br>
+      <span class="padding">1675-76 CPT John Douglas’ Rangers</span>
+      <br>
+      <span class="padding">1676-80 CPT John Wheeler’s Militia Company</span>
+      <br>
+      <span class="padding">
+        1681-83 COL William
+        Chandler, Commander of Militia Foot
+      </span>
+      <br>
+      <span class="padding">
+        1681 COL Henry Darnall Commander
+        of Militia Horse
+      </span>
+      <br>
+      <span class="padding">1682-89 CPT Humphrey Warren’s Militia Company</span>
+      <br>
+      <span class="padding">1689-94 CPT John Coats’ Militia Company of Horse</span>
+      <br>
+      <span class="padding">
+        1689-94 CPT
+        John Addison’s Militia Company of Horse
+      </span>
+      <br>
+      <span class="padding">
+        1694-95 CPT William Dent’s
+        Militia Company
+      </span>
+      <br>
+      <span class="padding">
+        1694-95 COL Humphrey Warren, Commander of Militia
+        Foot Troops
+      </span>
+      <br>
+      <span class="padding">
+        1695-97 COL John Coats, Militia Commander 1706 CPT
+        Philip Lynes’ Rangers
+      </span>
     </p>
-    <h3 class="pointer" @click="baltimore = !baltimore">
-      Baltimore County (established 1659) &#9662;
-    </h3>
+    <h3 class="pointer" @click="baltimore = !baltimore">Baltimore County (established 1659) &#9662;</h3>
     <p v-show="!baltimore">
-      1664 COL Lewis Stockett, Militia Commander
-      <br />1678 CPT Thomas Long’s Militia Company of Foot <br />1678 COL George
-      Wells, Commander of Militia Foot <br />1686-88 COL George Wells, Militia
-      Commander <br />1689 CPT Thomas Richardson’s Militia Troop of Horse
-      <br />1689 CPT Henry Johnson’s Militia Company <br />1692 CPT Thomas
-      Richardson’s Rangers <br />1694-98 CPT John Oldton’s Rangers <br />1694-96
-      CPT Thomas Hammond’s Militia Troop of Horse <br />1695-1714 CPT John
-      Dorsey’s Militia Company <br />1695- 1701 COL Thomas Richardson’s Rangers
-      <br />1697-99 CPT Richard Owing’s Rangers <br />1689-90 CPT John Thomas’
-      Militia Company <br />1695-01 COL John Thomas, Militia Commander
-      <br />1701-05 COL Edward Dorsey, Militia Commander <br />1704 CPT Lawrence
-      Draper’s Militia Company
+      <span class="padding">1664 COL Lewis Stockett, Militia Commander</span>
+      <br>
+      <span class="padding">1678 CPT Thomas Long’s Militia Company of Foot</span>
+      <br>
+      <span class="padding">
+        1678 COL George
+        Wells, Commander of Militia Foot
+      </span>
+      <br>
+      <span class="padding">
+        1686-88 COL George Wells, Militia
+        Commander
+      </span>
+      <br>
+      <span class="padding">1689 CPT Thomas Richardson’s Militia Troop of Horse</span>
+      <br>
+      <span class="padding">1689 CPT Henry Johnson’s Militia Company</span>
+      <br>
+      <span class="padding">
+        1692 CPT Thomas
+        Richardson’s Rangers
+      </span>
+      <br>
+      <span class="padding">1694-98 CPT John Oldton’s Rangers</span>
+      <br>
+      <span class="padding">
+        1694-96
+        CPT Thomas Hammond’s Militia Troop of Horse
+      </span>
+      <br>
+      <span class="padding">
+        1695-1714 CPT John
+        Dorsey’s Militia Company
+      </span>
+      <br>
+      <span class="padding">1695- 1701 COL Thomas Richardson’s Rangers</span>
+      <br>
+      <span class="padding">1697-99 CPT Richard Owing’s Rangers</span>
+      <br>
+      <span class="padding">
+        1689-90 CPT John Thomas’
+        Militia Company
+      </span>
+      <br>
+      <span class="padding">1695-01 COL John Thomas, Militia Commander</span>
+      <br>
+      <span class="padding">1701-05 COL Edward Dorsey, Militia Commander</span>
+      <br>
+      <span class="padding">
+        1704 CPT Lawrence
+        Draper’s Militia Company
+      </span>
     </p>
-    <h3 class="pointer" @click="talbot = !talbot">
-      Talbot County (established 1661) &#9662;
-    </h3>
+    <h3 class="pointer" @click="talbot = !talbot">Talbot County (established 1661) &#9662;</h3>
     <p v-show="!talbot">
-      1677 CPT Davis Hopkin’s Militia Company of Foot
-      <br />1689 CPT James Murphy’s Militia Company of Foot <br />1689-96 CPT
-      John Stanley’s Militia Company of Foot <br />1698-1707 Major General
-      Edward Lloyd Militia Commander <br />1699 CPT Nicholas Lowe’s Militia
-      Company
+      <span class="padding">1677 CPT Davis Hopkin’s Militia Company of Foot</span>
+      <br>
+      <span class="padding">1689 CPT James Murphy’s Militia Company of Foot</span>
+      <br>
+      <span class="padding">
+        1689-96 CPT
+        John Stanley’s Militia Company of Foot
+      </span>
+      <br>
+      <span class="padding">
+        1698-1707 Major General
+        Edward Lloyd Militia Commander
+      </span>
+      <br>
+      <span class="padding">
+        1699 CPT Nicholas Lowe’s Militia
+        Company
+      </span>
     </p>
-    <h3 class="pointer" @click="somerset = !somerset">
-      Somerset County (established 1666) &#9662;
-    </h3>
+    <h3 class="pointer" @click="somerset = !somerset">Somerset County (established 1666) &#9662;</h3>
     <p v-show="!somerset">
-      1669-73 CPT William Coleborne’s Militia Company of Horse
-      <br />1672 CPT Thomas Jones’ Militia Company <br />1678-89 COL William
-      Coleborne, Militia Commander <br />1681-86 COL William Stephens, Commander
-      of Militia Horse <br />1683 -94 CPT William Coleborne’s Militia Company
-      <br />1687 COL William Stephens, Militia Commander <br />1689 CPT Charles
-      Ratcliffe’s Militia Company <br />1689 CPT Robert King’s Militia Company
-      <br />1689-94 CPT William Whittington’s Militia Company of Foot
-      <br />1694-1703 CPT Arnold Elzeys’ Militia Company of Foot <br />1694 CPT
-      Benjamin Sauser’s Militia Company of Foot <br />1694 CPT Charles
-      Ratcliffe’s Militia Troop of Horse <br />1697-1709 CPT Thomas Dixon’s
-      Militia Company
+      <span class="padding">1669-73 CPT William Coleborne’s Militia Company of Horse</span>
+      <br>
+      <span class="padding">1672 CPT Thomas Jones’ Militia Company</span>
+      <br>
+      <span class="padding">
+        1678-89 COL William
+        Coleborne, Militia Commander
+      </span>
+      <br>
+      <span class="padding">
+        1681-86 COL William Stephens, Commander
+        of Militia Horse
+      </span>
+      <br>
+      <span class="padding">1683 -94 CPT William Coleborne’s Militia Company</span>
+      <br>
+      <span class="padding">1687 COL William Stephens, Militia Commander</span>
+      <br>
+      <span class="padding">
+        1689 CPT Charles
+        Ratcliffe’s Militia Company
+      </span>
+      <br>
+      <span class="padding">1689 CPT Robert King’s Militia Company</span>
+      <br>
+      <span class="padding">1689-94 CPT William Whittington’s Militia Company of Foot</span>
+      <br>
+      <span class="padding">1694-1703 CPT Arnold Elzeys’ Militia Company of Foot</span>
+      <br>
+      <span class="padding">
+        1694 CPT
+        Benjamin Sauser’s Militia Company of Foot
+      </span>
+      <br>
+      <span class="padding">
+        1694 CPT Charles
+        Ratcliffe’s Militia Troop of Horse
+      </span>
+      <br>
+      <span class="padding">
+        1697-1709 CPT Thomas Dixon’s
+        Militia Company
+      </span>
     </p>
-    <h3 class="pointer" @click="dorchester = !dorchester">
-      Dorchester County (established 1668) &#9662;
-    </h3>
+    <h3
+      class="pointer"
+      @click="dorchester = !dorchester"
+    >Dorchester County (established 1668) &#9662;</h3>
     <p v-show="!dorchester">
-      1676-1685 CPT Henry Tripp’s Militia Company of Foot
-      <br />1678-80 CPT Thomas Taylor’s Militia Company of Foot <br />1681-85
-      CPT Thomas Taylor’s Rangers <br />1687-1703 MAJ Thomas Taylor, Militia
-      Commander <br />1689-93 CPT Thomas Ennal’s Militia Company of Foot
-      <br />1689 CPT John MacKeele’s Militia Company of Foot
+      <span class="padding">1676-1685 CPT Henry Tripp’s Militia Company of Foot</span>
+      <br>
+      <span class="padding">1678-80 CPT Thomas Taylor’s Militia Company of Foot</span>
+      <br>
+      <span class="padding">
+        1681-85
+        CPT Thomas Taylor’s Rangers
+      </span>
+      <br>
+      <span class="padding">
+        1687-1703 MAJ Thomas Taylor, Militia
+        Commander
+      </span>
+      <br>
+      <span class="padding">1689-93 CPT Thomas Ennal’s Militia Company of Foot</span>
+      <br>
+      <span class="padding">1689 CPT John MacKeele’s Militia Company of Foot</span>
     </p>
-    <h3 class="pointer" @click="cecil = !cecil">
-      Cecil County (established 1672) &#9662;
-    </h3>
+    <h3 class="pointer" @click="cecil = !cecil">Cecil County (established 1672) &#9662;</h3>
     <p v-show="!cecil">
-      1683 CPT James Frisby’s Militia Company
-      <br />1684-86 CPT Philimon Murray, Commander of the garrison of Christina
-      Fort <br />1703 COL William Harris, Militia Commander
+      <span class="padding">1683 CPT James Frisby’s Militia Company</span>
+      <br>
+      <span class="padding">
+        1684-86 CPT Philimon Murray, Commander of the garrison of Christina
+        Fort
+      </span>
+      <br>
+      <span class="padding">1703 COL William Harris, Militia Commander</span>
     </p>
-    <h3 class="pointer" @click="george = !george">
-      Prince George’s County (established 1694) &#9662;
-    </h3>
+    <h3 class="pointer" @click="george = !george">Prince George’s County (established 1694) &#9662;</h3>
     <p v-show="!george">
-      1689 and 1698 MAJ Ninian Beal and 10 -12 rangers
-      <br />1694 COL John Addison’s Rangers <br />1694- 97 COL John Addison,
-      Militia Commander <br />1699-1700 COL Ninian Beal, Militia Commander
+      <span class="padding">1689 and 1698 MAJ Ninian Beal and 10 -12 rangers</span>
+      <br>
+      <span class="padding">1694 COL John Addison’s Rangers</span>
+      <br>
+      <span class="padding">
+        1694- 97 COL John Addison,
+        Militia Commander
+      </span>
+      <br>
+      <span class="padding">1699-1700 COL Ninian Beal, Militia Commander</span>
     </p>
-    <hr />
-    <h3>Sources:</h3>
+    <hr>
+    <h3>References:</h3>
     <ol>
       <li>
         Bozman, John “The History of Maryland,” Vol. II, Lucas &amp; Deaver,
@@ -664,12 +1094,4 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-ol {
-  font-size: 80%;
-  color: #444;
-}
-
-.pointer {
-  cursor: pointer;
-}
 </style>

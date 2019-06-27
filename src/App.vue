@@ -107,11 +107,11 @@ h2 {
   color: #a72525;
 }
 h3 {
-  font-size: 1.17em;
+  font-size: 1.25em;
   color: #a72525;
 }
 h4 {
-  font-size: 1.12em;
+  font-size: 1em;
 }
 h5 {
   font-size: 0.83em;
@@ -149,7 +149,8 @@ blockquote {
   font-size: 2.5rem;
 }
 
-ol {
+ol,
+ul {
   font-size: 80%;
   color: #444;
 }
@@ -194,5 +195,16 @@ img {
     width: 27%;
     margin: 0 1rem;
   }
+}
+.center {
+  text-align: center;
+}
+.padding {
+  display: inline-block;
+  width: 80%;
+  padding-left: 5rem;
+}
+.pointer {
+  cursor: pointer;
 }
 </style>

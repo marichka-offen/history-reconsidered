@@ -80,15 +80,14 @@
       <b>1664</b> New Netherlands taken by England
     </p>
     <hr>
-    <h3>Useful Links:</h3>
-    <ul>
-      <li>References:</li>
+    <h3>References:</h3>
+    <ol>
       <li>McKinley Albert E., “The English and Dutch Towns of New Netherlands”, American Historical Review 6 (October 1900):1-18</li>
       <li>Shama, Simon, “The Embarrassment of Riches”</li>
       <li>Aimone, Alan and Barbara, “New Netherlands Defends Itself” Military Collector and Historian, Vol. XXX11 No.2 Summer 1980</li>
       <li>“Documentary History of the State of New York”</li>
       <li>“Charter of the Dutch West India Company 1621”</li>
-    </ul>
+    </ol>
     <h3>Recommended Reading:</h3>
     <ul>
       <li>Merwick, Donna, “Possessing Albany, 1630-1710”</li>

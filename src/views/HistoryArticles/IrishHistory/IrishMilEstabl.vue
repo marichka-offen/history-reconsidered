@@ -131,7 +131,7 @@
       followed General Dorrington into French Service.
     </p>
     <hr>
-    <h3>Sources:</h3>
+    <h3>References:</h3>
     <ol>
       <li>
         Childs, John, "The Army of Charles II," Routledge and Keegan Paul,

@@ -2042,7 +2042,7 @@ Example French Catholic Flags"
     <h6>an old Dutch Saying</h6>
     <p>Calvinist Doctrine expected obedience of the wife towards the husband and the daughter towards her father. Dutch women, however, had unique rights. The Dutch legal system in the 17th century allowed a woman to institute legal proceedings against somebody, even against her husband. If she was unmarried and had not reached the age of adulthood (25) she needed a guardian. An unmarried pregnant woman could persecute the alleged father in a paternity procedure. She could force him to marry her and if he was already married she could demand a dowry, payment of childbirth costs and an allowance for the child. Women were also able to own property.</p>
     <hr>
-    <h3>Sources:</h3>
+    <h3>References:</h3>
     <ol>
       <li>Arnold, Thomas, The Renaissance at War ( London, 2001)</li>
       <li>Benedict, Phillip, ed., Reformation, Revolt and Civl War in France and the Netherlands, 1555-1585 (Amsterdam, 1999)</li>

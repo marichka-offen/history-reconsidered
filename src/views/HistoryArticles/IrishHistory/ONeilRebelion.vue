@@ -273,7 +273,7 @@
       army the need to carry cook pots.
     </p>
     <hr>
-    <h3>Sources:</h3>
+    <h3>References:</h3>
     <ol>
       <li>"The Irish Wars" by Ian Heath and David Sque</li>
       <li>"Elizabeth's Irish Wars" by Cyril Falls.</li>
