@@ -59,7 +59,21 @@
     </router-link>
 
     <!-- COLONIAL HISTORY -->
-    <router-link :to="{ name: 'colonial-history' }">Colonial History</router-link>
+    <router-link :to="{ name: 'colonial-history' }">
+      <span @click="colonial = !colonial">Colonial History</span>
+    </router-link>
+    <router-link :to="{ name: 'british-america' }" v-show="!colonial">
+      <small>British America</small>
+    </router-link>
+    <router-link :to="{ name: 'regulars-va' }" v-show="!colonial">
+      <small>Regulars in VA</small>
+    </router-link>
+    <router-link :to="{ name: 'maryland-forces' }" v-show="!colonial">
+      <small>Maryland Forces</small>
+    </router-link>
+    <router-link :to="{ name: 'va-rangers' }" v-show="!colonial">
+      <small>VA Rangers</small>
+    </router-link>
 
     <!-- THE HUSSITES -->
     <router-link :to="{ name: 'hussites' }">Hussites</router-link>
@@ -73,7 +87,8 @@ export default {
       kent: true,
       irish: true,
       dutch: true,
-      scottish: true
+      scottish: true,
+      colonial: true
     };
   }
 };

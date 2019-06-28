@@ -30,6 +30,11 @@ import Dumbarton from "./views/HistoryArticles/ScottishHistory/Dumbarton.vue";
 import Stuart from "./views/HistoryArticles/ScottishHistory/Stuart.vue";
 // COLONIAL HISTORY
 import ColonialHistory from "./views/HistoryArticles/ColonialHistory/ColonialHistory.vue";
+import BritAmerica from "./views/HistoryArticles/ColonialHistory/BritAmerica.vue";
+import RegularsVA from "./views/HistoryArticles/ColonialHistory/RegularsVA.vue";
+import MarylandForces from "./views/HistoryArticles/ColonialHistory/MarylandForces.vue";
+import VARangers from "./views/HistoryArticles/ColonialHistory/VARangers.vue";
+
 // THE HUSSITES
 import Hussites from "./views/HistoryArticles/Hussites/Hussites.vue";
 
@@ -148,6 +153,26 @@ export default new Router({
       path: "/colonial-history",
       name: "colonial-history",
       component: ColonialHistory
+    },
+    {
+      path: "/colonial-history/british-america",
+      name: "british-america",
+      component: BritAmerica
+    },
+    {
+      path: "/colonial-history/regulars-va",
+      name: "regulars-va",
+      component: RegularsVA
+    },
+    {
+      path: "/colonial-history/maryland-forces",
+      name: "maryland-forces",
+      component: MarylandForces
+    },
+    {
+      path: "/colonial-history/va-rangers",
+      name: "va-rangers",
+      component: VARangers
     },
     {
       path: "/hussites",
