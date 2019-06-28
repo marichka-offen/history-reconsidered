@@ -2,11 +2,7 @@
   <div>
     <h2>The Dutch Military Presence in New Netherlands</h2>
     <div class="image">
-      <img
-        class="image--sm"
-        src="@/assets/images/DutchHistory/sigillum.svg"
-        alt="sigillum novi belgii"
-      >
+      <img class="logo" src="@/assets/images/DutchHistory/sigillum.svg" alt="sigillum novi belgii">
     </div>
     <p>
       In New Netherlands there were two distinct military organizations, one comprised of hired professionals and the other of armed citizens.
@@ -105,5 +101,8 @@ export default {};
 <style lang="scss" scoped>
 img {
   width: 100%;
+}
+.logo {
+  box-shadow: none;
 }
 </style>

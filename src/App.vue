@@ -111,7 +111,7 @@ h3 {
   color: #a72525;
 }
 h4 {
-  font-size: 1em;
+  font-size: 1.1em;
 }
 h5 {
   font-size: 0.83em;
