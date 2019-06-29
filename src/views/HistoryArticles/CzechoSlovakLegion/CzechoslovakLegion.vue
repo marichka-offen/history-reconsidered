@@ -3,7 +3,8 @@
     <h2>The Czechoslovak Legion 1914-1920</h2>
     <p>
       My next book will be
-      <i>None Shall Pass Us by in Silence, The Czechoslovak Legion, 1914-1920</i>.
+      <i>None Shall Pass Us by in Silence, The Czechoslovak Legion, 1914-1920</i
+      >.
     </p>
     <blockquote>
       "Neither the Allies or Vienna will be able to pass us by in silence if we
@@ -30,27 +31,29 @@
       made in the capitals for Europe, numerous Allied armies, and a government
       created in exile for a Czechoslovak state that did not exist, initially,
       except in the minds of its founders.
-      <br>
-      <br>The Legion captured the imagination and commanded the respect of the
+      <br />
+      <br />The Legion captured the imagination and commanded the respect of the
       Allied nations and gave legitimacy to the Czechoslovak government in
       exile’s claim to self-rule.
-      <br>
-      <br>As I write this book, the Legion will remain at the center of the
+      <br />
+      <br />As I write this book, the Legion will remain at the center of the
       story, but it is important to look at a context larger than their actions
       to understand their accomplishments.
-      <br>
-      <br>What they did was no less than earn nationhood for the Czechoslovak
+      <br />
+      <br />What they did was no less than earn nationhood for the Czechoslovak
       people. Watch this page for updates about the book.
-      <br>
-      <br>Here are some images from my personal collection that will be in
+      <br />
+      <br />Here are some images from my personal collection that will be in
       that book:
     </p>
 
     <!-- CAROUSELF WITH IMAGES -->
-    <Slider/>
+    <Slider />
     <!-- CAROUSELF WITH IMAGES -->
 
-    <h3>Following are some of my research resources used to date for the book:</h3>
+    <h3>
+      Following are some of my research resources used to date for the book:
+    </h3>
     <ol>
       <li>
         Ackerman, Carl, “Trailing the Bolsheviki,” Charles Scribner’s Sons, New
@@ -61,7 +64,9 @@
         Press, London 1926
       </li>
       <li>Becvar, Gustav, “The Lost Legion: A Czechoslovakian Epic"</li>
-      <li>Benes, Eduard, “My War Memoirs,” Allen and Unwin, LTD. London, 1928</li>
+      <li>
+        Benes, Eduard, “My War Memoirs,” Allen and Unwin, LTD. London, 1928
+      </li>
       <li>
         Bradley, John,. “ The Czechoslovak Legion in Russia”, East European
         Monographs, Columbia University Press, NY, 1991

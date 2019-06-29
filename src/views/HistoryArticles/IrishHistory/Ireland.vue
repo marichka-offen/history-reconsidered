@@ -12,8 +12,8 @@
       Ireland. Government policy in Ireland represents a deliberate effort to
       isolate in western Ireland or transport overseas the entire Irish Catholic
       population.
-      <br>
-      <br>Toleration of Catholics existed to some degree in England but was
+      <br />
+      <br />Toleration of Catholics existed to some degree in England but was
       completely nonexistent in Ireland. The Cromwellians seemed to believe
       there was collective guilt shared by the Catholics in Ireland for the
       events of 1642. Catholic Priests were viewed as instigators of revolt were
@@ -23,8 +23,8 @@
       Inishbofin for Priests. Hiding a Priest could result in the same
       punishment suffered by the Priests. Catholics were forbidden arms and were
       subject to capital punishment if found with them.
-      <br>
-      <br>The Cromwellians used any means possible to depopulate Ireland of
+      <br />
+      <br />The Cromwellians used any means possible to depopulate Ireland of
       Catholics. Transportation of Irish Catholics to the colonies, particularly
       Jamaica and Barbados, was common. It is estimated that perhaps as many as
       fifty thousand were sent to the colonies. Those transported were referred
@@ -35,36 +35,36 @@
       as a cheaper and therefore more expendable resource that slaves and so
       were, in many cases subject, to far worse treatment. All too often,
       indentured servants did not survive the period of their indenture.
-      <br>
-      <br>Much of the population was displaced as a result in the transfer of
+      <br />
+      <br />Much of the population was displaced as a result in the transfer of
       property and economic hardship. Urban areas tended to be subject to the
       influx of these displaced persons and there are accounts of Dublin being
       virtually overrun by large numbers of women and children reduced to
       begging. During this time many women and children were stolen and
       transported against their will for profit.
-      <br>
-      <br>The Cromwellian Government were also willing to provide soldiers to
+      <br />
+      <br />The Cromwellian Government were also willing to provide soldiers to
       the armies of their enemies in order to remove Irish Catholics from
       Ireland. Upwards of forty thousand Irish Catholic soldiers and their
       families went into the armies of France and Spain. Many of those Catholics
       exiled to the Continent found their way into the service of Spain and
       France, and later into the service of the exiled King Charles II.
-      <br>
-      <br>Other religious groups were subject to suppression but none to the
+      <br />
+      <br />Other religious groups were subject to suppression but none to the
       degree of the Catholics. Quakers were not tolerated and in some cases
       subject to the same punishment as Catholics. Presbyterian Scots received
       limited toleration, depending on perceived political reliability, but in
       some cases were transported to the colonies and all were taxed heavily.
-      <br>
-      <br>Ireland was subject to considerable unrest during the Cromwellian
+      <br />
+      <br />Ireland was subject to considerable unrest during the Cromwellian
       period as a result of the oppression of the Catholic populace. There
       tended to be an increase in unrest when the Government was attempting to
       increase the numbers of those to be transported. Irregular armed groups
       known as Tories, from the Gaelic “Toiridhe”, a pursued person, were a
       presence throughout Ireland and, despite brutal measures, were never
       suppressed.
-      <br>
-      <br>Ireland’s economic productivity suffered during the Cromwellian
+      <br />
+      <br />Ireland’s economic productivity suffered during the Cromwellian
       Period. Agriculture was shifting towards subsistence farming of potatoes
       and away from grains because the potato vines were harder to detect by
       soldiers executing a deliberate policy of crop destruction. Efforts to
@@ -73,21 +73,21 @@
       suffered as well from the imposition of the Navigation Acts, which
       virtually eliminated trade with the continent due to the requirement that
       all trade be done using English ships.
-      <br>
-      <br>Deforestation was occurring at a rapid rate as well. Forests were
+      <br />
+      <br />Deforestation was occurring at a rapid rate as well. Forests were
       removed to clear land for farming, eliminate tory hiding places, charcoal
       production and domestic ship building. Exportation of wood to support ship
       building on the continent came to a virtual halt.
-      <br>
-      <br>The disbandment of Cromwellian soldiers who were promised land was
+      <br />
+      <br />The disbandment of Cromwellian soldiers who were promised land was
       slowed by the presence of tories and the ineffectual manner in which the
       settlement was conducted. By 1655 fifteen thousand soldiers had been
       disbanded in Ireland. Some of the soldiers were seizing property whether
       it was occupied or not and many who had been given land were dissatisfied
       with it. Many of the disbanded soldiers intermarried with the Irish
       Catholics and were accused of becoming Catholics themselves.
-      <br>
-      <br>Cromwell died on 3 September 1658 while suffering from a relapse of
+      <br />
+      <br />Cromwell died on 3 September 1658 while suffering from a relapse of
       the malaria he contracted during his genocidal campaign in Ireland. By
       1659, the Commonwealth Army in Ireland consisted of three regiments of
       horse (Lord Lieutenant’s, Wallis’, Redman’s) Abbot’s Dragoons and four
@@ -112,8 +112,8 @@
       understanding that the repayment would be in Irish land taken from those
       landowners in rebellion. Some land was to be taken from Protestant
       Royalists and those that kept their land were forced to pay fines.
-      <br>
-      <br>In May of 1654 the Commonwealth Government ordered that the move of
+      <br />
+      <br />In May of 1654 the Commonwealth Government ordered that the move of
       the dispossessed Irish be expedited, calling for the death penalty for
       non-compliance. Numerous temporary stays of transportation were granted
       and subsequent surveys made it clear that there was not enough land to
@@ -143,8 +143,8 @@
       the 1660’s with over a thousand ale houses in the city. A national postal
       system was established in Dublin in 1670 and the first Irish newspaper was
       started in 1685.
-      <br>
-      <br>Even with increasing prosperity Ireland was an unstable place with
+      <br />
+      <br />Even with increasing prosperity Ireland was an unstable place with
       large segments of the population in poverty and dissatisfied by Government
       Policy, the greatest source of dissatisfaction being the Settlement.
       Lawlessness was rampant, the threat of revolt by Cromwellians or
@@ -164,8 +164,8 @@
       in “postponement,” which was, in effect, dismissal of the claim. There was
       a deliberate effort to make a claim of Innocence difficult, if not
       impossible.
-      <br>
-      <br>The Commissioners began work in March of 1661 and heard few if any
+      <br />
+      <br />The Commissioners began work in March of 1661 and heard few if any
       claims in the year they were in session. A second Court of Claims was
       established to hear the claims of Innocence made by Irish Catholics in
       September of 1662. The Court of Claims was to be in session a year and in
@@ -173,8 +173,8 @@
       of the plaintiffs were women and half of those were making petitions for
       return of their own property. The Court of Claims was reopened in 1666 to
       hear Protestant claims and once again found itself overwhelmed.
-      <br>
-      <br>Those who had received land as a result of the Cromwellian
+      <br />
+      <br />Those who had received land as a result of the Cromwellian
       Settlement who were not implicated for crimes against the Restoration
       regime, (i.e., Regicides of Charles I) who were subject to losing land as
       a result of the new settlement were to be reimbursed for the loss of that
@@ -203,8 +203,8 @@
     <p>
       With this royal warrant, the first foot regiment in the post restoration
       Irish Military Establishment came into being.
-      <br>
-      <br>The King’s Regiment of Guards in the Kingdom of Ireland finds it
+      <br />
+      <br />The King’s Regiment of Guards in the Kingdom of Ireland finds it
       origins in a Regiment raised out of Connaught by George Cusack in 1653.
       George Cusack held the garrison of Inishbofin against Parliament, with the
       support of the Duke of Lorraine, until 1653. Cusack based on his
@@ -216,8 +216,8 @@
       men and commanded by Colonel George Grace. The regiment fought at the
       Battle of the Dunes in 1658, an abortive Spanish attempt to relieve the
       French-English siege of Dunkirk.
-      <br>
-      <br>Some of the men of the regiment and many of the officers were
+      <br />
+      <br />Some of the men of the regiment and many of the officers were
       transferred to England for service in Ireland in 1662. Those that remained
       in the Spanish Netherlands were sent to Tangier. The Marquis, now First
       Duke of Ormond, the Viceroy of Ireland while in exile, and now the Lord
@@ -234,8 +234,8 @@
       Cross of St George or the Cross of St Patrick, used by the Viceroys of
       Ireland. The regimental colors remain a mystery, but some clues exist in
       the following warrant:
-      <br>
-      <br>"Yellow Taffey and Crimson for 12 Coulours for a Regiment of Foot
+      <br />
+      <br />"Yellow Taffey and Crimson for 12 Coulours for a Regiment of Foot
       and that you cause Our badges to be painted and guilded thereon, and that
       you deliver the same parcels of taffey at the same rate they were
       furnished for Our Regiment of Foot….and that you deliver the same to Our
@@ -265,8 +265,8 @@
       four companies of Guards sailed to Carrickfergus and put down the uprising
       in two days. The one hundred and ten mutineers were court-martialed and
       the two companies were disbanded.
-      <br>
-      <br>The Establishment was reorganized in 1672 with the five existing
+      <br />
+      <br />The Establishment was reorganized in 1672 with the five existing
       regiments of Horse and the troop of Life Guards and five regiments of foot
       (Massie’s, Howth’s, Power’s, Gore’s and Lord Lieutenant’s), and the
       Guards. Little or nothing changed in terms of the dispersed nature of the
@@ -280,8 +280,8 @@
       was the only way they could feed themselves. Soldiers were given to
       furtively taking up a trade to survive and by 1676 this was an accepted
       practice. Command of the Guards went to Lord Ossory in 1674.
-      <br>
-      <br>In 1684, renewed interest in the Irish military situation led to a
+      <br />
+      <br />In 1684, renewed interest in the Irish military situation led to a
       reestablishment and organization of the Irish Military Establishment under
       Arthur, Lord Forbes, Earl of Granard and the Marshal of Ireland. There
       were two regiments of horse (Ormond’s and Arran’s) and a Troop of Life
@@ -291,8 +291,8 @@
       to Ulster to disarm potential rebels. In 1685, Granard's Regiment was sent
       to England in response to Monmouth's Rebellion and returned to Ireland
       shortly thereafter.
-      <br>
-      <br>As a result of the 1685 purging of Protestants from the Military
+      <br />
+      <br />As a result of the 1685 purging of Protestants from the Military
       Establishment of Ireland by the Earl of Tyrone, Arran's Regiment of Horse
       became Talbot's Regiment of Horse and Ormond's Regiment of Foot went to
       Justin Mac Carthy. Hamilton’s Regiment of Dragoons was established in
@@ -303,8 +303,8 @@
       5,043 were Catholics and of the 406 officers, 166 were Catholics, with
       Protestant numbers declining steadily until 1688. MacElligot’s Regiment of
       Foot was formed in 1688.
-      <br>
-      <br>In 1688, King James II had MacElligot’s Regiment of Foot, A
+      <br />
+      <br />In 1688, King James II had MacElligot’s Regiment of Foot, A
       Battalion of the Guards Regiment and Granard's Regiment of Foot
       transferred to England in preparation for a possible Dutch invasion.
       Tyrconnel stood up new regiments to replace those sent to England. Of
@@ -322,27 +322,64 @@
       of the fourteen hundred soldiers of the Royal Regiment of Foot Guards
       followed General Dorrington into French Service.
     </p>
-    <hr>
+    <hr />
     <h3>References:</h3>
     <ol>
-      <li>Childs, John, "The Army of Charles II," Routledge and Keegan Paul, London, 1976</li>
-      <li>Childs, John, "The Willaimite Wars in Ireland, 1688-1691", Hambledon Continuum, London, 2007</li>
-      <li>Cannon, Richard, "Historical Record of the Eighteenth or Royal Irish Regiment of Foot" Parker, Furnival and Parker, London, 1848</li>
-      <li>Ellis, Peter, “Hell or Connaught, The Cromwellian Colonization of Ireland, 1652-1660,” Blackstaff Press, Belfast, 1975</li>
-      <li>Falkiner, C. Litton, "The Irish Guards, 1661-1798," Proceedings of the Royal Irish Academy, Vol 24, Dublin, 1904</li>
+      <li>
+        Childs, John, "The Army of Charles II," Routledge and Keegan Paul,
+        London, 1976
+      </li>
+      <li>
+        Childs, John, "The Willaimite Wars in Ireland, 1688-1691", Hambledon
+        Continuum, London, 2007
+      </li>
+      <li>
+        Cannon, Richard, "Historical Record of the Eighteenth or Royal Irish
+        Regiment of Foot" Parker, Furnival and Parker, London, 1848
+      </li>
+      <li>
+        Ellis, Peter, “Hell or Connaught, The Cromwellian Colonization of
+        Ireland, 1652-1660,” Blackstaff Press, Belfast, 1975
+      </li>
+      <li>
+        Falkiner, C. Litton, "The Irish Guards, 1661-1798," Proceedings of the
+        Royal Irish Academy, Vol 24, Dublin, 1904
+      </li>
 
-      <li>Gardiner, Samuel Dawson, “The History of the Commonwealth and Protectorate, 1649-1660.” Vol. III, 1654-1656, Longman Green and Co., London, 1901</li>
+      <li>
+        Gardiner, Samuel Dawson, “The History of the Commonwealth and
+        Protectorate, 1649-1660.” Vol. III, 1654-1656, Longman Green and Co.,
+        London, 1901
+      </li>
 
-      <li>MacLysaght, Edward, “Irish Life in the Seventeenth Century,” Irish Academic Press, Dublin, 1979</li>
+      <li>
+        MacLysaght, Edward, “Irish Life in the Seventeenth Century,” Irish
+        Academic Press, Dublin, 1979
+      </li>
 
-      <li>MacRay, W. Dunn, ed. “Calendar of the Clarendon State Papers,” Vol. III. 1655-57 Clarendon Press, Oxford, 1876</li>
+      <li>
+        MacRay, W. Dunn, ed. “Calendar of the Clarendon State Papers,” Vol. III.
+        1655-57 Clarendon Press, Oxford, 1876
+      </li>
 
-      <li>Mahaffey, Robert., “State Papers Relating to Ireland Preserved in the Public Record Office, 1660-62” MacKie and Company, London, 1905</li>
+      <li>
+        Mahaffey, Robert., “State Papers Relating to Ireland Preserved in the
+        Public Record Office, 1660-62” MacKie and Company, London, 1905
+      </li>
 
-      <li>O’Callaghan, John Cornelius, “History of the Irish Brigades in the Service of France,” Cameron and Ferguson, Glasgow, 1870</li>
+      <li>
+        O’Callaghan, John Cornelius, “History of the Irish Brigades in the
+        Service of France,” Cameron and Ferguson, Glasgow, 1870
+      </li>
 
-      <li>O’Dowd, Mary, “A History of Women in Ireland, 1500-1800,” Pearson Longman, Harlow, 2005</li>
-      <li>Petrie, Sir Charles, “The Great Tyrconnel, A Chapter in Anglo-Irish Relations,” Mercier Press, Dublin, 1972</li>
+      <li>
+        O’Dowd, Mary, “A History of Women in Ireland, 1500-1800,” Pearson
+        Longman, Harlow, 2005
+      </li>
+      <li>
+        Petrie, Sir Charles, “The Great Tyrconnel, A Chapter in Anglo-Irish
+        Relations,” Mercier Press, Dublin, 1972
+      </li>
       <li>Tessin List for Great Britain</li>
     </ol>
   </div>
@@ -352,5 +389,4 @@
 export default {};
 </script>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>
