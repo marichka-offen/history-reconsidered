@@ -10,7 +10,9 @@
     </router-link>
 
     <!-- CZECHOSLVAK LEGION -->
-    <router-link :to="{ name: 'czechoslovak-legion' }">Czechoslovak Legion</router-link>
+    <router-link :to="{ name: 'czechoslovak-legion' }"
+      >Czechoslovak Legion</router-link
+    >
 
     <!-- IRISH HISTORY -->
     <router-link :to="{ name: 'irish-history' }">
@@ -73,6 +75,9 @@
     </router-link>
     <router-link :to="{ name: 'va-rangers' }" v-show="!colonial">
       <small>VA Rangers</small>
+    </router-link>
+    <router-link :to="{ name: 'severn-battle' }" v-show="!colonial">
+      <small>Battle of the Severn</small>
     </router-link>
 
     <!-- THE HUSSITES -->
