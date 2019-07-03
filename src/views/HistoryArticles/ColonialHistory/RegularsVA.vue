@@ -6,15 +6,15 @@
       from the Vice Governor of Virginia, Sir William Berkeley, with word of a
       rebellion by the colonists. The Governor, Thomas Lord Culpepper, had been
       the governor for life since 1675 but had not yet even seen the colony.
-      <br />
-      <br />Acting with uncharacteristic speed, by 1 October King Charles II had
+      <br>
+      <br>Acting with uncharacteristic speed, by 1 October King Charles II had
       “resolved to send thither forthwith a thousand men to quell these
       mutineers.” For the time, this was a major expedition incurring
       considerable cost for a government that was always short of money. The
       speed with which this decision was made, is second only to the speed with
       which the expedition was organized and sent.
-      <br />
-      <br />Within four more days, commissions for five foot companies, one each
+      <br>
+      <br>Within four more days, commissions for five foot companies, one each
       from existing standing regiments, were signed, and Jeffreys’ Regiment of
       Foot came into being. The Regiment was staffed as follows:
     </p>
@@ -64,7 +64,7 @@
         </tr>
       </table>
     </div>
-    <br />
+    <br>
     <div>
       <li>Adjutant CPT William Morris</li>
       <li>Quartermaster and Marshal LT John Tongue</li>
@@ -115,9 +115,7 @@
       William Meole's company two colours, the ground green with a red cross in
       a white field.”
     </blockquote>
-    <h6>
-      Calendar of State Papers Colonial, America and West Indies,Vol. 9, 1675-76
-    </h6>
+    <h6>Calendar of State Papers Colonial, America and West Indies,Vol. 9, 1675-76</h6>
     <p>
       The regiment carried additional equipment including 700 muskets, 300
       pikes, 4 small field pieces 3 pounders, 2 small mortar pieces, 1,000 hand
@@ -167,9 +165,7 @@
       Morgan and the rest of the officers to make up 69 men. Total, 1,094
       officers and men on board eight ships.”
     </blockquote>
-    <h6>
-      Calendar of State Papers Colonial, America and West Indies, Vol 9, 1675-76
-    </h6>
+    <h6>Calendar of State Papers Colonial, America and West Indies, Vol 9, 1675-76</h6>
     <p>
       The first ship arriving at the ruins of Jamestown was the Bristol ( not
       mentioned in the above extract, along with Dartmouth, Rose and Deptford)
@@ -190,28 +186,28 @@
       at the Middle Plantation and one was sent to New Kent County. Those
       stationed at the outlying locations were recalled to the Middle Plantation
       in late May.
-      <br />
-      <br />In May 1677, Colonel Jeffreys, now made the Lieutenant Governor to
+      <br>
+      <br>In May 1677, Colonel Jeffreys, now made the Lieutenant Governor to
       replace Lord Berkeley, was ordered to return to England leaving behind one
       hundred men and any of the soldiers who wished to stay as colonists.
       Elements of the Regiment returning to England were not to depart for
       another seven months. Those soldiers that remained in service from the 2nd
       Guards, Holland Regiment and Admirals Regiment changed their coats for the
       red with blue facings of the First Guards.
-      <br />
-      <br />The Commissioners, as part of their mission to Virginia, established
+      <br>
+      <br>The Commissioners, as part of their mission to Virginia, established
       peace with the local tribes and chose the Middle Plantation as the
       location for the ceremonial signing which took place on the King’s
       Birthday, 29 May 1677. The Regiment was paraded for this event at which,
       with their followers, “were present the Queen of the Pamunkey, her son,
       Captain John West, The Queen of Weyanoke, the King of the Nottoways, and
       King of the Nansemonds.”
-      <br />
-      <br />Part of the Regiment under the command of Lieutenant Tongue, was
+      <br>
+      <br>Part of the Regiment under the command of Lieutenant Tongue, was
       sent to Isle of Wight and Nansemond from mid July 1677 to January 1678.
       During the same time, part of the regiment was in James and York Counties.
-      <br />
-      <br />On 10 January 1678 the Unity took part of the Regiment back to
+      <br>
+      <br>On 10 January 1678 the Unity took part of the Regiment back to
       England, arriving at Gravesend on 23 March with Lieutenant Rous with 76
       soldiers from Colonel Jeffreys’ Company, Captain Mutlowe with Lieutenant
       Troutbeck and 67 soldiers, and Captain Picts with Ensign Saville and 74
@@ -231,8 +227,8 @@
       Lieutenant Walter Morgan, Second Lieutenant Thomas Sanders, Ensign George
       Agne, Ensign Grimes, Captain Ralph Delaval and Ensign Francis Wheeler for
       a total of 16 Officers.
-      <br />
-      <br />A second group of soldiers under command of Lieutenant Collier of
+      <br>
+      <br>A second group of soldiers under command of Lieutenant Collier of
       Picks’ Company arrived in England in April/May of 1678. An entry in the
       “Calendar of States Papers Colonial, America and West Indies” states that
       there were a total of 375 soldiers returned to England from Virginia out
@@ -244,8 +240,8 @@
       company from 2nd Guards as well. Could it be that those who chose to stay
       in Virginia as civilians were predominantly from the Duke of York’s
       Regiment and the Holland Regiment?
-      <br />
-      <br />In November of 1678, Jeffreys led his company to the Falls of the
+      <br>
+      <br>In November of 1678, Jeffreys led his company to the Falls of the
       James in response to an Indian attack on the frontier, arriving too late
       to make a difference. A party of thirteen Oneida were attacked by eighteen
       mounted Virginians and the Oneida killed two horsemen and their horses.
@@ -253,15 +249,15 @@
       captive. The captives were returned to Virginia agents in early 1679 as a
       result of the intercession of the then Governor of New York, Sir Edmund
       Andros, who had a treaty with the Oneida.
-      <br />
-      <br />Plans for a second company in Virginia began in August of 1678, two
+      <br>
+      <br>Plans for a second company in Virginia began in August of 1678, two
       months after Lieutenant Collier and his men returned to England, with the
       granting of a commission to Thomas, Lord Culpepper, Governor of Virginia
       as Captain of a Company of Foot along with Thomas Leigh, Lieutenant and
       William Armiger, Ensign. It would not be until September 1679 that the
       Company would embark for Virginia.
-      <br />
-      <br />In December of 1678 Colonel Herbert Jeffreys’ died and was replaced
+      <br>
+      <br>In December of 1678 Colonel Herbert Jeffreys’ died and was replaced
       by Sir Henry Chicheley as Lieutenant Governor and Captain of Jeffreys’
       Company. The Colony of Virginia established at their own expense, in April
       1679, four garrison and store houses that were to be constructed at the
@@ -274,15 +270,15 @@
       lack of pay. By 1681 Chicheley’s Company, or elements of it, was paid for
       musters as opposed to continuous service, having served seven musters of
       fourteen months from May 1678 to July 1680.
-      <br />
-      <br />Captain Morris, the adjutant to Jeffreys’ Regiment, was still in
+      <br>
+      <br>Captain Morris, the adjutant to Jeffreys’ Regiment, was still in
       service in the Virginia Companies as late as 1681 reporting to the Lords
       of Trade and Plantations in October of that year that both companies were
       four soldiers short of being at full strength and that the extreme poverty
       of the colony was a source of potential unrest. His observations proved to
       be prescient in that there was a rash of tobacco cutting in May of 1682.
-      <br />
-      <br />The cutting of tobacco plants while still in the fields occurred in
+      <br>
+      <br>The cutting of tobacco plants while still in the fields occurred in
       response to low tobacco prices and seems to have been a hysterical effort
       to raise the value of the remaining tobacco. This civil disturbance
       occurred at the same time as the disbandment of Chicheley’s and
@@ -310,35 +306,39 @@
       colony but there is a reoccurrence of a few of their names in positions of
       responsibility in colonial service so they continued to have some
       influence on events.
-      <br />
-      <br />The Regiment was unique in terms of retaining unit of origin colours
+      <br>
+      <br>The Regiment was unique in terms of retaining unit of origin colours
       and uniforms and the speed with which the unit was formed and deployed.
       The regiment and follow on companies also represent one of the first
       examples of a trend in sending British Regulars to colonies in the
       Caribbean and North America in order to assert control over colonies that
       in most cases had been for the most part ignored or left alone by the
       Crown.
-      <br />
-      <br />The record of Jeffreys Regiment and the companies that followed it
+      <br>
+      <br>The record of Jeffreys Regiment and the companies that followed it
       is frustratingly incomplete. You will find large gaps in time for which we
       found no information about the units and their activities. There also is a
       real lack of information about the soldiers and officers who served. Any
       insights or sources that would help make a more complete record would be
       greatly appreciated
     </p>
-    <hr />
-    <h3>Notes on References</h3>
+    <hr>
+    <h3>Notes on Sources</h3>
     <p>
       This article would not have been possible without two internet sites, the
       first and foremost being
-      <a href="http://www.british-history.ac.uk">British History Online</a>
+      <a
+        href="http://www.british-history.ac.uk"
+      >British History Online</a>
       where an ever expanding amount of British Domestic and Colonial primary
       source documents are being put online. The second website
-      <a href="http://books.google.com/">Google Books</a> is a valuable
+      <a
+        href="http://books.google.com/"
+      >Google Books</a> is a valuable
       resource.
     </p>
 
-    <h3>References:</h3>
+    <h3>Sources:</h3>
     <ol>
       <li>
         Cannon, Richard, “Historical Record of the British Army, the Third

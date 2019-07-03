@@ -11,8 +11,8 @@
       Scotland and ruled it through a Scottish Privy Council. He was
       instrumental in the establishment of English and Scottish settlements in
       Ireland, called Plantations, displacing Irish Catholic natives.
-      <br />
-      <br />James was followed by his son, Charles I, who ruled from 1624
+      <br>
+      <br>James was followed by his son, Charles I, who ruled from 1624
       to1649. He was a Protestant but irritated English Protestant Puritans with
       his tolerance of Catholics and failure to include any, but a few
       favorites, in his policy and decision making. His wife was a Catholic,
@@ -36,8 +36,8 @@
       multi-faction civil war in Ireland and slaughtered or relocated the
       Catholic Irish inhabitants. Cromwell ruled England, Scotland and Ireland
       until his death in 1659, and was replaced by his incompetent son.
-      <br />
-      <br />Charles II, already King of the Scots, was invited in 1660 to take
+      <br>
+      <br>Charles II, already King of the Scots, was invited in 1660 to take
       the Throne of England and Ireland and ruled all three until 1685.
       Disdainful of Scotland, he never saw it after 1651, but ruled it through a
       Scottish Privy Council that brutally suppresses the dissenting Lowland
@@ -47,8 +47,8 @@
       Louis XIV. James, Duke of York, the heir to the Throne, made a very public
       declaration of his conversion to Catholicism causing a crisis in which
       Charles’ support of James as his successor never wavered.
-      <br />
-      <br />After the death of Charles II, James II and VII, ruled uncontested
+      <br>
+      <br>After the death of Charles II, James II and VII, ruled uncontested
       from 1685-1688. The Protestant English were disturbed by his Catholicism,
       as well as his inclination to place fellow Catholics in positions of
       authority in the army and government, but tolerated him as long as they
@@ -63,8 +63,8 @@
       English army went over to William of Orange and James, his family, and
       many of his adherents, fled England for France. The English Parliament
       declared him to have abdicated the Throne after he left.
-      <br />
-      <br />The English Parliament offered William of Orange and his wife Mary,
+      <br>
+      <br>The English Parliament offered William of Orange and his wife Mary,
       James’s eldest daughter the Throne on 31 January 1689, which they accepted
       jointly. In April 1689 the Scottish Convention of the Estates decided that
       James had forfeited the Scottish crown and recognized William and Mary as
@@ -81,14 +81,14 @@
       Armies arrived and defeated him at the Boyne River, after which James
       returned to France. The Army of James was defeated and forced to surrender
       and depart for France in 1691.
-      <br />
-      <br />Like this and all subsequent Stuart attempts to regain the Throne of
+      <br>
+      <br>Like this and all subsequent Stuart attempts to regain the Throne of
       England, Ireland and Scotland, support from France was minimal and
       demonstrated a willingness to support the Stuarts as long as France was at
       war with England while involving as few troops and spending at little as
       possible.
-      <br />
-      <br />In 1691 the government in Scotland established a deadline of 1
+      <br>
+      <br>In 1691 the government in Scotland established a deadline of 1
       January 1692 for all the clan chiefs to take a loyalty oath to William. In
       the view of the clan chiefs, permission to take this oath had to be
       granted by James, which was forthcoming on 29 December 1691. There was a
@@ -109,8 +109,8 @@
       1697 Peace of Ryswick between France and England the French recognized
       William as King of England, and agreed to permanently stop all military
       support to James. James left France for Rome.
-      <br />
-      <br />In 1698 many in Scotland realized that the accumulation of wealth
+      <br>
+      <br>In 1698 many in Scotland realized that the accumulation of wealth
       required colonial possessions and being hindered from access to English
       colonies, a subscription was raised from all of Scotland to establish a
       colony in Central America called Darien. The climate proved deadly and
@@ -118,8 +118,8 @@
       expedition to the starving colony in 1699. The Darien settlement was
       abandoned in 1700 and with it went a considerable amount of Scottish
       capital.
-      <br />
-      <br />In 1701, James died and war broke out between England and France. On
+      <br>
+      <br>In 1701, James died and war broke out between England and France. On
       the death of James II and VII, his son, James Francis Stuart was
       proclaimed the King of England, Scotland and Ireland, James III and VIII
       in exile. In 1702 William died as a result of a riding accident in which
@@ -130,8 +130,8 @@
       which barred Catholics from English Throne. The Succession was conveyed to
       Sophia the Electress of Hannover and her heirs. This act ensured that King
       James could not take the English throne.
-      <br />
-      <br />In 1703 the Scottish the Parliament passed the Act of Security
+      <br>
+      <br>In 1703 the Scottish the Parliament passed the Act of Security
       giving Scotland the right to decide who would be the monarch of Scotland
       and the Act of Peace and War giving Scotland the right to decide when it
       would go to war. Queen Anne reluctantly gave her assent, and the stage was
@@ -155,13 +155,13 @@
       last Scottish Parliament met on 25 March, 1707. The act of Union ended
       Scottish independence as a separate kingdom and caused considerable
       hostility in Scotland, to the benefit of the Jacobite cause.
-      <br />
-      <br />In 1708 James attempted a landing in Scotland with French troops.
+      <br>
+      <br>In 1708 James attempted a landing in Scotland with French troops.
       The French naval commander refused to land troops as highlanders were
       rowing out to greet the fleet in the Firth of Forth. With the appearance
       of an English fleet, the French ships fled back to France.
-      <br />
-      <br />In 1713 the Terms of the Treaty of Utrecht between France and
+      <br>
+      <br>In 1713 the Terms of the Treaty of Utrecht between France and
       England forced James to leave France for Rome where he remained for the
       rest of his life. In the latter years of Anne’s reign there was
       considerable hope that she would approach James asking him to take the
@@ -194,8 +194,8 @@
       extent, lowland societies where the landed aristocracy expected tenants to
       turn out in support of the landowners cause. Both the lowlands and
       highlands turned out equally for Mar in relatively large numbers.
-      <br />
-      <br />Inverness was occupied by the Jacobites on the 12 of September, but
+      <br>
+      <br>Inverness was occupied by the Jacobites on the 12 of September, but
       was back in government hands by November. Dundee was taken without a shot
       by Jacobite forces on 16 September and Perth fell to 40 Jacobites on the
       17th after a truce and surrender of arms by 150 plus government
@@ -206,8 +206,8 @@
       300 augmented by Scots from north of the Border. Victory by intimidation
       as opposed to actual combat was the rule during the early stages of the
       uprising.
-      <br />
-      <br />In September government forces began moving into Scotland from
+      <br>
+      <br>In September government forces began moving into Scotland from
       England and Ireland but not in sufficient numbers to satisfy the
       government military commander in Scotland, the Duke of Argyll. The
       government remained, throughout the uprising, more concerned about keeping
@@ -216,8 +216,8 @@
       outnumbered by the Jacobites, established a blocking position along the
       river Tay and continued to recruit and train government supporters to
       augment his army of approximately 3,500 regulars.
-      <br />
-      <br />Throughout October, small scale raiding by both sides ensued in
+      <br>
+      <br>Throughout October, small scale raiding by both sides ensued in
       Scotland while the Jacobites trained, recruited and armed their unprepared
       soldiers. A southern Scottish and northern English army began to coalesce
       in early October and made its way into England on 1 November with
@@ -225,8 +225,8 @@
       with only perhaps as many as 200 men, until it got to Preston. At Preston,
       government forces surrounded the Jacobite army in the town on the 12 of
       November and accepted the Jacobite surrender on the 14th.
-      <br />
-      <br />By the first of November the Earl of Mar had assembled a force of
+      <br>
+      <br>By the first of November the Earl of Mar had assembled a force of
       approximately 9,000 soldiers at Perth from the west and east of Scotland.
       The Jacobite force under the command of General George Hamilton moved
       south towards the Forth west of Stirling on the 11th in an effort to
@@ -238,23 +238,23 @@
       approximately 1,000 men it could ill afford and the Jacobites lost
       approximately 1,500. Jacobite losses were exacerbated by the departure of
       as many as half of the remaining army of 7,500 after the battle.
-      <br />
-      <br />After Sherrifmuir, some of the Scottish nobles attempted to
+      <br>
+      <br>After Sherrifmuir, some of the Scottish nobles attempted to
       negotiate a peace with the Duke of Argyll. Argyll was in favor of offering
       an honorable peace but the English government insisted on total
       capitulation. The unwillingness of the government to negotiate gave the
       Jacobites nothing to lose and increased the will to resist and hope of
       French support.
-      <br />
-      <br />In early December, General Cadogan arrived in Scotland to take
+      <br>
+      <br>In early December, General Cadogan arrived in Scotland to take
       command of government forces, replacing the Earl of Argyll and setting the
       stage for a more aggressive approach to dealing with the Scottish
       Jacobites. James arrived in Scotland on 22 December with 2 attendants, no
       money, no arms and no soldiers while many Scottish nobles had returned to
       their estates to begin gathering their forces for the coming spring
       campaign.
-      <br />
-      <br />On the 27th of January government forces launched a winter offensive
+      <br>
+      <br>On the 27th of January government forces launched a winter offensive
       from Stirling and Dunblane to Perth unopposed. The Jacobites retreated
       from Perth to Dundee. The government army had no artillery and was, low on
       rations and marching in near arctic winter conditions as the Jacobites
@@ -274,8 +274,8 @@
       permitted to return to their pre-uprising lives. The harshest penalty
       suffered by the Scots was a Disarming Act of 1716 forbidding all Scots in
       the highlands, regardless of loyalty, from carrying weapons.
-      <br />
-      <br />In 1719, an Anglo-French alliance declared war on Spain. In an
+      <br>
+      <br>In 1719, an Anglo-French alliance declared war on Spain. In an
       effort to open a second front, the Spanish and Jacobites planned an
       invasion of England with a small diversionary force in Scotland. The main
       force was destroyed in bad weather but the diversionary force landed at
@@ -287,8 +287,8 @@
       the highlands. That same year James married Climentia Sobieski the
       following year his son and heir Charles Edward born, followed by another
       son Henry in 1725.
-      <br />
-      <br />General George Wade was appointed the military commander of North
+      <br>
+      <br>General George Wade was appointed the military commander of North
       Britain in 1724. His first act was to put down malt tax riots in Glasgow.
       In 1725 General Wade began construction of a road network n the highlands
       to facilitate the movement of men and materiel. By 1738 the network
@@ -299,22 +299,22 @@
       century Fort William, the southernmost of the forts in the Great Glen.
       Other lesser garrisons were established at Ruthven and Bernera. In 1727
       George I died, and the equally unpopular George II ascended to the Throne.
-      <br />
-      <br />Scottish efforts to avoid payment of the hated malt tax resulted in
+      <br>
+      <br>Scottish efforts to avoid payment of the hated malt tax resulted in
       aggressive smuggling of malt from Germany. In 1736, the arrest of three
       smugglers and execution of one of them resulted in riots in the death of
       six rioters at the hands of the Edinburgh City Guard. The commander of the
       City Guard, John Porteous, was charged with murder, sentenced to death and
       lynched by a mob before the sentence could be appealed or carried out.
-      <br />
-      <br />In 1740 the War of Austrian Succession between France and Britain
+      <br>
+      <br>In 1740 the War of Austrian Succession between France and Britain
       created renewed interest on the part of the French in opening a second
       front to distract the English on the continent. Seeing the opportunity for
       a Jacobite uprising in Scotland, a group of nobles sent a petition to the
       French in March of 1741 promising an army of 20,000 soldiers if the French
       sent the Irish Brigade to Scotland. There was no response to the petition.
-      <br />
-      <br />A French force was assembled for an invasion of England and Scotland
+      <br>
+      <br>A French force was assembled for an invasion of England and Scotland
       in early 1744. The invasion force consisted of 20,000 French regulars. The
       3,000 man Irish Brigade under the Earl Marischal was to be a diversionary
       force landing in Scotland. Prince Charles was summoned from Rome to France
@@ -325,8 +325,8 @@
       by two successive storms in February and March and the invasion was called
       off. This was the last planned large scale French effort on behalf of the
       Jacobites.
-      <br />
-      <br />In late 1744 Charles was introduced to a group of Irish privateers
+      <br>
+      <br>In late 1744 Charles was introduced to a group of Irish privateers
       and slaver traders who operated out of northern French ports. They had
       Jacobite sympathies, a desire to distract the Royal Navy from their
       privateering activities and supported Prince Charles in his effort to take
@@ -351,15 +351,15 @@
       small Scottish Catholic minority was willing to support James if granted
       toleration, but in the case of Keppoch’s regiment and others, when they
       were denied their own Priest they deserted.
-      <br />
-      <br />Charles was equally convinced that English disaffection over the
+      <br>
+      <br>Charles was equally convinced that English disaffection over the
       imposition of excise and property taxes and a legal code that favored the
       propertied classes would result in armed support. This view was more
       informed by his Irish councilors in France than any intelligence gathered
       in England. His English supporters promised little, and in the final
       analysis, delivered less.
-      <br />
-      <br />After writing letters to his father and Louis XV asking for support,
+      <br>
+      <br>After writing letters to his father and Louis XV asking for support,
       delivered after his departure, Charles put together an expedition of two
       ships, one a light frigate, the "Du Teillay", the other a much larger
       French naval vessel of 64 guns, the "Elisabeth" which set sail from the
@@ -376,8 +376,8 @@
       Lord George Murray’s lead. Charles arrived on the mainland at Loch nan
       Uamh on 25 July. On 7 August, the Duke of Argyle was made aware of the
       landing and the government in London was informed.
-      <br />
-      <br />Initially the clan chiefs who meet with him were unenthusiastic
+      <br>
+      <br>Initially the clan chiefs who meet with him were unenthusiastic
       about an uprising, given the absence of French forces and the government
       retribution after 1715. Once Charles secured the reluctant support of
       Cameron of Lochiel, other clans began to turn out in support of the
@@ -400,8 +400,8 @@
       experienced officer in the Jacobite army. The Jacobite army now numbered
       approximately 4,000 men. The Jacobite army left Perth on 11 September and
       was at Stirling on 13 September.
-      <br />
-      <br />The Jacobite Army moved on to Edinburgh. Edinburgh at the time was
+      <br>
+      <br>The Jacobite Army moved on to Edinburgh. Edinburgh at the time was
       one of the four largest population centers in Britain with a population of
       approximately 50,000. A detachment under Lochiel entered the city early on
       the morning of 17 September through a gate mysteriously left open. All but
@@ -449,8 +449,8 @@
       possible to establish the proportion of men forced into Jacobite military
       service with any degree of certainty. What is beyond doubt is that it
       occurred.
-      <br />
-      <br />The emissary Charles sent to France described the victory of
+      <br>
+      <br>The emissary Charles sent to France described the victory of
       Prestonpans in such glowing terms and reported that the Jacobite army was
       so large that many French Ministers believed that their support was
       unnecessary. Cope’s defeat energized the English Government and
@@ -464,8 +464,8 @@
       the eastern approaches to the English border and was in place by the end
       of October. General Ligonier established a blocking position in Lancashire
       with approximately 10,000 soldiers.
-      <br />
-      <br />The Jacobite Council of War agreed to take the army south into
+      <br>
+      <br>The Jacobite Council of War agreed to take the army south into
       England based on Charles’ claim of English support and a French invasion
       of England. The Scottish commanders on the council had not anticipated an
       invasion of England, but in the face of Charles insistence, relented.
@@ -476,8 +476,8 @@
       army at Montrose just in time to equip the Jacobite forces invading
       England. The Jacobite army departed Edinburgh on 31 October with
       approximately 6,000 men.
-      <br />
-      <br />The Jacobite army moved south in two columns with the western column
+      <br>
+      <br>The Jacobite army moved south in two columns with the western column
       moving through Peebles and Moffat. The eastern most column, under Charles,
       went through Kelso and Jedburg. The two columns linked up at Longtown and
       arrived at Carlisle on 9 November. Carlisle surrendered on the 14th after
@@ -486,8 +486,8 @@
       Carlisle despite warnings from Lord Murray. The Government, as expected,
       made much of the first city taken by the Jacobites in England being
       surrendered to a Catholic. On the 20th the Jacobite army continued south.
-      <br />
-      <br />On 26 November Lord John Drummond and 800 soldiers in French service
+      <br>
+      <br>On 26 November Lord John Drummond and 800 soldiers in French service
       comprised of the Royal Ecossois as well as a company of 50 men from four
       of the six regiments in the Irish Brigade, referred to as the Irish
       Picquets, arrived in Scotland and garrisoned Perth. By 27 November the
@@ -498,8 +498,8 @@
       for Charles. Manchester provided the only support to Charles contributing
       the Manchester Regiment, consisting of 200 men commanded by Colonel
       Francis Townley.
-      <br />
-      <br />On 28 November, the Duke of Cumberland replaced an ailing Ligonier
+      <br>
+      <br>On 28 November, the Duke of Cumberland replaced an ailing Ligonier
       and took command of the government forces in Lancashire. He was shortly
       out maneuvered by the Jacobite army which slipped by him south into Derby.
       The Jacobite army entered Derby on 4 December, 125 miles from London.
@@ -518,8 +518,8 @@
       and, finally, English naval interdiction prevented the invasion. The march
       back to Scotland began on 6 December 1745 after violent disagreement in
       the War Council.
-      <br />
-      <br />The march south into England had been for the most part unopposed
+      <br>
+      <br>The march south into England had been for the most part unopposed
       with the exception of militia units destroying bridges and roadways in the
       Jacobite Army’s path. Towns and cites along the army’s route of march had
       grudgingly supplied and housed the army and local Jacobites had shown some
@@ -532,8 +532,8 @@
       way north. Charles deliberately slowed his pace, and, therefore, that of
       his army, in order to avoid giving the appearance of fleeing England,
       putting his soldiers at risk from the hostile local population.
-      <br />
-      <br />In the absence of Charles and his army, much of Scotland either
+      <br>
+      <br>In the absence of Charles and his army, much of Scotland either
       reverted to government control or experienced a marked loss of Jacobite
       enthusiasm. Government Independent Companies, recruited from Clans Munro,
       Grant, MacKay, MacLeod and MacKenzie gathered at Inverness and by early
@@ -547,8 +547,8 @@
       control of the city. Lord Loudon and a force of 600 men from the
       Independent Companies took Fort Augustus from Lord Lovat’s Regiment in
       December.
-      <br />
-      <br />On 13 December, government volunteer cavalry under General
+      <br>
+      <br>On 13 December, government volunteer cavalry under General
       Oglethorpe attacked the Jacobite rear guard as the army was departing
       Preston. Elcho’s Horse and Cluny Mac Pherson’s Regiment forced them to
       withdraw. On 18 December the Jacobites rear guard near Clifton, under the
@@ -560,8 +560,8 @@
       MacPherson’s men in a charge, closing with the dragoon’s, forcing them to
       flee. Murray ordered a retreat and Cumberland occupied Clifton but was
       unable to pursue the retreating Jacobite army.
-      <br />
-      <br />The Manchester Regiment, with attached companies, stayed at Carlisle
+      <br>
+      <br>The Manchester Regiment, with attached companies, stayed at Carlisle
       as the main body of the Jacobite army crossed into Scotland on 20
       December. Charles insisted that the city and castle be garrisoned, perhaps
       as a gesture that he would return to England shortly. The garrison
@@ -569,8 +569,8 @@
       siege. The English Jacobite troops were sent to London where the officers
       were condemned to a traitor’s death and the men either joined the
       government army or were transported to the West Indies.
-      <br />
-      <br />On Christmas Day the Jacobite army entered Glasgow and stayed for 10
+      <br>
+      <br>On Christmas Day the Jacobite army entered Glasgow and stayed for 10
       days while the strongly pro-government city was reluctantly forced to
       refit it. There was talk of burning this hostile city, which was saved as
       a result of Lochiel’s efforts. On 4 January, Drummond and his forces
@@ -592,8 +592,8 @@
       their line was behind a ravine on their right. The Jacobite right flank
       overlapped the government left and the government right overlapped the
       Jacobite left.
-      <br />
-      <br />The action began with Lord Murray on the right flank firing on and
+      <br>
+      <br>The action began with Lord Murray on the right flank firing on and
       charging the government dragoon regiments on the government left. The
       dragoons fled the field carrying the infantry they retreated through and
       trampled with them. The Jacobite formations continued their pursuit and
@@ -619,8 +619,8 @@
       regroup their forces depleted by desertion and made a strong case for the
       army to move north to Inverness. Charles was against this retreat but was
       grudgingly forced to accept the logic behind the decision.
-      <br />
-      <br />Charles split the Jacobite army with half accompanying him and half
+      <br>
+      <br>Charles split the Jacobite army with half accompanying him and half
       with Murray up the coast road. Cumberland followed the coast road from
       Stirling to Perth, Dundee, and Aberdeen plundering, killing and detaining
       any suspected persons of Jacobite sympathies. On 10 February Gordon of
@@ -631,14 +631,14 @@
       from Inverness on the 17th and the Jacobite army occupied the city shortly
       thereafter. Loudon’s forces retreated to Dornoch where they were surprised
       on 20 February and forced to retreat to the Isle of Skye.
-      <br />
-      <br />Cumberland believed the rebellion was over until the Jacobite
+      <br>
+      <br>Cumberland believed the rebellion was over until the Jacobite
       capture of Inverness. Realizing that it was not over he established his
       headquarters at Aberdeen and began massing his forces remaining in the
       city from 27 February until 8 April. Charles was in the process of massing
       forces as well in Inverness.
-      <br />
-      <br />The Jacobite army also began operations in the Great Glen against
+      <br>
+      <br>The Jacobite army also began operations in the Great Glen against
       the government forts there. Fort George, the northernmost fort, fell
       shortly after the occupation of Inverness. Fort Augustus, in the Great
       Glen, fell to the Jacobites on 7 March after a two day siege. Lochiel
@@ -646,13 +646,13 @@
       failing to cut off re-supply of the garrison by water and losing their
       guns to a sally from the fort on 31 March. Lochiel and his men remained in
       Lochaber until being recalled by Charles to Inverness in April.
-      <br />
-      <br />Murray conducted several raids in Atholl as well as a siege of Blair
+      <br>
+      <br>Murray conducted several raids in Atholl as well as a siege of Blair
       Castle from 12 March to 2 April. He lacked the artillery to end the siege
       successfully, and Charles refused to provide additional forces to support
       large scale offensive operations, forcing Murray to withdraw to Inverness.
-      <br />
-      <br />The Royal Navy was making its presence felt by successfully
+      <br>
+      <br>The Royal Navy was making its presence felt by successfully
       preventing re-supply, reinforcement and money from reaching the
       increasingly desperate Jacobite army. Cumberland’s army was by contrast
       well supplied, paid and increasing in size. Cumberland was training his
@@ -660,8 +660,8 @@
       bayonet to the right into the exposed abdomen of attacking swordsmen. This
       technique presupposed a well trained formation of relatively calm soldiers
       who trust those to their left and right.
-      <br />
-      <br />Cumberland moved north across the Spey unopposed on 12 April as
+      <br>
+      <br>Cumberland moved north across the Spey unopposed on 12 April as
       Perth and Drummon’s Jacobite force retreated to Elgin and beyond. By the
       14th Cumberland’s army of approximately 9,000 men was at Nairn, well
       rested and re-supplied by sea on a regular basis. Charles brought his army
@@ -672,8 +672,8 @@
       who chose an open moor south east of Culloden House recommended by
       O’Sullivan. Charles’ army was unpaid, hungry and sleeping on open ground
       with stockpiles of food sitting in Inverness.
-      <br />
-      <br />At 8 PM on 15 April, 3,500 men of the Jacobite army attempted a
+      <br>
+      <br>At 8 PM on 15 April, 3,500 men of the Jacobite army attempted a
       cross country move in total darkness in order to conduct a surprise attack
       on Cumberland’s army in hopes it would be unprepared, having celebrated
       Cumberland’s birthday that evening. The army moved in two columns, Murray
@@ -704,8 +704,8 @@
       artillery interspersed in 2 gun batteries between the five front line
       regiments. Government cavalry was positioned on both flanks with Argyll
       Militia and the Independent Companies positioned on the left flank.
-      <br />
-      <br />After the Jacobite opening rounds at 1 o’clock, the government
+      <br>
+      <br>After the Jacobite opening rounds at 1 o’clock, the government
       artillery opened fire disabling the Jacobite artillery and causing a few
       casualties in the increasingly anxious stationary infantry. Charles
       repositioned to place of safety, but from which he could not observe his
@@ -719,8 +719,8 @@
       front line closed with the government forces, the center veered right in
       the face of heavy fire. The Jacobite left was unable to close with the
       government forces due to heavy fire and swampy intervening terrain.
-      <br />
-      <br />The heavily depleted right flank, however, did close with Barrel’s
+      <br>
+      <br>The heavily depleted right flank, however, did close with Barrel’s
       and Munro’s regiments. Barrels regiment was depleted and retreated.
       Monro’s held formation with the first rank at “charged bayonets” and the
       second and third rank firing as many as nine volleys point blank into
@@ -729,8 +729,8 @@
       with the government forces. Four second rank regiments reinforced Barrels
       and Monro’s regiments surrounding the Jacobites on three sides subjecting
       them to as many as 1,200 muskets firing in ranks.
-      <br />
-      <br />The Argyll Militia and Independent Companies broke down the wall of
+      <br>
+      <br>The Argyll Militia and Independent Companies broke down the wall of
       the enclosure on the Jacobite right, allowing for flanking fire on the
       attacking Jacobite first line and the repositioning of the Government
       horse to outflank the Jacobite army. Part of the right most second rank of
@@ -761,17 +761,15 @@
       four officers in the Manchester Regiment were executed at traitors. Of the
       other prisoners, those that did not die in captivity were transported to
       the colonies or released by 1747.
-      <br />
-      <br />Parliament passed laws against the carrying of arms, suppressed the
+      <br>
+      <br>Parliament passed laws against the carrying of arms, suppressed the
       Episcopal Church and transformed the traditional clan nobility into land
       lords. Charles Edward Stuart died on 30 Jan 1788. His brother, Henry,
       became a Catholic priest not long after the uprising ending any slim hope
       of a Stuart return to the Throne of England, Scotland and Ireland. Henry
       died in 1807.
     </p>
-    <h4 class="pointer" @click="jacobite = !jacobite">
-      Jacobite Regiments 1745-46 &#9662;
-    </h4>
+    <h4 class="pointer" @click="jacobite = !jacobite">Jacobite Regiments 1745-46 &#9662;</h4>
     <p v-show="!jacobite">
       <span class="padding">Atholl Brigade (Nov 1745- Apr 1746)</span>
       <span class="padding">Lord Niarn's Regiment</span>
@@ -786,16 +784,18 @@
       <span class="padding">Culloden 16 Apr 1746</span>
     </p>
 
-    <h4 class="pointer" @click="scots = !scots">
-      Scots (Bagot’s) Troop of Hussars (Sep 1745-Apr 1746) &#9662;
-    </h4>
+    <h4
+      class="pointer"
+      @click="scots = !scots"
+    >Scots (Bagot’s) Troop of Hussars (Sep 1745-Apr 1746) &#9662;</h4>
     <p v-show="!scots">
       <span class="padding">Culloden 16 Apr 1746</span>
     </p>
 
-    <h4 class="pointer" @click="cameron = !cameron">
-      Cameron of Lochiel's Regiment (Aug 1745-May 1746) &#9662;
-    </h4>
+    <h4
+      class="pointer"
+      @click="cameron = !cameron"
+    >Cameron of Lochiel's Regiment (Aug 1745-May 1746) &#9662;</h4>
     <p v-show="!cameron">
       <span class="padding">Prestonpans 21 Sep 1745</span>
       <span class="padding">Invasion of England, 31 Oct-20 Dec 1745</span>
@@ -804,9 +804,7 @@
       <span class="padding">Culloden 16 Apr 1746</span>
     </p>
 
-    <h4 class="pointer" @click="cluny = !cluny">
-      Cluny MacPherson's Regiment (?- May 1746) &#9662;
-    </h4>
+    <h4 class="pointer" @click="cluny = !cluny">Cluny MacPherson's Regiment (?- May 1746) &#9662;</h4>
     <p v-show="!cluny">
       <span class="padding">Invasion of England, 31 Oct-20 Dec 1745</span>
       <span class="padding">Preston 13 Dec 1745</span>
@@ -814,16 +812,15 @@
       <span class="padding">Falkirk, 17 Jan 1746</span>
     </p>
 
-    <h4 class="pointer" @click="earl = !earl">
-      Earl of Cromartie's Regiment &#9662;
-    </h4>
+    <h4 class="pointer" @click="earl = !earl">Earl of Cromartie's Regiment &#9662;</h4>
     <p v-show="!earl">
       <span class="padding">Falkirk, 17 Jan 1746</span>
     </p>
 
-    <h4 class="pointer" @click="lifeguard = !lifeguard">
-      Lifeguard of Horse (Sep-1745-Apr 1746) &#9662;
-    </h4>
+    <h4
+      class="pointer"
+      @click="lifeguard = !lifeguard"
+    >Lifeguard of Horse (Sep-1745-Apr 1746) &#9662;</h4>
     <p v-show="!lifeguard">
       <span class="padding">Lord Elcho’s Troop and Lord Balmerino’s Troop</span>
       <span class="padding">Prestonpans 21 Sep 1745</span>
@@ -834,16 +831,15 @@
       <span class="padding">Culloden 16 Apr 1746</span>
     </p>
 
-    <h4 class="pointer" @click="fitzjames = !fitzjames">
-      Fitzjames Horse &#9662;
-    </h4>
+    <h4 class="pointer" @click="fitzjames = !fitzjames">Fitzjames Horse &#9662;</h4>
     <p v-show="!fitzjames">
       <span class="padding">Culloden 16 Apr 1746</span>
     </p>
 
-    <h4 class="pointer" @click="john = !john">
-      John Gordon of Glenbuchat's Regiment (?- Apr 1746) &#9662;
-    </h4>
+    <h4
+      class="pointer"
+      @click="john = !john"
+    >John Gordon of Glenbuchat's Regiment (?- Apr 1746) &#9662;</h4>
     <p v-show="!john">
       <span class="padding">Siege of Carlisle 9-14 Nov 1745</span>
       <span class="padding">Invasion of England, 31 Oct-20 Dec 1745</span>
@@ -864,30 +860,29 @@
       <span class="padding">Culloden 16 Apr 1746</span>
     </p>
 
-    <h4 class="pointer" @click="kilmarnock = !kilmarnock">
-      Lord Kilmarnock's Footguard Regiment (Mar 1746- Apr 1746) &#9662;
-    </h4>
+    <h4
+      class="pointer"
+      @click="kilmarnock = !kilmarnock"
+    >Lord Kilmarnock's Footguard Regiment (Mar 1746- Apr 1746) &#9662;</h4>
     <p v-show="!kilmarnock">
       <span class="padding">Crichton of Auchingould's Battalion</span>
       <span class="padding">Bannerman of Elsick's Battalion</span>
       <span class="padding">Chisolm of Strathglass' Battalion</span>
-      <span class="padding"
-        >Lord Kilmarnock's Troop of Horse (dismounted Mar 1746) (Oct 145- Apr
-        1746)</span
-      >
+      <span class="padding">
+        Lord Kilmarnock's Troop of Horse (dismounted Mar 1746) (Oct 145- Apr
+        1746)
+      </span>
       <span class="padding">Invasion of England, 31 Oct-20 Dec 1745</span>
-      <span class="padding"
-        >Lord Pitsligo's Troop of Horse (dismounted Mar 1746) (Oct 145- Apr
-        1746)</span
-      >
+      <span class="padding">
+        Lord Pitsligo's Troop of Horse (dismounted Mar 1746) (Oct 145- Apr
+        1746)
+      </span>
       <span class="padding">Invasion of England, 31 Oct-20 Dec 1745</span>
       <span class="padding">Siege of Carlisle 9-14 Nov 1745</span>
       <span class="padding">Culloden 16 Apr 1746</span>
     </p>
 
-    <h4 class="pointer" @click="lewis = !lewis">
-      Lord Lewis Gordon's Regiment &#9662;
-    </h4>
+    <h4 class="pointer" @click="lewis = !lewis">Lord Lewis Gordon's Regiment &#9662;</h4>
     <p v-show="!lewis">
       <span class="padding">John Gordon of Avochie's Battalion</span>
       <span class="padding">Francis Farquharson of Monaltrie's Battalion</span>
@@ -899,26 +894,26 @@
       <span class="padding">Culloden 16 Apr 1746</span>
     </p>
 
-    <h4 class="pointer" @click="lovat = !lovat">
-      Lord Lovat's Regiment (Oct 1745- Apr 1746) &#9662;
-    </h4>
+    <h4 class="pointer" @click="lovat = !lovat">Lord Lovat's Regiment (Oct 1745- Apr 1746) &#9662;</h4>
     <p v-show="!lovat">
       <span class="padding">Falkirk, 17 Jan 1746</span>
       <span class="padding">Culloden 16 Apr 1746</span>
     </p>
 
-    <h4 class="pointer" @click="clanranald = !clanranald">
-      MacDonald of Clanranald's Regiment (Aug 1745- Apr 1746) &#9662;
-    </h4>
+    <h4
+      class="pointer"
+      @click="clanranald = !clanranald"
+    >MacDonald of Clanranald's Regiment (Aug 1745- Apr 1746) &#9662;</h4>
     <p v-show="!clanranald">
       <span class="padding">Prestonpans 21 Sep 1745</span>
       <span class="padding">Falkirk, 17 Jan 1746</span>
       <span class="padding">Culloden 16 Apr 1746</span>
     </p>
 
-    <h4 class="pointer" @click="glengarry = !glengarry">
-      MacDonald of Glengarry's Regiment (Aug- 1745- May 1746) &#9662;
-    </h4>
+    <h4
+      class="pointer"
+      @click="glengarry = !glengarry"
+    >MacDonald of Glengarry's Regiment (Aug- 1745- May 1746) &#9662;</h4>
     <p v-show="!glengarry">
       <span class="padding">Grant of Glenmorriston's Battalion</span>
       <span class="padding">MacDonald of Barisdale's Battalion</span>
@@ -929,9 +924,10 @@
       <span class="padding">Culloden 16 Apr 1746</span>
     </p>
 
-    <h4 class="pointer" @click="keppoch = !keppoch">
-      MacDonald's of Keppoch (Aug 1745- Apr 1746) &#9662;
-    </h4>
+    <h4
+      class="pointer"
+      @click="keppoch = !keppoch"
+    >MacDonald's of Keppoch (Aug 1745- Apr 1746) &#9662;</h4>
     <p v-show="!keppoch">
       <span class="padding">MacDonald of Glencoe’s Battalion</span>
       <span class="padding">Prestonpans 21 Sep 1745</span>
@@ -939,32 +935,24 @@
       <span class="padding">Siege of Ft William, 20 Mar-3 Apr, 1746</span>
     </p>
 
-    <h4 class="pointer" @click="macgregor = !macgregor">
-      MacGregor's Regiment &#9662;
-    </h4>
+    <h4 class="pointer" @click="macgregor = !macgregor">MacGregor's Regiment &#9662;</h4>
     <p v-show="!macgregor">
       <span class="padding">Prestonpans 21 Sep 1745</span>
     </p>
 
-    <h4 class="pointer" @click="macintosh = !macintosh">
-      Lady MacIntosh's Regiment &#9662;
-    </h4>
+    <h4 class="pointer" @click="macintosh = !macintosh">Lady MacIntosh's Regiment &#9662;</h4>
     <p v-show="!macintosh">
       <span class="padding">Falkirk, 17 Jan 1746</span>
       <span class="padding">Culloden 16 Apr 1746</span>
     </p>
 
-    <h4 class="pointer" @click="manchester = !manchester">
-      Manchester Regiment (Dec 1745) &#9662;
-    </h4>
+    <h4 class="pointer" @click="manchester = !manchester">Manchester Regiment (Dec 1745) &#9662;</h4>
     <p v-show="!manchester">
       <span class="padding">Invasion of England, 31 Oct-20 Dec 1745</span>
       <span class="padding">Carlisle Garrison, 22-30 Dec 1745</span>
     </p>
 
-    <h4 class="pointer" @click="ogilvy = !ogilvy">
-      Lord Ogilvy's Regiment &#9662;
-    </h4>
+    <h4 class="pointer" @click="ogilvy = !ogilvy">Lord Ogilvy's Regiment &#9662;</h4>
     <p v-show="!ogilvy">
       <span class="padding">Siege of Carlisle 9-14 Nov 1745</span>
       <span class="padding">Invasion of England, 31 Oct-20 Dec 1745</span>
@@ -973,39 +961,38 @@
       <span class="padding">Culloden 16 Apr 1746</span>
     </p>
 
-    <h4 class="pointer" @click="perth = !perth">
-      Duke of Perth's Regiment (Sep 1745- Apr 1746) &#9662;
-    </h4>
+    <h4
+      class="pointer"
+      @click="perth = !perth"
+    >Duke of Perth's Regiment (Sep 1745- Apr 1746) &#9662;</h4>
     <p v-show="!perth">
       <span class="padding">Prestonpans 21 Sep 1745</span>
       <span class="padding">Siege of Carlisle 9-14 Nov 1745</span>
       <span class="padding">Invasion of England, 31 Oct-20 Dec 1745</span>
-      <span class="padding"
-        >Carlisle Garrison, 2 Companies, 22-30 Dec 1745</span
-      >
+      <span class="padding">Carlisle Garrison, 2 Companies, 22-30 Dec 1745</span>
       <span class="padding">Culloden 16 Apr 1746</span>
     </p>
 
-    <h4 class="pointer" @click="ecossois = !ecossois">
-      Royal Ecossois Regiment &#9662;
-    </h4>
+    <h4 class="pointer" @click="ecossois = !ecossois">Royal Ecossois Regiment &#9662;</h4>
     <p v-show="!ecossois">
       <span class="padding">Inverurie, 10 Dec 1745</span>
       <span class="padding">Falkirk, 17 Jan 1746</span>
       <span class="padding">Culloden 16 Apr 1746</span>
     </p>
 
-    <h4 class="pointer" @click="strathallan = !strathallan">
-      Lord Strathallan’s/Drommond’s Troop of Horse (Aug 1745- Apr 1746) &#9662;
-    </h4>
+    <h4
+      class="pointer"
+      @click="strathallan = !strathallan"
+    >Lord Strathallan’s/Drommond’s Troop of Horse (Aug 1745- Apr 1746) &#9662;</h4>
     <p v-show="!strathallan">
       <span class="padding">Invasion of England, 31 Oct-20 Dec 1745</span>
       <span class="padding">Culloden 16 Apr 1746</span>
     </p>
 
-    <h4 class="pointer" @click="appin = !appin">
-      Stuart's of Appin Regiment (Aug 1745- Apr 1746) &#9662;
-    </h4>
+    <h4
+      class="pointer"
+      @click="appin = !appin"
+    >Stuart's of Appin Regiment (Aug 1745- Apr 1746) &#9662;</h4>
     <p v-show="!appin">
       <span class="padding">Prestonpans 21 Sep 1745</span>
       <span class="padding">Invasion of England, 31 Oct-20 Dec 1745</span>
@@ -1015,9 +1002,7 @@
       <span class="padding">Culloden 16 Apr 1746</span>
     </p>
 
-    <h4 class="pointer" @click="johnroy = !johnroy">
-      John Roy Stuart's Regiment &#9662;
-    </h4>
+    <h4 class="pointer" @click="johnroy = !johnroy">John Roy Stuart's Regiment &#9662;</h4>
     <p v-show="!johnroy">
       <span class="padding">Siege of Carlisle 9-14 Nov 1745</span>
       <span class="padding">Invasion of England, 31 Oct-20 Dec 1745</span>
@@ -1026,9 +1011,7 @@
       <span class="padding">Culloden 16 Apr 1746</span>
     </p>
     <h3>Government Regiments 1745-46</h3>
-    <h4 class="pointer" @click="prestonpans = !prestonpans">
-      Prestonpans, 21 Sep 1745 &#9662;
-    </h4>
+    <h4 class="pointer" @click="prestonpans = !prestonpans">Prestonpans, 21 Sep 1745 &#9662;</h4>
     <p v-show="!prestonpans">
       <span class="padding">Gardiner’s Dragoons</span>
       <span class="padding">Guise's</span>
@@ -1039,9 +1022,7 @@
       <span class="padding">Loudoun’s (Scottish)</span>
     </p>
 
-    <h4 class="pointer" @click="falkirk = !falkirk">
-      Falkirk, 17 Jan 1746 &#9662;
-    </h4>
+    <h4 class="pointer" @click="falkirk = !falkirk">Falkirk, 17 Jan 1746 &#9662;</h4>
     <p v-show="!falkirk">
       <span class="padding">Argyll Militia (Scottish)</span>
       <span class="padding">Barrell's</span>
@@ -1063,9 +1044,7 @@
       <span class="padding">Wolfe's</span>
     </p>
 
-    <h4 class="pointer" @click="culloden = !culloden">
-      Culloden, 16 Apr 1746 &#9662;
-    </h4>
+    <h4 class="pointer" @click="culloden = !culloden">Culloden, 16 Apr 1746 &#9662;</h4>
     <p v-show="!culloden">
       <span class="padding">Argyll Militia (Scottish) Monro's</span>
       <span class="padding">Barrell's Price's</span>
@@ -1084,12 +1063,10 @@
       <span class="padding">Ligonier’s Dragoons</span>
       <span class="padding">Loudoun’s (Scottish)</span>
     </p>
-    <hr />
-    <h3>References:</h3>
+    <hr>
+    <h3>Sources:</h3>
     <ol>
-      <li>
-        Black, Jeremy, Culloden and the ’45, Guild Publishing, London, 1990
-      </li>
+      <li>Black, Jeremy, Culloden and the ’45, Guild Publishing, London, 1990</li>
       <li>
         Carlton, Charles, Charles I, The Personal Monarch, Routledge, London,
         1995
@@ -1221,9 +1198,7 @@
         Rebellion (The National Library of Scotland, 1995)
       </li>
       <li>Kemp, Hilary, The Jacobite Rebellion (Almark Pub. Co., 1975)</li>
-      <li>
-        Lenman, Bruce, The Jacobite Rising in Britain, 1689-1745 (Metheun, 1984)
-      </li>
+      <li>Lenman, Bruce, The Jacobite Rising in Britain, 1689-1745 (Metheun, 1984)</li>
       <li>
         Lord, Evelyn, The Stuarts’ Secret Army, English Jacobites 1689-1753,
         (Pearson, 2004)
@@ -1264,9 +1239,7 @@
     </ul>
     <h4>Personalities</h4>
     <ul>
-      <li>
-        Gibson, John, Lochiel of the 45 (Edinburgh University Press, 1994)
-      </li>
+      <li>Gibson, John, Lochiel of the 45 (Edinburgh University Press, 1994)</li>
       <li>
         McCall, Colin, Routes, Roads, Regiments, and Rebellion, A Brief History
         of the life and work of General George Wade (1673-1748) the Father of
@@ -1305,16 +1278,12 @@
     </ul>
     <h4>Stuart-Jacobite Background</h4>
     <ul>
-      <li>
-        Carlton, Charles, Charles I, The Personal Monarch, (Routledge, 1995)
-      </li>
+      <li>Carlton, Charles, Charles I, The Personal Monarch, (Routledge, 1995)</li>
       <li>
         Coote, Stephen, Royal Survivor, The Life of Charles II, (Palgrave Press,
         1999)
       </li>
-      <li>
-        Cowan, Edward J., Montrose for Covenant and King, (Cannongate, 1977)
-      </li>
+      <li>Cowan, Edward J., Montrose for Covenant and King, (Cannongate, 1977)</li>
       <li>Miller, John, James II, A Study in Kingship, (Methuen, 1999)</li>
       <li>
         Stewart, Alan, The Cradle King, The Life of James IV and I the First

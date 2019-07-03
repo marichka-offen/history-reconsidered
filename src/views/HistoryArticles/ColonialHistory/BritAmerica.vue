@@ -13,8 +13,8 @@
       France. The wars fought in America during this time that involved regulars
       were King William’s War (1690-98), Queen Anne’s War (1702-13), the War of
       the Quadruple Alliance (1718-20).
-      <br />
-      <br />In the 17th century and later, soldiers were seen as a dangerous
+      <br>
+      <br>In the 17th century and later, soldiers were seen as a dangerous
       burden to those civilian communities they lived in or near. The need for
       protection from hostile natives, pirates, the Spanish and or France in the
       Caribbean seemed to lead to some appreciation for soldiers and former
@@ -24,8 +24,8 @@
       By all indications, this demonstrates a unique view of soldiers. Further
       exploration of the literature is called for to see if this unique attitude
       was common to the North American and other Caribbean colonies.
-      <br />
-      <br />Regular Regiments. Regular regiments, in whole or in part, were
+      <br>
+      <br>Regular Regiments. Regular regiments, in whole or in part, were
       involved in both garrison and expeditionary missions in North America and
       the Caribbean during this period. How the regiments were equipped was a
       function of how much the regimental commander was willing to spend on his
@@ -43,8 +43,8 @@
       possible, I have provided the numbered regiment designation of those
       regiments that continued to 1757 and the duration of service of those
       regiments that were “broken.”
-      <br />
-      <br />Independent Companies. The Independent Companies were composed of
+      <br>
+      <br>Independent Companies. The Independent Companies were composed of
       officers and soldiers sent from Britain and not raised locally. Unlike the
       other units of the army that each had distinctive uniform colors, regiment
       dependent, they would have worn Royal Livery colors, that is to say red
@@ -62,8 +62,8 @@
       feeling over taxed by the British government. Equipment and style of
       uniform was a function of when a company deployed from England and when or
       if it was re-supplied and re-equipped.
-      <br />
-      <br />An Independent Company organization had 50-100 soldiers with one
+      <br>
+      <br>An Independent Company organization had 50-100 soldiers with one
       Captain, one to two Lieutenants, three sergeants, three corporals and 2
       drummers. There is no mention in the literature of pike being used, only
       muskets. Once a soldier came over with an Independent Company they rarely
@@ -78,19 +78,19 @@
       offered and accepted commissions in the Independent Companies during the
       reign of Queen Anne. These were not prestigious postings for ambitious
       officers.
-      <br />
-      <br />Why volunteer for service in an Independent Company half a world
+      <br>
+      <br>Why volunteer for service in an Independent Company half a world
       away? Some soldiers didn’t, but were forced to go as punishment for
       desertion and other crimes. Others were from “broken” disbanded regiments
       and wished to remain soldiers. Some were doubtless told they would receive
       their past due pay if they continued to serve.
-      <br />
-      <br />The army underwent a major draw down in 1697 with the signing of the
+      <br>
+      <br>The army underwent a major draw down in 1697 with the signing of the
       Treaty of Ryswick leading to a 60% reduction of an army of 87,500 men. A
       total of 1500 officers were put on half pay. The Independent Companies
       were an opportunity to continue to serve, and many chose to.
-      <br />
-      <br />The mission of the Independent Companies was colonial defense as
+      <br>
+      <br>The mission of the Independent Companies was colonial defense as
       well as to augment and support offensive operations. The Independent
       Companies manned garrisons and forts, served as leadership cadre as well
       as trainers for militia forces, and served as marines for Royal Navy and
@@ -138,247 +138,229 @@
       <b>25 Aug 1664</b> Dutch surrender New Amsterdam and Fort Amsterdam
       (renamed as New York and Fort James) to three companies of the Duke of
       York’s Regiment (approximately 100 men in three companies) (1664-1690)
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1665-67</b> Second Dutch War
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1667</b> Dutch raid on the James River
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1670</b> Treaty of America between Britain and Spain
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1672-74</b> Third Dutch War
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1673</b> Admiral Evertson takes New York for Holland
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1674</b> New York returned to Britain
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1675-76</b> King Phillips War
-      <br />
+      <br>
       <span class="padding">Appleton’s Massachusetts Militia</span>
-      <br />
+      <br>
       <span class="padding">Bradford’s Plymouth Militia</span>
-      <br />
+      <br>
       <span class="padding">Treat’s Connecticut Militia</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1675-76</b> Virginia war with the Susquehannocks.
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1676</b> Bacon’s rebellion in Virginia
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1676</b> Pate’s rebellion in Maryland
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1676</b> Albermarle’s war with the Meherins.
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1677</b> Culpepper’s rebellion in Carolina
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1682</b> Pirate raid on plantations on the York River in Virginia. Ship
       pursued to Rhode Island and crew captured
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1683</b> Talbot establishes Maryland fort near New Castle with Maryland
       militia garrison
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1686</b> Spanish destroy Scottish settlement of Stuart’s Town in
       Carolina
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1687</b> Guard Ship Dumbarton captures pirate vessels vicinity Accomack
       County in the Chesapeake Bay
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1688</b> Raid on Maine Indians
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1689-97</b> King William’s War
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1689</b> Coode’s Rebellion in Maryland
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1690</b> Phip’s capture of Port Royal and Acadia
-      <br />
+      <br>
       <span class="padding">Johnson’s Massachusetts Militia</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1690</b> French raid Falmouth Maine
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1690</b> Phips raid on Quebec
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1696</b> Raid on Beaubassin
-      <br />
+      <br>
       <span class="padding">Church’s Massachusetts Militia</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1696</b> French destroy Fort at Pemaquid Miane
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1697</b> Seizure of St. Johns by Commodore Norris
-      <br />
+      <br>
       <span class="padding">Gibson’s Foot (28th) (red/yellow)</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1697</b> Treaty of Ryswick- Acadia returned to France
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1702-13</b> Queen Anne’s War/War of Spanish Succession
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1700</b> Governor Nicholson and Captain Passenger of the HMS Shoreham
       capture Lewis Guillar and the Le Paix on the James River in Virginia
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1701</b> Pennsylvania established armed watch on Delaware Bay to look
       for pirate activity
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1702</b> Raid on St Augustine
-      <br />
+      <br>
       <span class="padding">Moore’s South Carolina Militia</span>
-      <br />
+      <br>
       <span class="padding">Daniel’s South Carolina Militia</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1704</b> Apalachee Raid
-      <br />
+      <br>
       <span class="padding">Moore’s South Carolina Militia</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1704</b> Attack on Port Royal
-      <br />
+      <br>
       <span class="padding">1 Massachusetts Militia regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1704</b> French raid on Deerfield, Massachusetts
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1704</b> Raid on Mines
-      <br />
+      <br>
       <span class="padding">Church’s Massachusetts Militia</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1706</b> Spanish/French attack on Charleston
-      <br />
+      <br>
       <span class="padding">Northward Militia Regiment</span>
-      <br />
+      <br>
       <span class="padding">Southward Militia Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1707</b> Raid on Port Royal
-      <br />
+      <br>
       <span class="padding">Wainright’s Massachusetts Militia</span>
-      <br />
+      <br>
       <span class="padding">Hilton’s Massachusetts Militia</span>
-      <br />
+      <br>
       <span class="padding">1 New Hampshire Militia Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1708</b> Recapture of St John’s by French
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1710</b> Capture of Port Royal and Acadia
-      <br />
-      <span class="padding"
-        >Saunderson’s 1st Marines (30th) (Irish) (red/yellow)</span
-      >
-      <br />
+      <br>
+      <span class="padding">Saunderson’s 1st Marines (30th) (Irish) (red/yellow)</span>
+      <br>
       <span class="padding">Hobby’s Massachusetts Militia regiment</span>
-      <br />
+      <br>
       <span class="padding">Tailer’s Massachusetts Militia regiment</span>
-      <br />
+      <br>
       <span class="padding">Whiting’s Connecticut Militia regiment</span>
-      <br />
-      <span class="padding"
-        >Walton’s Rhode Island/New Hampshire Militia regiment</span
-      >
-      <br />
-      <br />
+      <br>
+      <span class="padding">Walton’s Rhode Island/New Hampshire Militia regiment</span>
+      <br>
+      <br>
       <b>1711-12</b> Attempt on Quebec under Commodore Walker
-      <br />
-      <span class="padding"
-        >Queen’s Royal Sea Service Foot (4th) (red/green)</span
-      >
-      <br />
-      <span class="padding"
-        >Stanhope’s Sea Service Foot (11th) (red/yellow)</span
-      >
-      <br />
+      <br>
+      <span class="padding">Queen’s Royal Sea Service Foot (4th) (red/green)</span>
+      <br>
+      <span class="padding">Stanhope’s Sea Service Foot (11th) (red/yellow)</span>
+      <br>
       <span class="padding">Livesays’ Sea Service Foot (12th) (red/white)</span>
-      <br />
-      <span class="padding"
-        >Handasyde’s Sea Service Foot (22nd) (red/buff)</span
-      >
-      <br />
-      <span class="padding"
-        >Wetham’s Sea Service Foot (27th) (Irish) (red/buff)</span
-      >
-      <br />
+      <br>
+      <span class="padding">Handasyde’s Sea Service Foot (22nd) (red/buff)</span>
+      <br>
+      <span class="padding">Wetham’s Sea Service Foot (27th) (Irish) (red/buff)</span>
+      <br>
       <span class="padding">Saunderson’s 1st Marines (30th) (red/yellow)</span>
-      <br />
+      <br>
       <span class="padding">Donegal’s Marines (35th) (Irish) (red/orange)</span>
-      <br />
-      <span class="padding"
-        >Charlemont’s Sea Service Foot (36th) (Irish) (red/green)</span
-      >
-      <br />
-      <span class="padding"
-        >Meredeth’s Sea Service Foot (37th) (Irish) (red/yellow)</span
-      >
-      <br />
-      <br />One company each from:
-      <br />
-      <span class="padding"
-        >Villier’s 2nd Marines (31st) (Irish) (red/yellow)</span
-      >
-      <br />
+      <br>
+      <span class="padding">Charlemont’s Sea Service Foot (36th) (Irish) (red/green)</span>
+      <br>
+      <span class="padding">Meredeth’s Sea Service Foot (37th) (Irish) (red/yellow)</span>
+      <br>
+      <br>One company each from:
+      <br>
+      <span class="padding">Villier’s 2nd Marines (31st) (Irish) (red/yellow)</span>
+      <br>
       <span class="padding">Borr’s 3rd Marines (32nd) (red/white)</span>
-      <br />
+      <br>
       <span class="padding">Mordaunts’ Marines</span>
-      <br />
+      <br>
       <span class="padding">Holt’s Marines</span>
-      <br />
+      <br>
       <span class="padding">Shannon’s Marines</span>
-      <br />
+      <br>
       <span class="padding">Vetch’s Massachusetts Militia</span>
-      <br />
+      <br>
       <span class="padding">Walton’s Massachusetts Militia</span>
-      <br />
+      <br>
       <span class="padding">1 Company, New Hampshire Militia</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1711-15</b> Tuscarora War
-      <br />
+      <br>
       <span class="padding">Barnwell’s South Carolina Militia</span>
-      <br />
+      <br>
       <span class="padding">Moore’s South Carolina Militia</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1715-18</b> Yamassee War
-      <br />
+      <br>
       <span class="padding">Craven’s South Carolina Militia</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1718-20</b> British War with Spain
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1718</b> Cpt Maynard kills Blackbeard and captures crew.
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1718</b> Col Rhett captures Stede Bonnet and crew.
-      <br />
+      <br>
       <span class="padding">South Carolina Militia</span>
     </p>
 
@@ -386,39 +368,35 @@
     <h4>New York</h4>
     <p>
       <b>1664</b> Colonel Nicoll’s Company occupies Fort James
-      <br />
-      <span class="padding"
-        >Colonel Cartwright’s Company occupies Ft Orange/Albany</span
-      >
-      <br />
-      <span class="padding"
-        >Colonel Carr’s Company occupies Delaware River settlements</span
-      >
-      <br />
+      <br>
+      <span class="padding">Colonel Cartwright’s Company occupies Ft Orange/Albany</span>
+      <br>
+      <span class="padding">Colonel Carr’s Company occupies Delaware River settlements</span>
+      <br>
       <b>1667</b> Carr’s Company Disbanded
-      <br />
+      <br>
       <b>1672</b> Krieger’s Company raised
-      <br />
+      <br>
       <b>1673</b> Dutch retake New York and English garrison surrenders
-      <br />
+      <br>
       <b>1674</b> Edmond Andros arrives at New York with one Independent Company
       of 100 soldiers to be divided between Albany and Fort James/ New York City
-      <br />
+      <br>
       <b>1676</b> Ft Charles at Pemaquid built and garrisoned with 50 men
-      <br />
+      <br>
       <b>1686</b> Two additional Independent Companies arrive at New York. Four
       companies established with two sent to Boston
-      <br />
+      <br>
       <b>1689</b> All companies disbanded
-      <br />
+      <br>
       <b>1690</b> Two Independent Companies (3 officers and 68 soldiers each)
       with one in New York and one at Albany
-      <br />
+      <br>
       <b>1694-95</b> Four Independent Companies (3 officers and 68 soldiers
       each)
-      <br />
+      <br>
       <b>1699</b> Four Independent Companies (3 officers and 50 soldiers each)
-      <br />
+      <br>
       <b>1701-14</b> Four Independent Companies (3 officers and 100 soldiers
       each) with 2 Companies in New York City and 2 in Albany
     </p>
@@ -428,61 +406,51 @@
       <b>1676</b> Herbert Jeffrey’s Regiment (approximately 1000 officers and
       soldiers with 200 soldiers 6 sergeants and 6 corporals per company)
       arrives in Jamestown Virginia.
-      <br />
-      <span class="padding"
-        >Lt Col. Jeffrey’s Company, 1st Foot Guards (red/blue)</span
-      >
-      <br />
+      <br>
+      <span class="padding">Lt Col. Jeffrey’s Company, 1st Foot Guards (red/blue)</span>
+      <br>
       <span class="padding">Cpt. Pict’s Company, 1st Foot Guards</span>
-      <br />
-      <span class="padding"
-        >Cpt. Mutlowe’s Company, Coldstream Guards (red/green)</span
-      >
-      <br />
+      <br>
+      <span class="padding">Cpt. Mutlowe’s Company, Coldstream Guards (red/green)</span>
+      <br>
       <span class="padding">
         Cpt. Middleton’s Company, Duke of York’s Regiment (yellow/red)
         (1664-1690)
       </span>
-      <br />
-      <span class="padding"
-        >Cpt. Meole’s Company, Holland Regiment (3rd) (red/buff)</span
-      >
-      <br />
-      <br />
+      <br>
+      <span class="padding">Cpt. Meole’s Company, Holland Regiment (3rd) (red/buff)</span>
+      <br>
+      <br>
       <b>1676</b> – Elements of regiment garrison south bank of the James where
       rebels still active vicinity Albermarle
-      <br />
-      <span class="padding"
-        >– Elements of regiment garrison New Kent County</span
-      >
-      <br />
+      <br>
+      <span class="padding">– Elements of regiment garrison New Kent County</span>
+      <br>
       <span class="padding">
         – One company sent to Northern Neck to support militia and protect
         plantations
       </span>
-      <br />
-      <span class="padding"
-        >– Two companies sent to the Falls of the James</span
-      >
-      <br />
+      <br>
+      <span class="padding">– Two companies sent to the Falls of the James</span>
+      <br>
       <span class="padding">– One company sent to Kecoughtan</span>
-      <br />
+      <br>
       <b>1677</b> Herbert Jeffrey dies
-      <br />
+      <br>
       <b>1677</b> Independent Company established
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1678</b> Four companies return to England
-      <br />
+      <br>
       <b>1679</b>
       One Company sent from England
-      <br />
+      <br>
       <b>1682</b> Both Companies disbanded
     </p>
     <h4>Massachusetts</h4>
     <p>
       <b>1686</b> Two Independent Companies in Boston
-      <br />
+      <br>
 
       <b>1689</b> Two Independent Companies returned to England
     </p>
@@ -490,28 +458,28 @@
     <p>
       <b>1670</b>
       2 Militia Companies
-      <br />
+      <br>
       <b>1685</b>
       Northward Militia Regiment
-      <br />
+      <br>
       <span class="padding">Southward Militia Regiment</span>
-      <br />
+      <br>
       <span class="padding">Huguenot Company</span>
     </p>
     <h4>Port Royal/Annapolis Nova Scotia</h4>
     <p>
       <b>1710-17</b> Four Independent Companies
-      <br />
+      <br>
       <b>1717-20</b> Phillip’s Foot (40th) (red/buff)
     </p>
     <h4>Newfoundland</h4>
     <p>
       <b>1689-1712</b>
       One Independent Company
-      <br />
+      <br>
       <b>1694-97</b>
       Gibson’s Foot (28th) (red/yellow)
-      <br />
+      <br>
     </p>
     <h3>
       Chronology of Military Operations in the Caribbean and identifiable
@@ -520,508 +488,499 @@
     <p>
       <b>1660</b>
       Captain Myngs’ raid on Santiago
-      <br />
+      <br>
       <span class="padding">Windsor’s Militia</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1663</b>
       Captain Myngs’ raid on Campeche
-      <br />
+      <br>
       <span class="padding">Windsor’s Militia</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1665-1667</b>
       Second Dutch War
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1665</b>
       Colonel Morgan’s raid on Dutch colonies of St Eustatius and Saba
-      <br />
+      <br>
       <span class="padding">Jamaica Privateers</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1665</b>
       Captain Morgan’s raid on Granada
-      <br />
+      <br>
       <span class="padding">Jamaica Privateers</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1665</b>
       Colonel Watt’s raid on St. Martin’s
-      <br />
+      <br>
       <span class="padding">Watt’s Militia Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1665</b>
       Captain Morris’ raid on Guiana
-      <br />
+      <br>
       <span class="padding">Morris’s Militia Company</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1666</b>
       English Colony established on New Providence – James Modyford commissioned
       as Governor of the Bahamas
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1666</b>
       Captains Searle’s and Stedman’s raid on Tobago
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1666</b>
       French capture English side of St Kitts, Montserrat and Antigua
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1666</b>
       Capture of St Lucia
-      <br />
+      <br>
       <span class="padding">Willoughby’s Militia Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1666</b>
       Captain Harman’s raid on Cayenne
-      <br />
+      <br>
       <span class="padding">Willoughby’s Militia Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1667</b>
       British raid on Tobago
-      <br />
+      <br>
       <span class="padding">Bridge’s Foot</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1667</b>
       Captain Harman’s raid on Surinam
-      <br />
+      <br>
       <span class="padding">Willoughby’s Militia Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1667</b>
       French return English side of St Kitts, Montserrat and Antigua to Britain
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1668</b>
       Captain Morgan’s raid on Puerto Principe
-      <br />
+      <br>
       <span class="padding">Jamaica Privateers</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1668</b>
       Captain Morgan’s raid on Portobello
-      <br />
+      <br>
       <span class="padding">Jamaica Privateers</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1669</b>
       Captain Morgan’s raid on Maracaibo
-      <br />
+      <br>
       <span class="padding">Jamaica Privateers</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1670</b>
       Spanish raids on Jamaica
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1670-71</b>
       Captain Morgan’s raid on Panama
-      <br />
+      <br>
       <span class="padding">Jamaica Privateers</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1670</b>
       Spanish sack New Providence
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1670</b>
       Captain Searle’s raid on St Augustine
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1670</b>
       Treaty of America between Britain and Spain
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1672 - 1674</b>
       Third Dutch War
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1672</b>
       Major Beeston with the HMS Assistance and HMS Lilly capture the Charity at
       sea and Mary while careened.
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1673</b>
       Col Tobias Bridge captures Tobago Bridge’s Foot
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1680</b>
       Sharpe’s raid on Panama
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1680</b>
       Morgan takes Everson’s ship in Cow Bay. Captured crew turned over to
       Spanish at Cartagena.
-      <br />
+      <br>
     </p>
     <h4>Morgan’s Company</h4>
     <p>
       <b>1684</b>
       Captain Carlyle with the HMS Francis burns the Trompeuse and another ship
       at St Thomas
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1683</b>
       New Danish Governor installed on St Thomas with British help in response
       to support for pirate activity by prior governor
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1683</b>
       Spanish raid British colony on New Providence
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1684</b>
       Captain Mitchell and the HMS Ruby captured the Golden Fleece
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1687</b>
       Captain Sir Robert Holmes Expedition
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1684</b>
       Spanish raid on Nassau- English settlers evacuate the Bahamas
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1687</b>
       Colonists from Jamaica settle on New Providence and build a fort
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1689-1697</b>
       King William’s War
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1689</b>
       French capture St. Kitt’s and St. Eustatia
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1689</b>
       French raids on Jamaica
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1689</b>
       Thornhill with 2 sloops captures French privateer
-      <br />
+      <br>
       <span class="padding">Hamilton’s Company, Thornhill’s Militia.</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1689</b>
       Thornhill Raid on St Bartholomew
-      <br />
+      <br>
       <span class="padding">Thornhill’s Militia</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1689</b>
       French capture Antiguilla and retaken by Codrington
-      <br />
+      <br>
       <span class="padding">Lloyd’s/Holt’s Foot (1689-98) (blue)</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1690</b>
       British retake St Kitt’s and St. Eustatia
-      <br />
+      <br>
       <span class="padding">Lloyd’s/Holt’s Foot</span>
-      <br />
+      <br>
 
       <span class="padding">Independent Company</span>
-      <br />
+      <br>
 
       <span class="padding">Thornhill’s Militia</span>
-      <br />
+      <br>
 
       <span class="padding">Blackstone’s Militia</span>
-      <br />
+      <br>
 
       <span class="padding">Pym’s Militia</span>
-      <br />
+      <br>
 
       <span class="padding">Earl’s Militia</span>
-      <br />
+      <br>
 
       <span class="padding">William’s Militia</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1690-92</b>
       Commodore Wright’s Expedition/1690 Raid on St. Bartholomew’s and St.
       Martin’s Islands
-      <br />
+      <br>
       <span class="padding">Lloyd’s/Holt’s Foot</span>
-      <br />
+      <br>
 
       <span class="padding">Thornhill’s Militia</span>
-      <br />
+      <br>
 
       <span class="padding">Pym’s Militia</span>
-      <br />
+      <br>
 
       <span class="padding">Earl’s Militia</span>
-      <br />
+      <br>
 
       <span class="padding">Hewetson’s Militia</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1691</b>
       Codrington’s raid on Hispanola
-      <br />
+      <br>
       <span class="padding">Lloyd’s/Holt’s Foot</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1691</b>
       Captain O‘Brien’s raid on Hispaniola
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1693</b>
       Commodore Wheeler’s raid on Martinique
-      <br />
+      <br>
       <span class="padding">Foulke’s Foot (38th) (red/yellow)</span>
-      <br />
+      <br>
 
       <span class="padding">Lloyd’s/Holt’s Foot</span>
-      <br />
+      <br>
 
       <span class="padding">Collingwood’s (32nd) (red/white)</span>
-      <br />
+      <br>
 
       <span class="padding">Salter’s Militia</span>
-      <br />
+      <br>
 
       <span class="padding">Boteler’s Militia</span>
 
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1694</b>
       French Raid on Jamaica
-      <br />
+      <br>
       <span class="padding">Montjoy’s Independent Company</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1695</b>
       Commodore Wilmot’s raid on Hispaniola
-      <br />
+      <br>
       <span class="padding">Lillingston’s Foot (38th)</span>
-      <br />
+      <br>
 
       <span class="padding">Lloyd’s/Holt’s Foot</span>
-      <br />
+      <br>
 
       <span class="padding">Collingwood’s (32nd)</span>
 
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1697</b>
       Fort Nassau built outside Nassau
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1702-13</b>
       Queen Anne’s War/War of Spanish Succession
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1702</b>
       British capture of French sector of St. Kitts
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1702</b>
       Admiral Benbow’s raid on Guadalupe
-      <br />
-      <span class="padding"
-        >Wetham’s Sea Service Foot (27th) (Irish) (red/buff)</span
-      >
-      <br />
-      <br />
+      <br>
+      <span class="padding">Wetham’s Sea Service Foot (27th) (Irish) (red/buff)</span>
+      <br>
+      <br>
 
       <b>1702-04</b>
       Commodore Walker’s Expedition/ Raid on Guadalupe
-      <br />
+      <br>
       <span class="padding">Erle’s Sea Service Foot. (19th) (red/yellow)</span>
-      <br />
+      <br>
 
-      <span class="padding"
-        >Viscount Boyne’s Sea Service Foot. (20th) (Irish) (red/white)</span
-      >
-      <br />
+      <span class="padding">Viscount Boyne’s Sea Service Foot. (20th) (Irish) (red/white)</span>
+      <br>
 
       <span class="padding">Donegal’s Marines (35th) (Irish) (red/orange)</span>
-      <br />
+      <br>
 
-      <span class="padding"
-        >Charlemont’s Sea Service Foot. (36th) (Irish) (red/green)</span
-      >
-      <br />One company each from:
-      <br />
+      <span class="padding">Charlemont’s Sea Service Foot. (36th) (Irish) (red/green)</span>
+      <br>One company each from:
+      <br>
 
-      <span class="padding"
-        >Saunderson’s 1st Marines (30th) (Irish) (red/yellow)</span
-      >
-      <br />
+      <span class="padding">Saunderson’s 1st Marines (30th) (Irish) (red/yellow)</span>
+      <br>
 
-      <span class="padding"
-        >Villier’s 2nd Marines (31st) (Irish) (red/yellow)</span
-      >
-      <br />
+      <span class="padding">Villier’s 2nd Marines (31st) (Irish) (red/yellow)</span>
+      <br>
 
       <span class="padding">Fox’s 3rd Marines (32nd)</span>
-      <br />
+      <br>
 
       <span class="padding">Mordaunts’ Marines (1702-04)</span>
-      <br />
+      <br>
 
       <span class="padding">Holt’s Marines (1702-13)</span>
-      <br />
+      <br>
 
       <span class="padding">Shannon’s Marines (Irish) (1702-13)</span>
-      <br />
+      <br>
 
       <span class="padding">Wetham’s Sea Service Foot (27th)</span>
-      <br />
+      <br>
 
       <span class="padding">Byam’s Militia</span>
-      <br />
+      <br>
 
       <span class="padding">Two Independent Companies of St Kitts</span>
 
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1703</b>
       French/Spanish raid on Nassau
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1706</b>
       Spanish raid on Nassau- most English settlers evacuate the Bahamas
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1706</b>
       French raid on Nevis
-      <br />
+      <br>
       <span class="padding">Burt’s Miltia</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1706</b>
       French raid on St. Kitt’s
-      <br />
+      <br>
       <span class="padding">Independent Company</span>
-      <br />
+      <br>
 
       <span class="padding">Hamilton’s Militia</span>
 
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1710</b>
       French raid on Monserrat
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1717</b>
       Cpt. Hume of the Scarborough sinks Martel’s ship at St Croix
-      <br />
+      <br>
       <span class="padding">Jones/Alexander’s Sea Service Foot (38th)</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1717</b>
       13 British frigates sail to Caribbean to eliminate piracy
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1717</b>
       Teach’s raid on St Kitts
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1717</b>
       British Crown issues proclamation for suppression of piracy and surrender
       by 1718
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1718-20</b>
       British War with Spain
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1718-19</b>
       British settlement on Crab Island. Removed by Spain
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1718</b>
       Cpt. Woods Rogers arrives at New Providence and garrisons island
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1720</b>
       Cpt. Barnet captures Jack Rackham, Mary Reed, Ann Bonny and crew
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1720</b>
       Spanish raid on Nassau
-      <br />
+      <br>
       <span class="padding">Independent Company</span>
-      <br />
+      <br>
       <span class="padding">3 Nassau Militia Companies</span>
     </p>
 
     <h3>Caribbean Regular Army Garrisons, 1660-1720</h3>
     <h4>Bermuda</h4>
     <p>
-      <b>1702-20</b> One Independent Company <br />Cpt. Lancelot Sandys, Lt.
+      <b>1702-20</b> One Independent Company
+      <br>Cpt. Lancelot Sandys, Lt.
       Robert Henley, 2 sergeants, 2 corporals one drummer and 50 sentinels
       detached from Handasyde’s Sea Service Foot (22nd) in 1702. Barracks
       located in St George
@@ -1030,44 +989,44 @@
     <p>
       <b>1667-73</b>
       Bridge’s Foot, Six Companies
-      <br />
+      <br>
       <b>1671-97</b>
       Two Independent Companies
-      <br />
+      <br>
       <b>1694-97</b>
       Russell’s Foot (The Barbados Regiment)
-      <br />
+      <br>
       <b>1698-99</b>
       One Independent Company
-      <br />
+      <br>
     </p>
     <h4>Bahamas (Abaco, Eleuthera, Andros, New Providence)</h4>
     <p>
       <b>1718-20</b>
       One Independent Company
-      <br />
+      <br>
       <span class="padding">Baeuchamp’s Company</span>
     </p>
     <h4>Jamaica</h4>
     <p>
       <b>1678-82</b> Two Independent Companies
-      <br />
+      <br>
       <span class="padding">Carlisle’s Company</span>
-      <br />
+      <br>
       <span class="padding">Morgan’s Company</span>
-      <br />
+      <br>
       <b>1694-99</b> One Independent Company
-      <br />
+      <br>
       <span class="padding">Montjoy’s Company</span>
-      <br />
+      <br>
       <b>1694-1697</b> Lillingston’s Foot (38th) (red/yellow)
-      <br />
+      <br>
       <b>1703-05</b> Livesay’s Sea Service Foot (12th) (red/white)
-      <br />
+      <br>
       <b>1703-13</b> Handasyde’s Sea Service Foot (22nd) (red/buff)
-      <br />
+      <br>
       <b>1714-20</b> Two Independent Companies
-      <br />
+      <br>
     </p>
     <h4>
       Leeward Island Colony (St. Kitt’s, Antigua, Barbuda, Montserrat, Nevis,
@@ -1076,22 +1035,22 @@
     <p>
       <b>1667-71</b> Bridge’s Foot, Four Companies with two on Barbados and two
       on St. Kitt’s
-      <br />
+      <br>
       <b>1671-90</b> St. Kitt’s two Independent Companies
-      <br />
+      <br>
       <b>1689</b> St Kitts two Independent Companies move to Nevis
-      <br />
+      <br>
       <b>1690-1706</b> St. Kitts one Independent Company
-      <br />
+      <br>
       <b>1690-98</b> Lloyd’s/Holt’s Foot on St. Kitt’s
-      <br />
+      <br>
       <b>1692-99</b> Collingwood’s/Fox’s Foot (32nd ) on Antigua
-      <br />
+      <br>
       <b>1699-1714</b> Wetham’s Sea Service Foot (27th) on St Kitt’s, Antigua
       and Nevis
-      <br />
+      <br>
       <b>1702-03</b> St Kitts two Independent Companies
-      <br />
+      <br>
       <b>1710-1720</b>
       Jones’/Alexander’s Sea Service Foot (38th) on Antigua
     </p>
@@ -1100,124 +1059,124 @@
 
     <p>
       <b>1660-63</b> Jamaica
-      <br />
+      <br>
 
       <span class="padding">Windsor’s Militia Regiments (4)</span>
-      <br />
+      <br>
       <span class="padding">Port Royal Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1665</b> Jamaica
-      <br />
+      <br>
 
       <span class="padding">Edward Morgan’s Militia Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1665</b> St Kitts
-      <br />
+      <br>
 
       <span class="padding">Watt’s Militia Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>1665</b> Barbados
-      <br />
+      <br>
 
       <span class="padding">Cpt Morris Militia Company</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1666-67</b> Nevis and Antigua
-      <br />
+      <br>
       <span class="padding">Willoughby’s Militia Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1667-68</b> Jamaica
-      <br />
+      <br>
       <span class="padding">Morgan’s Port Royal Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1672-73</b> Barbados
-      <br />
+      <br>
       <span class="padding">Rupert’s Dragoons</span>
-      <br />
+      <br>
       <span class="padding">1680 Jamaica</span>
-      <br />
+      <br>
       <span class="padding">Morgan’s Port Royal Regiment</span>
-      <br />
+      <br>
       <span class="padding">Freeman’s Regiment</span>
-      <br />
+      <br>
       <span class="padding">Cope’s Regiment</span>
-      <br />
+      <br>
       <span class="padding">Whitfield’s Regiment</span>
-      <br />
+      <br>
       <span class="padding">Watson’s Regiment</span>
-      <br />
+      <br>
       <span class="padding">Bynbloss’s Regiment</span>
-      <br />
+      <br>
       <span class="padding">Fulller’s Regiment</span>
-      <br />
+      <br>
       <span class="padding">Ballard’s Horse</span>
-      <br />
+      <br>
       <span class="padding">1689 Barbados/Antigua/Nevis</span>
-      <br />
+      <br>
       <span class="padding">Thornhill’s Militia Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1689</b> Nevis
-      <br />
+      <br>
       <span class="padding">Pym’s Militia Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1689</b> Nevis
-      <br />
+      <br>
       <span class="padding">Earl’s Militia Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1692</b> Barbados
-      <br />
+      <br>
       <span class="padding">Salter’s Militia Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1692</b> Barbados
-      <br />
+      <br>
       <span class="padding">Boteler’s Militia Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1690</b> Antigua
-      <br />
+      <br>
       <span class="padding">William’s Militia Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1690</b> Antigua
-      <br />
+      <br>
       <span class="padding">Hewetson’s Militia Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1690</b> Montserrat
-      <br />
+      <br>
       <span class="padding">Blackstone’s Militia Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1694</b> Jamaica
-      <br />
+      <br>
       <span class="padding">Clayborne’s Militia Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1702</b> Antigua
-      <br />
+      <br>
       <span class="padding">Byam’s Militia Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1706</b> St Kitt’s
-      <br />
+      <br>
       <span class="padding">Hamilton’s Militia Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1706</b> Nevis
-      <br />
+      <br>
       <span class="padding">Burt’s Militia Regiment</span>
-      <br />
-      <br />
+      <br>
+      <br>
     </p>
     <h3>Antigua Privateers 1702-13</h3>
     <h3>Bermuda Privateers 1682-84</h3>
@@ -1225,18 +1184,18 @@
     <h3>Jamaica Privateers</h3>
     <p>
       <b>1660-72</b>
-      <br />
+      <br>
       <b>1675-79</b>
-      <br />
+      <br>
       <b>1702-1713</b>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1718</b>Bahamas
-      <br />
+      <br>
       <span class="padding">3 Nassau Militia Companies</span>
     </p>
-    <hr />
-    <h3>References:</h3>
+    <hr>
+    <h3>Sources:</h3>
     <ol>
       <li>
         Andrews, Charles, “Narratives of the Insurrections, 1675-1690,”
@@ -1246,9 +1205,7 @@
         Beer, George L., “The Old Colonial System, 1660-1754,” MacMillan, NY,
         1912
       </li>
-      <li>
-        Breverton, Terry, “Admiral Sir Henry Morgan,” Pelican, Louisiana, 2005
-      </li>
+      <li>Breverton, Terry, “Admiral Sir Henry Morgan,” Pelican, Louisiana, 2005</li>
       <li>
         Bridenbaugh, Carl and Roberta, “No Peace Beyond the Line, The English in
         the Caribbean, 1624-1690,” Oxford University Press, New York, 1972
@@ -1257,9 +1214,7 @@
         Brown, Anthony, ed., “The Laws of the Island of Antigua,” vol. I, Samuel
         Bagster, London, 1805
       </li>
-      <li>
-        Craton, Michael, “A History of the Bahamas,” Collins, London, 1962
-      </li>
+      <li>Craton, Michael, “A History of the Bahamas,” Collins, London, 1962</li>
       <li>
         Ede-Borrett, “The Army of James II, Uniforms and Organization” Partizan
         Press, Essex, 1997
@@ -1282,9 +1237,7 @@
         Haring, C.H., “The Buccaneers in the West Indies in the XVII Century,”
         E.P. Dutton, New York, 19190
       </li>
-      <li>
-        Harlow, Vincent, “Christopher Codrington, 1668-1710,” Oxford, 1928
-      </li>
+      <li>Harlow, Vincent, “Christopher Codrington, 1668-1710,” Oxford, 1928</li>
       <li>
         Harris, Simon, “Sir Cloudesley Shovell, Stuart Admiral,” Simon Harris,
         Kent, 2001
@@ -1339,9 +1292,7 @@
         Swiney, G.C., “Historical Records of the 32nd Cornwall Light Infantry”,
         Simpkins and Co., London, 1893
       </li>
-      <li>
-        Webb, Stephen S., “Lord Churchill’s Coup,” Alfred Knopf, New York, 1995
-      </li>
+      <li>Webb, Stephen S., “Lord Churchill’s Coup,” Alfred Knopf, New York, 1995</li>
       <li>
         Webb, Stephen S., “1676, The End of American Independence,” Syracuse
         University Press, Syracuse, 1995

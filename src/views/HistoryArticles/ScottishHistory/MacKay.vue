@@ -14,8 +14,8 @@
       male population. This is no small contribution and the Scots soldiers and
       their Scots officers were a major presence in the Danish and Swedish
       armies during the 30 Years War.
-      <br />
-      <br />Whether motivated by economic necessity, adventure or greed, these
+      <br>
+      <br>Whether motivated by economic necessity, adventure or greed, these
       soldiers made a major difference wherever and whenever called into action.
       They served with honor and courage wherever they fought and for whomever
       they fought. They also brought home those skills and, in some cases,
@@ -42,22 +42,22 @@
     <p>
       <b>June 1627</b> Successful defense of the Boizenburg sconce by four
       companies of the Regiment against 10,000 Imperial soldiers.
-      <br />
-      <br />
+      <br>
+      <br>
       <b>July 1627</b> Defense of Poul Island
-      <br />
-      <br />
+      <br>
+      <br>
       <b>August 1627</b> Defense of the pass at Oldenburgh
-      <br />
-      <br />
+      <br>
+      <br>
       <b>August 1627</b> Four company garrison of Bredenberg overrun and
       massacred
-      <br />
-      <br />
+      <br>
+      <br>
       <b>April 1628</b> Regiment is the advanced guard in the storming of
       Ekernforde
-      <br />
-      <br />
+      <br>
+      <br>
       <b>April 1628</b> Defense of Grossenbrode
     </p>
     <blockquote>
@@ -68,34 +68,34 @@
     <h6>– Monro at Stralsund</h6>
     <p>
       <b>28 May-14 July 1628</b> Siege of Stralsund
-      <br />
-      <br />
+      <br>
+      <br>
       <b>23 June</b> Stralsund transfers from protection of Christian of Denmark
       to Gustavus II Adolphus of Sweden. Alexander Leslie reinforces garrison
       with elements of Hepburn’s Regiment
-      <br />
-      <br />
+      <br>
+      <br>
       <b>3 August 1628</b> Regimental strength at 400 having lost 500 in siege
       is withdrawn to Wolgast under the command of Captain MacKenny.
-      <br />
-      <br />
+      <br>
+      <br>
       <b>12 August 1628</b> Battle of Wolgast. Regiment serves as rear guard for
       Danish withdrawal
-      <br />
-      <br />
+      <br>
+      <br>
       <b>December 1628</b> Regiment receives recruit levy from Scotland and goes
       into Winter Quarters
-      <br />
-      <br />
+      <br>
+      <br>
       <b>April 1629</b> Regiment cashiered out of Danish service at Angein with
       1400 soldiers and moved to Elsinore in preparation for transportation to
       Scotland
-      <br />
-      <br />
+      <br>
+      <br>
       <b>22 May 1629</b> Treaty of Lubeck and withdrawal of Denmark from the 30
       Years War
-      <br />
-      <br />
+      <br>
+      <br>
       <b>May 1629</b> Regiment enters Swedish Service
     </p>
     <blockquote>
@@ -108,8 +108,8 @@
     <h6>– Robert Monro</h6>
     <p>
       <b>June 1629-June 1630</b> Garrison at Braunsberg in Prussia
-      <br />
-      <br />
+      <br>
+      <br>
       <b>16 July 1630</b> Gustavus II Adolphus lands at Peenemunde in Germany
       with 2 Regiments of Cavalry, 4 Swedish Regiments of Foot and 4 Regiments
       of foreign foot. Hepburn’s Regiment of Foot and MacKay’s Regiment of Foot
@@ -120,7 +120,7 @@
         class="image--sm"
         src="@/assets/images/ScottishHistory/gustav.jpg"
         alt="Gustavus II Adolphus, King of Sweden, Finland and Livonia "
-      />
+      >
       <i>
         <h5>Gustavus II Adolphus, King of Sweden, Finland and Livonia</h5>
       </i>
@@ -133,15 +133,13 @@
       “The word treaty has been omitted from my instructions thus I have only
       powder and ball at the service of the Count De Monteculculi.”
     </blockquote>
-    <h6>
-      – Robert Monro in response to surrender terms at Coberg
-    </h6>
+    <h6>– Robert Monro in response to surrender terms at Coberg</h6>
     <p>
       <b>July 1630-Mar 1631</b> Seige of Coberg. MacKay’s and Hepburn’s
       Regiments defend against 8,000 Imperial soldiers attempting to lift seige
       at Schievelbein.
-      <br />
-      <br />
+      <br>
+      <br>
       <b>24 December 1630</b> Seige of Greifenhagen
     </p>
     <blockquote>
@@ -152,8 +150,8 @@
     <h6>– The Swedish Intelligencer</h6>
     <p>
       <b>1631</b> Seige of Demmin
-      <br />
-      <br />
+      <br>
+      <br>
       <b>24 March 1631</b> Scots Brigade formed under the command of Sir John
       Hepburn and consisting of Hepburn’s Regiment, MacKay’s Regiment,
       Stargate’s Regiment and Lumsen’s Regiment
@@ -167,8 +165,8 @@
       <b>1631</b> Storming of Frankfurt On Oder. Hepburn wounded in the assault
       while carrying 20 pound petard to the cirty gates. Monro leads the Brigade
       into the city and garrison is overrun.
-      <br />
-      <br />
+      <br>
+      <br>
       <b>8 April-18 April 1631</b> Seige of Landsberg. Outworks taken by
       MacKay’s and Hepburn’s Regiments. Defeated Imperial garrison of 6,000
       granted the honors of war and depart city with “2,00 female camp
@@ -180,7 +178,9 @@
       us, and so did the enemies also.”
     </blockquote>
     <h6>– Robert Monro at Werben</h6>
-    <p><b>July 1631</b> Seige of Werben</p>
+    <p>
+      <b>July 1631</b> Seige of Werben
+    </p>
     <blockquote>
       “We were not able by the rising of the dust to see about us, much less
       discerning the way of our enemies or the rest of outr brigades whereupon,
@@ -192,76 +192,74 @@
       <b>7 September 1631</b> Battle of Breitenfeld. Scots Brigade in the
       reserve and are used to refuse the Swedish flank and persue the fleeing
       Imperial army
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1631</b> Defense of Ochsenfurt by Scots Brigade.
     </p>
-    <blockquote>
-      “My brave Scots, why have you been too quick for me?”
-    </blockquote>
+    <blockquote>“My brave Scots, why have you been too quick for me?”</blockquote>
     <h6>– Gustavus II Adolphus at Oppenhiem</h6>
     <p>
       <b>20 November 1631</b> Siege of Oppenheim. City captured by 200 Scots
       before main assault, Scots capture first Spanish colors take by Swedish
       Army
-      <br />
-      <br />
+      <br>
+      <br>
       <b>December 1631</b> Surrender of Mainz
-      <br />
-      <br />
+      <br>
+      <br>
       <b>Jan-5 March 1632</b> Garrison of Mainz
-      <br />
-      <br />
+      <br>
+      <br>
       <b>March 1632</b> Seige of Donauworth
-      <br />
-      <br />
+      <br>
+      <br>
       <b>March 1632</b> Assualt river crossing of the Lech River at Rain
-      <br />
-      <br />
+      <br>
+      <br>
       <b>April 1632</b> Seige of Oberndorf
-      <br />
-      <br />
+      <br>
+      <br>
       <b>April 1632</b> Seige of Ingoldstadt
-      <br />
-      <br />
+      <br>
+      <br>
       <b>April 1632</b> Seige of Landshut
-      <br />
-      <br />
+      <br>
+      <br>
       <b>May-June 1632</b> Occupation of Munich and garrison duty Hepburn
       appointed Governor of Landshut and Munich
-      <br />
-      <br />
+      <br>
+      <br>
       <b>July-August 1632</b> Occupation of Nurenberg and skirmishing with
       entrenched Imperial forces
-      <br />
-      <br />
+      <br>
+      <br>
       <b>3 September 1632</b> Storming of Alte Fest
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1632</b> Storming of Furth
-      <br />
-      <br />
+      <br>
+      <br>
       <b>August 1632</b> Sir John Hepburn leaves Swedish Service
-      <br />
-      <br />
+      <br>
+      <br>
       <b>September 1632</b> Sir Robert Monro takes command of the Scots Brigade
     </p>
     <blockquote>“The right hand of the King”</blockquote>
     <h6>– Swedish description of the Green Brigade</h6>
     <p>
       <b>September 1632</b> Siege of Landsberg
-      <br />
-      <br />
+      <br>
+      <br>
       <b>October-February 1632</b> Scots Brigade in garrison at Ulm
-      <br />
-      <br />
+      <br>
+      <br>
       <b>16 November 1632</b> Gustavus II Adolphus killed at Lutzen
     </p>
     <div class="image">
       <img
         src="@/assets/images/ScottishHistory/irish-dress.jpeg"
         alt="In such dress the 800 Irish lately in Stettin walk about"
-      />
+      >
       <i>
         <h5>"In such dress the 800 Irish lately in Stettin walk about"</h5>
       </i>
@@ -275,24 +273,24 @@
     <h6>Scottish Soldiers at Stettin, 1632</h6>
     <p>
       <b>January–July 1633</b> Garrison at Donauworth
-      <br />
-      <br />
+      <br>
+      <br>
       <b>July 1633</b> Colonel Monro departs and command of the Scots Brigade
       assumed by Colonel John Sinclair
-      <br />
-      <br />
+      <br>
+      <br>
       <b>August 1633</b> Battle of Newmark and Colonel Sinclair killed
-      <br />
-      <br />
+      <br>
+      <br>
       <b>August 1633-August 1634</b> Colonel William Stewart commands Scots
       Brigade
-      <br />
-      <br />
+      <br>
+      <br>
       <b>6 September 1634</b> Scots Brigade attempts relief of Nordlingen is
       decimated and retreats to Worms. MacKay’s Regiment with one company
       remaining
-      <br />
-      <br />
+      <br>
+      <br>
       <b>October 1634</b> Relief of the besieged remnants of the Scots Brigade
       at Landau. The last of the 36 original pipers in MacKay’s Regiment
       welcomes Colonel Sir John Hepburn into the city. MacKay’s Regiment and the
@@ -314,8 +312,8 @@
       Scotland, whereof few returned with whole bones and less with estates”
     </blockquote>
     <h6>– John Crookshanks, 1713</h6>
-    <hr />
-    <h3>References:</h3>
+    <hr>
+    <h3>Sources:</h3>
     <ol>
       <li>Brander, A.M., The Royal Scots ( London, 1976)</li>
       <li>Childs, John, The Army of Charles II ( London, 1976)</li>

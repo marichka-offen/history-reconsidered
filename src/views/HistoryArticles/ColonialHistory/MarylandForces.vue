@@ -6,7 +6,7 @@
         class="image--sm"
         src="@/assets/images/us-mdcal.gif"
         alt="Calvert Arms Flag Kings Colors"
-      />
+      >
       <i>
         <h5>Flag of the Dutch West Indies Company</h5>
       </i>
@@ -25,8 +25,8 @@
       Governor Dinwiddie promises land in the Ohio country to those Virginians
       enlisting and extends the incentive to Marylanders who enter Maryland
       service.
-      <br />
-      <br />
+      <br>
+      <br>
       <b>September 1754</b> 50-60 men raised for CPT Dagworthy’s Company and
       marched to Ft. Mount Pleasant/Cumberland.
     </p>
@@ -52,15 +52,15 @@
     <h6>Maryland Gazette 3 October 1754</h6>
     <p>
       <b>November 1754</b> disposition of Maryland forces:
-      <br />
+      <br>
       <span class="padding">CPT Dagworthy’s Company with 50 men</span>
-      <br />
+      <br>
       <span class="padding">Cresaps “Fort” with 60 militia</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>8 December 1754</b> CPT Dagworthy at Ft Cumberland with 47 men
-      <br />
-      <br />
+      <br>
+      <br>
       <b>18 May 1755</b> GEN Braddock at Ft. Cumberland:
     </p>
     <blockquote>
@@ -72,15 +72,13 @@
       Maryland Rangers, 5 women to the artillery, 2 women to the detachment of
       seamen & 2 women to the troop of light horse.”
     </blockquote>
-    <br />
+    <br>
     <p>
       <b>June 1755</b> Braddocks Expedition
-      <br />
-      <span class="padding"
-        >CPT Dagworthy’s Maryland Provincial Rangers 3 Officers/49 men</span
-      >
-      <br />
-      <br />
+      <br>
+      <span class="padding">CPT Dagworthy’s Maryland Provincial Rangers 3 Officers/49 men</span>
+      <br>
+      <br>
       <b>September 1755</b> CPT Dagworthy’s Company garrisons Ft Cumberland with
       30 men
     </p>
@@ -98,7 +96,7 @@
     </blockquote>
     <h6>
       Governor Sharpe to Militia in eight counties,
-      <br />September 1755
+      <br>September 1755
     </h6>
     <p>
       <b>8 December 1755</b>
@@ -132,7 +130,7 @@
     </blockquote>
     <h6>
       COL Washington to GOV Dinwiddie at Alexandria,
-      <br />14 January, 1756
+      <br>14 January, 1756
     </h6>
     <blockquote>
       "Governor Dinwiddie, at the instance of Colonel Washington, having
@@ -179,7 +177,9 @@
       escape to the fort”
     </blockquote>
     <h6>Maryland Gazette 8 April 1756</h6>
-    <p><b>23 April 1756</b> Cresap’s Ambush</p>
+    <p>
+      <b>23 April 1756</b> Cresap’s Ambush
+    </p>
     <blockquote>
       “Last Saturday there came to Baltimore –Town from Conococheague, at the
       foot of the North Mountain, forty-one persons, viz. 6 men, 5 women, and 30
@@ -219,10 +219,10 @@
     <h6>Maryland Gazette, 6 May 1756</h6>
     <p>
       <b>May 1756</b> Two Companies raised to serve until Feb 1757:
-      <br />
+      <br>
 
       <span class="padding">CPT Dagworthy’s (100 men)</span>
-      <br />
+      <br>
       <span class="padding">CPT Alexander Beall’s (100 men)</span>
     </p>
     <blockquote>
@@ -234,7 +234,7 @@
     </blockquote>
     <h6>
       Given at our Court at Kensington, the 17th of May 1756,
-      <br />in the 29th year of Our Reign by His Majesties Command, H. FOX
+      <br>in the 29th year of Our Reign by His Majesties Command, H. FOX
     </h6>
     <p>
       <b>20 May 1756</b>
@@ -254,9 +254,9 @@
     <p>
       <b>2 August 1756</b>
       Ft Frederick Garrison:
-      <br />
+      <br>
       <span class="padding">CPT Dagworthy’s Company (100 men)</span>
-      <br />
+      <br>
       <span class="padding">CPT Alexander Beall’s Company (100 men)</span>
     </p>
     <blockquote>
@@ -289,7 +289,7 @@
     </blockquote>
     <h6>
       COL Washington to LTC Adam Stephen at Winchester,
-      <br />5 August, 1756
+      <br>5 August, 1756
     </h6>
     <p>
       <b>30 August 1756</b> 2 militia companies sent to Ft Frederick for 1 month
@@ -305,15 +305,15 @@
     </blockquote>
     <h6>
       COL Washington to GOV Dinwiddie, at Winchester,
-      <br />8 September, 1756
+      <br>8 September, 1756
     </h6>
     <p>
       <b>October 1756</b> 3rd company of 100 men added to serve to Apr 1757
-      <br />
-      <br />
+      <br>
+      <br>
       <b>February 1757</b> 2 companies extended to Apr 1757
-      <br />
-      <br />Deserted from Fort Frederick, on the 22nd of February, in the
+      <br>
+      <br>Deserted from Fort Frederick, on the 22nd of February, in the
       evening, the two following persons, viz., Phillip Connelly, aged 28 years,
       5 feet 10 inches high, of a brown complexion, and was born in St Mary’s
       County, Maryland. He had on when he went away, a red coat and breeches
@@ -326,32 +326,30 @@
       the said deserters, and bring them to Fort Frederick, or secure them so
       that they may be brought to the fort shall have a pistole reward for each
       man paid by Joshua Beall.
-      <br />
-      <br />
+      <br>
+      <br>
       <b>10 March 1757</b>, Maryland Gazette
-      <br />
-      <br />
+      <br>
+      <br>
       <b>April 1757</b> CPT Alexander Beal’s Company garrison Ft Frederick.
-      <br />
-      <br />
+      <br>
+      <br>
       <b>1 May 1757</b> Virginia Regiment departs Ft Cumberland and turns it
       over to Maryland Forces
-      <br />
-      <br />
+      <br>
+      <br>
       <b>May 1757</b> Maryland Forces, commanded by CPT Dagworthy, composed of
       the following:
-      <br />
+      <br>
       <span class="padding">CPT John Dagworthy</span>
-      <br />
+      <br>
       <span class="padding">CPT Alexander Beall</span>
-      <br />
+      <br>
       <span class="padding">CPT Joshua Beall</span>
-      <br />
+      <br>
       <span class="padding">CPT Francis Ware</span>
-      <br />
-      <span class="padding"
-        >CPT Richard Pearis (Cherokee and Catawba Indians)</span
-      >
+      <br>
+      <span class="padding">CPT Richard Pearis (Cherokee and Catawba Indians)</span>
     </p>
     <blockquote>
       "Annapolis May 19. By an Act of Assembly of this province, which was made
@@ -422,14 +420,14 @@
     </blockquote>
     <h6>
       GOV Sharpe to Prime Minister Pitt,
-      <br />22 October 1757
+      <br>22 October 1757
     </h6>
     <p>
       <b>October 1757</b>
       Reduction to 3 companies assigned to garrison Ft. Frederick and patrolling
       the border
-      <br />
-      <br />
+      <br>
+      <br>
       <b>December 1757</b> CPT Alexander Beall’s Company (100 men) garrison at
       Ft Frederick and other companies (360 men) at Ft Cumberland or on ranging
       duty.
@@ -443,7 +441,7 @@
     </blockquote>
     <h6>
       GOV Sharpe to Prime Minister Pitt on the Colonial Assembly,
-      <br />16 March 1758.
+      <br>16 March 1758.
     </h6>
     <blockquote>
       “The men that are in garrison at Fort Cumberland, being in number about
@@ -456,7 +454,7 @@
     </blockquote>
     <h6>
       GOV Sharpe to Prime Minister Pitt,
-      <br />16 March 1758
+      <br>16 March 1758
     </h6>
     <blockquote>
       “Rather than let your troops be disbanded, I will take them into the pay
@@ -464,7 +462,7 @@
     </blockquote>
     <h6>
       GEN Forbes to GOV Sharpe,
-      <br />2 May 1758
+      <br>2 May 1758
     </h6>
     <blockquote>
       “I must likewise desire that you will order all your troops up to Fort
@@ -473,7 +471,7 @@
     </blockquote>
     <h6>
       GEN Forbes to GOV Sharpe,
-      <br />12 May 1758
+      <br>12 May 1758
     </h6>
     <blockquote>
       “As soon as those of them that that are at Fort Frederick and on our
@@ -484,12 +482,12 @@
     </blockquote>
     <h6>
       GOV Sharpe to Prime Minister Pitt,
-      <br />18 May 1758
+      <br>18 May 1758
     </h6>
     <p>
       <b>31 May 1758</b> CPT Pearis’ Company disbanded
-      <br />
-      <br />
+      <br>
+      <br>
       <b>9 June 1758</b> CPT Dagworthy and 150 men sent from Ft Frederick to
       garrison Ft. Cumberland. CPT Alexander Beall’s Company and volunteer
       militia garrison Ft Frederick
@@ -504,7 +502,7 @@
     </blockquote>
     <h6>
       GEN Forbes to William Pitt,
-      <br />17 June, 1758
+      <br>17 June, 1758
     </h6>
     <blockquote>
       Sir, Having considered what you told me concerning the situation of your
@@ -520,19 +518,19 @@
     </blockquote>
     <h6>
       General Forbes to Governor Sharpe,
-      <br />20 July 1758
+      <br>20 July 1758
     </h6>
     <p>
       <b>August 26–17 Sep 1758</b> Maryland forces rendezvous at Ft. Bedford for
       Forbes Expedition
-      <br />
+      <br>
       <span class="padding">LTC Dagworthy’s Company</span>
       <span class="padding">CPT Alexander Beall’s Company</span>
-      <br />
+      <br>
       <span class="padding">CPT Joshua Beall’s Company</span>
-      <br />
+      <br>
       <span class="padding">CPT Francis Ware’s Company</span>
-      <br />
+      <br>
       <span class="padding">(16 Officers/270 men)</span>
     </p>
     <blockquote>
@@ -540,14 +538,14 @@
       prevailed on to come thus far if I was to attempt to carry ‘em to Fort
       Cumberland, bit I am endeavoring to get 200 or 250 Volunteers to accompany
       me to Fort Cumberland & to stay there till the affair is decided.
-      <br />Beside the Maryland Troops as we call them which consist of 320 men
+      <br>Beside the Maryland Troops as we call them which consist of 320 men
       I have prevailed on a Company of 40 Volunteers all good marksmen & used to
       the woods to join the army, they are commanded by a Gentleman that has
       served upward of two years as a Lieutenant in our provincials.”
     </blockquote>
     <h6>
       GOV Sharpe to Prime Minister Pitt,
-      <br />27 August 1758
+      <br>27 August 1758
     </h6>
     <blockquote>
       “I have wrote to Colo Bouquet of your kind agreement of garrisoning Fort
@@ -558,7 +556,7 @@
     </blockquote>
     <h6>
       GEN Forbes to GOV Sharpe,
-      <br />3 September 1758
+      <br>3 September 1758
     </h6>
     <blockquote>
       ‘The Governor of Maryland I am greatly obliged to, having personally acted
@@ -569,23 +567,21 @@
     </blockquote>
     <h6>
       GEN Forbes to William Pitt,
-      <br />6 September 1758
+      <br>6 September 1758
     </h6>
     <p>
       <b>14 September 1758</b> Grants Raid
-      <br />
+      <br>
 
       <span class="padding">CPT Ware’s Company (95 men)</span>
-      <br />
+      <br>
       <span class="padding">KIA LT Moore and 23 men</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>14 October 1758 Ligonier defense</b>
-      <br />
-      <span class="padding"
-        >CPT Evan Shelby’s Company of Maryland Volunteers (50 men)</span
-      >
-      <br />
+      <br>
+      <span class="padding">CPT Evan Shelby’s Company of Maryland Volunteers (50 men)</span>
+      <br>
       <span class="padding">2 KIA, 6 WIA and 12 missing</span>
     </p>
     <blockquote>
@@ -594,12 +590,12 @@
     </blockquote>
     <h6>
       General Forbes to Richard Peters,
-      <br />16 October 1758
+      <br>16 October 1758
     </h6>
     <p>
       <b>12 November 1758</b> Ligonier skirmish
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>15-24 November 1758</b> move to Duquesne
     </p>
@@ -611,46 +607,42 @@
     </blockquote>
     <h6>
       General Forbes to Governor Denny,
-      <br />26 November 1758
+      <br>26 November 1758
     </h6>
     <p>
       <b>December 1758-April 1759</b> 2 Companies garrison Ft Frederick
-      <br />
-      <br />
+      <br>
+      <br>
 
       <b>30 December 1758</b> CPT Alexander Beall’s Company disbanded
-      <br />
+      <br>
 
       <span class="padding">CPT Joshua Beall’s Company disbanded</span>
-      <br />
+      <br>
       <span class="padding">CPT Francis Ware’s Company disbanded</span>
-      <br />
-      <br />
+      <br>
+      <br>
       <b>July 1763</b> Bouquet’s Expedition to relieve Ft. Pitt
-      <br />
-      <span class="padding"
-        >CPT Lemuel Barret’s Maryland ranger detachment (30 men)</span
-      >
-      <br />
-      <br />
+      <br>
+      <span class="padding">CPT Lemuel Barret’s Maryland ranger detachment (30 men)</span>
+      <br>
+      <br>
 
       <b>5 August 1763</b> Battle of Bushy Run
-      <br />
-      <span class="padding"
-        >CPT Lemuel Barret’s Maryland ranger detachment (30 men)</span
-      >
-      <br />
-      <br />
+      <br>
+      <span class="padding">CPT Lemuel Barret’s Maryland ranger detachment (30 men)</span>
+      <br>
+      <br>
 
       <b>August-November 1764</b>
       Bouquets Expedition to the Ohio
-      <br />
+      <br>
       <span class="padding">CPT McClellan’s Company (43 men)</span>
-      <br />
+      <br>
       <span class="padding">CPT Wolgamott’s Company (15 men)</span>
     </p>
-    <hr />
-    <h3>References:</h3>
+    <hr>
+    <h3>Sources:</h3>
     <ol>
       <li>
         Browne, William Hand, “Proceeds of the Council of Maryland, August 10,
@@ -705,8 +697,7 @@
       <li>
         <a
           href="http://www.msa.md.gov/megafile/msa/speccol/sc4800/sc4872/001279/html/index.html"
-          >Maryland Gazette ( MSA SC 2731) January 2, 1752 - October 19, 1758</a
-        >
+        >Maryland Gazette ( MSA SC 2731) January 2, 1752 - October 19, 1758</a>
       </li>
     </ol>
   </div>
