@@ -34,6 +34,7 @@ import BritAmerica from "./views/HistoryArticles/ColonialHistory/BritAmerica.vue
 import RegularsVA from "./views/HistoryArticles/ColonialHistory/RegularsVA.vue";
 import MarylandForces from "./views/HistoryArticles/ColonialHistory/MarylandForces.vue";
 import VARangers from "./views/HistoryArticles/ColonialHistory/VARangers.vue";
+import Severn from "./views/HistoryArticles/ColonialHistory/Severn.vue";
 
 // THE HUSSITES
 import Hussites from "./views/HistoryArticles/Hussites/Hussites.vue";
@@ -173,6 +174,11 @@ export default new Router({
       path: "/colonial-history/va-rangers",
       name: "va-rangers",
       component: VARangers
+    },
+    {
+      path: "/colonial-history/severn-battle",
+      name: "severn-battle",
+      component: Severn
     },
     {
       path: "/hussites",
