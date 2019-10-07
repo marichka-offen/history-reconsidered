@@ -3,15 +3,15 @@
     <h2>America's First Marines</h2>
     <div class="pages-grid">
       <img
-        src="@/assets/images/book-ss1.png"
+        src="@/assets/images/book/book-ss1.png"
         alt="America's First Marines book cover"
       />
       <img
-        src="@/assets/images/book-ss2.png"
+        src="@/assets/images/book/book-ss2.png"
         alt="America's First Marines page"
       />
       <img
-        src="@/assets/images/book-ss3.png"
+        src="@/assets/images/book/book-ss3.png"
         alt="America's First Marines page"
       />
     </div>
@@ -19,7 +19,7 @@
       <a
         href="https://www.amazon.com/Americas-First-Marines-American-Regiment/dp/1463521146"
         target="_blank"
-        >Now for sale at Amazon.com</a
+        >Now for sale on Amazon.com</a
       >
     </h2>
 

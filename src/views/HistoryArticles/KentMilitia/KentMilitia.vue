@@ -1,7 +1,15 @@
 <template>
   <div>
     <h2>The Kent County Militia, 1660-1707</h2>
-    <!-- IMAGE -->
+    <div class="image">
+      <img
+        src="@/assets/images/kent-militia.jpg"
+        alt="Flag of the Dutch West Indies Company"
+      />
+      <i>
+        <h5>Flag of the Dutch West Indies Company</h5>
+      </i>
+    </div>
     <p>
       We are a reenactment group primarily seeking to portray a militia company
       and their families in the colony of Maryland between the years 1660-1707.
