@@ -13,23 +13,19 @@ import Maryland from "./views/HistoryArticles/KentMilitia/Maryland.vue";
 // CZECHOSLVAK LEGION
 import CzechoslovakLegion from "./views/HistoryArticles/CzechoSlovakLegion/CzechoslovakLegion.vue";
 // IRISH HISTORY
-import IrishHistory from "./views/HistoryArticles/IrishHistory/IrishHistory.vue";
 import ONeilRebelion from "./views/HistoryArticles/IrishHistory/ONeilRebelion.vue";
 import ThreeKingdoms from "./views/HistoryArticles/IrishHistory/ThreeKingdoms.vue";
 import Ireland from "./views/HistoryArticles/IrishHistory/Ireland.vue";
 import WilliamiteWar from "./views/HistoryArticles/IrishHistory/WilliamiteWar.vue";
 import IrishMilEstabl from "./views/HistoryArticles/IrishHistory/IrishMilEstabl.vue";
 // DUTCH HISTORY
-import DutchHistory from "./views/HistoryArticles/DutchHistory/DutchHistory.vue";
 import EightyYearsWar from "./views/HistoryArticles/DutchHistory/EightyYearsWar.vue";
 import NewNetherlans from "./views/HistoryArticles/DutchHistory/NewNetherlans.vue";
 // SCOTTISH HISTORY
-import ScottishHistory from "./views/HistoryArticles/ScottishHistory/ScottishHistory.vue";
 import MacKay from "./views/HistoryArticles/ScottishHistory/MacKay.vue";
 import Dumbarton from "./views/HistoryArticles/ScottishHistory/Dumbarton.vue";
 import Stuart from "./views/HistoryArticles/ScottishHistory/Stuart.vue";
 // COLONIAL HISTORY
-import ColonialHistory from "./views/HistoryArticles/ColonialHistory/ColonialHistory.vue";
 import BritAmerica from "./views/HistoryArticles/ColonialHistory/BritAmerica.vue";
 import RegularsVA from "./views/HistoryArticles/ColonialHistory/RegularsVA.vue";
 import MarylandForces from "./views/HistoryArticles/ColonialHistory/MarylandForces.vue";
@@ -86,11 +82,6 @@ export default new Router({
       component: CzechoslovakLegion
     },
     {
-      path: "/irish-history",
-      name: "irish-history",
-      component: IrishHistory
-    },
-    {
       path: "/irish-history/oneils-rebelion",
       name: "oneils-rebelion",
       component: ONeilRebelion
@@ -116,11 +107,6 @@ export default new Router({
       component: IrishMilEstabl
     },
     {
-      path: "/dutch-history",
-      name: "dutch-history",
-      component: DutchHistory
-    },
-    {
       path: "/dutch-history/eighty-years-war",
       name: "eighty-years-war",
       component: EightyYearsWar
@@ -129,11 +115,6 @@ export default new Router({
       path: "/dutch-history/new-netherlands",
       name: "new-netherlands",
       component: NewNetherlans
-    },
-    {
-      path: "/scottish-history",
-      name: "scottish-history",
-      component: ScottishHistory
     },
     {
       path: "/scottish-history/mackeys-regiment",
@@ -149,11 +130,6 @@ export default new Router({
       path: "/scottish-history/house-stuart",
       name: "house-stuart",
       component: Stuart
-    },
-    {
-      path: "/colonial-history",
-      name: "colonial-history",
-      component: ColonialHistory
     },
     {
       path: "/colonial-history/british-america",
