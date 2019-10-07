@@ -2,7 +2,10 @@
   <div>
     <h2>About History Reconsidered</h2>
     <div class="container">
-      <img src="#" alt="Lee Offen" />
+      <img
+        src="@/assets/images/lee-and-kathleen.jpg"
+        alt="Lee Offen & Kathleen McLaughlin"
+      />
 
       <p>
         HistoryReconsidered.net was conceived and written by Lee Offen.
@@ -26,10 +29,8 @@ export default {};
 
 <style lang="scss" scoped>
 img {
-  border: 1px solid black;
   display: inline-block;
   width: 35rem;
-  height: 40rem;
   float: left;
   margin-right: 2rem;
 }

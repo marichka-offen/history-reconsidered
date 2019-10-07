@@ -11,11 +11,4 @@
 export default {};
 </script>
 
-<style lang="scss" scoped>
-.winston {
-  font-family: "Windsong", cursive;
-  text-align: center;
-  font-size: 4rem;
-  margin: 0;
-}
-</style>
+<style lang="scss" scoped></style>
