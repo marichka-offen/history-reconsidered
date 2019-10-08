@@ -4,7 +4,7 @@
       <Title />
       <div class="grid">
         <div class="grid__left">
-          <div>
+          <div class="bar">
             <Navbar />
             <br />
             <ArticleBar />
@@ -12,7 +12,12 @@
         </div>
         <div class="grid__right">
           <MainQuote />
-          <router-view class="main-content" />
+          <div class="printer" onclick="window.print();return false;">
+            <img src="@/assets/images/printer.svg" alt="printer" />
+          </div>
+          <transition name="fade" mode="out-in">
+            <router-view class="main-content print" />
+          </transition>
         </div>
       </div>
       <br />
@@ -112,6 +117,7 @@ h3 {
 }
 h4 {
   font-size: 1.1em;
+  color: #a72525;
 }
 h5 {
   font-size: 0.83em;
@@ -130,6 +136,7 @@ p {
 
 a {
   text-decoration: none;
+  display: block;
 }
 
 small {
@@ -144,9 +151,11 @@ hr {
 }
 
 blockquote {
-  text-align: center;
+  text-align: justify;
   font-family: "AquilineTwo", cursive;
   font-size: 2.5rem;
+  width: 80%;
+  margin: 30px auto;
   // letter-spacing: 1.5px;
 }
 
@@ -192,6 +201,11 @@ img {
   &--sm {
     width: 60%;
   }
+
+  &--md {
+    width: 80%;
+  }
+
   &--cl {
     width: 27%;
     margin: 0 1rem;
@@ -207,5 +221,90 @@ img {
 }
 .pointer {
   cursor: pointer;
+  color: #444;
+  display: block;
+}
+.winston {
+  display: block;
+  font-family: "Windsong", cursive;
+  text-align: center;
+  font-size: 4rem;
+  margin: 0;
+  padding: 2rem;
+}
+
+// TRANSITION
+
+.fade-enter {
+  opacity: 0;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.2s ease-out;
+}
+
+.fade-leave-to {
+  opacity: 0;
+}
+
+.printer {
+  width: 4rem;
+  height: 4rem;
+  float: right;
+  margin-right: 5rem;
+  opacity: 0.5;
+  transition: all 1s;
+  cursor: pointer;
+
+  &:hover {
+    opacity: 1;
+    transform: scale(1.2);
+  }
+
+  & > * {
+    box-shadow: none;
+  }
+}
+
+@media print {
+  body {
+    visibility: hidden;
+  }
+  #app {
+    width: 100%;
+  }
+  .print {
+    visibility: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 16px;
+  }
+  .grid {
+    display: block;
+  }
+}
+
+@media screen and (max-device-width: 1200px) {
+  .winston {
+    font-size: 3rem;
+  }
+
+  #app {
+    width: 100vw;
+    box-shadow: none;
+  }
+}
+
+@media screen and (max-device-width: 800px) {
+  h1 {
+    font-size: 1.7em;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: auto;
+  }
 }
 </style>
