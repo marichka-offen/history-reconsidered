@@ -24,4 +24,18 @@ export default {};
 a {
   color: #444;
 }
+
+@media screen and (max-device-width: 800px) {
+  #nav {
+    flex-direction: row;
+    width: auto;
+    justify-content: center;
+    border-right: none;
+    border-bottom: 1.5px solid rgba(#8d6f6f, 0.6);
+
+    & > * {
+      padding: 0 2rem;
+    }
+  }
+}
 </style>
