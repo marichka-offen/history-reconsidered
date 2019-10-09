@@ -317,5 +317,9 @@ img {
   .printer {
     float: left;
   }
+
+  .main-content {
+    padding: 0 2rem 2rem;
+  }
 }
 </style>
