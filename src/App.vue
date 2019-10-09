@@ -7,7 +7,9 @@
           <div class="bar">
             <Navbar />
             <br />
-            <ArticleBar />
+            <div class="invisible">
+              <ArticleBar />
+            </div>
           </div>
         </div>
         <div class="grid__right">
@@ -87,6 +89,7 @@ body {
   background-position: center;
   background-attachment: fixed;
   filter: grayscale(10%);
+  width: fit-content;
 }
 
 #app {
@@ -234,7 +237,6 @@ img {
 }
 
 // TRANSITION
-
 .fade-enter {
   opacity: 0;
 }
@@ -248,6 +250,7 @@ img {
   opacity: 0;
 }
 
+// PRINT
 .printer {
   width: 4rem;
   height: 4rem;
@@ -286,18 +289,18 @@ img {
   }
 }
 
-@media screen and (max-device-width: 1200px) {
+@media screen and (max-width: 1200px) {
   .winston {
     font-size: 3rem;
   }
 
   #app {
-    width: 100vw;
+    width: 100%;
     box-shadow: none;
   }
 }
 
-@media screen and (max-device-width: 800px) {
+@media screen and (max-width: 950px) {
   h1 {
     font-size: 1.7em;
   }
@@ -305,6 +308,14 @@ img {
   .grid {
     display: grid;
     grid-template-columns: auto;
+  }
+
+  .invisible {
+    display: none;
+  }
+
+  .printer {
+    float: left;
   }
 }
 </style>
