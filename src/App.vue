@@ -123,7 +123,7 @@ h4 {
   color: #a72525;
 }
 h5 {
-  font-size: 0.83em;
+  font-size: 1em;
   margin: 0;
 }
 h6 {
