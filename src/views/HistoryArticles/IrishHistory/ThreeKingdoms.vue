@@ -911,6 +911,391 @@
       absence of unity of command made unity of purpose and action impossible.
     </p>
     <h3>Scottish Regiments (Army of Ulster)</h3>
+    <h5>Marquis of Argyle’s</h5>
+    (yellow saltire on black background) <br />Ireland 1642-1644, 1645-1648
+    <br />Scotland 1644
+    <br />
+
+    <span class="padding">1642 Invasion of Rathlin Island</span>
+    <br />
+    <span class="padding">
+      1642 Garrisoned at Dunluce Castle, Ballycastle, Ballymoney Ballantree,
+      Ballintoy
+    </span>
+    <br />
+    <span class="padding">1644 Expedition to Leinster</span>
+    <br />
+    <span class="padding">1644 Scotland</span>
+    <br />
+    <span class="padding">1645 Ireland</span>
+    <br />
+    <span class="padding"
+      >1645 Sent contingent to Scotland under Col Robert Home</span
+    >
+    <br />
+    <span class="padding">1645 Invasion of Islay</span>
+    <br />
+    <span class="padding"
+      >1648 Commander and Major cashiered for opposition to Engagement</span
+    >
+    <br />
+    <span class="padding"
+      >1648 Sent contingent under Col George Monro to Scotland</span
+    >
+    <br />
+    <span class="padding"
+      >1648 Disbanded by Monck after Robert Monro’s capture</span
+    >
+    <br />
+    <br />
+    <h5>Sir Mungo Campbell of Lawer’s</h5>
+    (white saltire on blue background) <br />Ireland 1642- March 1644
+    <br />
+    <span class="padding">1642 Coleriane Expedition</span>
+    <br />
+    <span class="padding">1642 Templepatrick garrison</span>
+    <br />
+    <span class="padding">1644 Scotland</span>
+    <br />
+    <span class="padding">1647 Ireland</span>
+    <br />
+    <span class="padding">1648 Scotland</span>
+    <br />
+    <br />
+    <h5>Earl of Lindsay’s</h5>
+    Ireland 1642- 1648
+    <br />
+    <span class="padding">1642 Bangor Garrison</span>
+    <br />
+    <span class="padding">1643 Claneboys Wood expedition</span>
+    <br />
+    <span class="padding">1644 Leinster expedition</span>
+    <br />
+    <span class="padding">1644 Castlehaven campaign</span>
+    <br />
+    <span class="padding"
+      >1645 Sent contingent to Scotland under Col Robert Home</span
+    >
+    <br />
+    <span class="padding">1645 Benburb</span>
+    <br />
+    <span class="padding"
+      >1648 Sent contingent under Col George Monro to Scotland</span
+    >
+    <br />
+    <span class="padding"
+      >1648 Disbanded by Monck after Robert Monro’s capture</span
+    >
+    <br />
+    <br />
+    <h5>Earl of Eglinton’s 1642-1644 /James Montgomery’s 1644-1648</h5>
+    Ireland 1642-1648
+    <br />
+    <span class="padding">1642 Bangor garrison</span>
+    <br />
+    <span class="padding">1643 Claneboys Wood expedition</span>
+    <br />
+    <span class="padding">1644 Leinster expedition</span>
+    <br />
+    <span class="padding"
+      >1645 Sent contingent to Scotland under Col Robert Home</span
+    >
+    <br />
+    <span class="padding">1645 Benburb</span>
+    <br />
+    <span class="padding"
+      >1648 Sent contingent under Col George Monro to Scotland</span
+    >
+    <br />
+    <span class="padding"
+      >1648 Disbanded by Monck after Robert Monro’s capture</span
+    >
+    <br />
+    <br />
+    <h5>Earl of Glencairn’s</h5>
+    Ireland 1642-1648
+    <br />
+    <span class="padding">1642 Carrickfergus garrison</span>
+    <br />
+    <span class="padding">1643 Siege of Charlemont</span>
+    <br />
+    <span class="padding">1644 Leinster expedition</span>
+    <br />
+    <span class="padding">1644 Castlehaven campaign</span>
+    <br />
+    <span class="padding"
+      >1645 Sent contingent to Scotland under Col Robert Home</span
+    >
+    <br />
+    <span class="padding">1645 Benburb</span>
+    <br />
+    <span class="padding">1648 Ejected from Army of Ulster</span>
+    <br />
+    <span class="padding">1648 Joined Monck’s army</span>
+    <br />
+    <span class="padding"
+      >1648 Assisted in capture of Robert Monro at Carrickfergus</span
+    >
+    <br />
+    <br />
+    <h5>
+      Col Robert Home’s 1642-1644 /Col John Maxwell’s 1645/ Col Robert Home’s
+      1646-1648
+    </h5>
+    (white saltire on green background) <br />(conjecture: incorporated Earl of
+    Leven’s Lifeguard Company of Foot) <br />Ireland 1642-1644
+    <br />
+
+    <span class="padding">1642 Newry</span>
+    <br />
+    <span class="padding">1642 Leven’s expeditions</span>
+    <br />
+    <span class="padding">1643 Carrickfergus Garrison</span>
+    <br />
+    <span class="padding">1643 Claneboys Wood expedition</span>
+    <br />
+    <span class="padding">1643 Siege of Newcastle</span>
+    <br />
+    <span class="padding">1644 Seizure and occupation of Belfast</span>
+    <br />
+    <span class="padding">1644 Leinster expedition</span>
+    <br />
+    <span class="padding">1644 Castlehaven campaign</span>
+    <br />
+    <br />
+    <h5>Scotland 1645 (in red coats)</h5>
+    1646 Home returns to Ireland to command regiment <br />1645 Benburb
+    <br />1648 Sent contingent under Col George Monro to Scotland <br />1648
+    Disbanded by Monck after Robert Monro’s capture <br />Earl of Lothian’s
+    Regiment
+    <br />
+    <br />
+    <h5>Ireland 1642-1644</h5>
+    1642 Leven’s expeditions <br />Scotland 1644
+    <br />
+    <br />
+    <h5>Earl of Leven’s 1642 /Col George Monro’s Regt 1643-1648</h5>
+    (conjectural: white saltire on blue background in upper left of a solid red
+    field) <br />Ireland 1642-1648
+    <br />
+    <span class="padding">1642 Apperly Hills expedition</span>
+    <br />
+    <span class="padding">1642 Garrsion Dunluce Castle</span>
+    <br />
+    <span class="padding">1642 Garrison Coleraine</span>
+    <br />
+    <span class="padding">1642 Leven’s expeditions</span>
+    <br />
+    <span class="padding">1644 Leinster expedition</span>
+    <br />
+    <span class="padding">1644 Castlehaven campaign</span>
+    <br />
+    <span class="padding"
+      >1645 Sent contingent to Scotland under Col Robert Home</span
+    >
+    <br />
+    <span class="padding">1645 Benburb</span>
+    <br />
+    <span class="padding"
+      >1648 Sent contingent under Col George Monro to Scotland</span
+    >
+    <br />
+    <span class="padding">
+      1648 Disbanded by Monck after Robert Monro’s capture and enters
+      Parliamentarian service as Conways Regiment
+    </span>
+    <br />
+    <span class="padding"
+      >1648 Mutinies and elects Montgomery of Ards as commander</span
+    >
+    <br />
+    <span class="padding"
+      >1648 Joins Col George Monro in siege of Londonderry</span
+    >
+    <br />
+    <span class="padding"
+      >1649 Re-occupies Colerain after siege of Londonderry is lifted</span
+    >
+    <br />
+    <br />
+    <h5>MAJ Gen Sir Robert Monro’s 1642-1648</h5>
+
+    <span class="padding">1642 Coleraine expedition</span>
+    <br />
+    <span class="padding">1644 Seizure of Belfast</span>
+    <br />
+    <span class="padding">1644 Leinster expedition</span>
+    <br />
+    <span class="padding">1644 Castlehaven campaign</span>
+    <br />
+    <span class="padding">1645 Benburb</span>
+    <br />
+    <span class="padding"
+      >1648 Sent contingent under Col George Monro to Scotland</span
+    >
+    <br />
+    <span class="padding"
+      >1648 Disbanded by Monck after Robert Monro’s capture</span
+    >
+    <br />
+    <br />
+    <h5>Lord Sinclair’s Regt</h5>
+    Ireland 1642-1644 <br />Scotland 1644-1647 <br />Train of Artillery, General
+    Sir Alexander Hamilton <br />Horse in troop sized (100 or less) elements
+    <br />
+    <br />
+    <h5>Settler Regiments</h5>
+    Regiments of the Laggan Army (West Ulster) 1641-48 <br />Sir Robert
+    Stewart’s (Scots) (Donegal/Tyrone) <br />Sir William Stewart (Scots)
+    (Donegal/Tyrone) <br />Sir Ralph Gore/Colonel Audley Mervin (English)
+    (Donegal) <br />Sir William Cole (English) (Enniskillen) <br />East Ulster
+    Regiments 1641-48 <br />Sir James Montgomery (Scots) (Down) <br />Sir George
+    Rawdon (Scots) (Down) <br />Sir John Clotworthy (English) (Antrim) <br />Sir
+    Edward, Lord Conway (English) (Antrim) <br />Sir James Hamilton, Lord
+    Claneboye (Scots) (Down) <br />Sir Hugh Montgomery, Lord of Ards (Scots)
+    (Down) <br />Sir Arthur Chichester (English) disbanded 1644 (Antrim)
+    <br />
+    <br />
+    <h5>Leinster Regiments 1641-48</h5>
+    Sir Henry Tichbourne (English) <br />Sir Charles Coote (English) <br />Sir
+    Piers Crosby (English) <br />Lord Lambard (English)
+    <h4>Parliamentarian Regiments</h4>
+    <h5>Munster Regiments 1642-44</h5>
+    Sir William Leger, Lord President of Munster/Lord Inchiquin (English)
+    <br />Sir Charles Vavasour (English) <br />Sir William Ogle (English)
+    <br />Sir John Paulet (English)
+    <br />
+    <br />
+    <h5>Connaught Regiments 1642-44</h5>
+    Lord Ranelagh (English) <br />Sir Michael Earnley (English)
+    <br />
+    <br />
+    <h5>Lienster Regiments 1642-44</h5>
+    Lord Lieutenants (commanded by Col George Monck) (English) <br />Sir Simon
+    Harcourt (English) <br />Sir Fulk Hunck (English) <br />Lord Lisle’s Horse
+    (English)
+    <hr />
+    <h3>Sources:</h3>
+    <ol>
+      <li>
+        Ashley, Maurice, General Monck, (Rowman and Littlefield, New Jersey,
+        1977)
+      </li>
+      <li>
+        Bennet, Martyn, The Civil Wars in Britain and Ireland 1638-1651,
+        (Blackwell Publishing, Oxford, UK, 1997)
+      </li>
+      <li>
+        Clarke, Aidan, The Old English In Ireland, 1625-42, (McGibbon and Kee,
+        London, 1966)
+      </li>
+      <li>
+        Cronne, H.A., et. al., ed, Essays in British and Irish History,
+        (Frederick Muller, Ltd., London, 1949)
+      </li>
+      <li>
+        Furgol, Edward M., A Regimental History of the Covenanting Armies,
+        1639-1651, (John Donald Publishers, Edinburgh, 1990)
+      </li>
+      <li>
+        Gillespie, Raymond, Colonial Ulster, The Settlement of East Ulster,
+        1600-1641, ( Cork University Press, Cork, 1985)
+      </li>
+      <li>
+        Harrison, John, The Scot in Ulster, (William Blackwood and Sons,
+        Edinburgh, 1888)
+      </li>
+      <li>
+        Kenyon, John and Ohlmeyer, ed., The Civil Wars, A Military History of
+        England, Scotland and Ireland, 1638-1660, (Oxford University Press,
+        Oxford, 1998)
+      </li>
+      <li>
+        Lenihan, Padriag, Confederate Catholics at War, 1641-49, (Cork
+        University Press, Cork, 2001)
+      </li>
+      <li>
+        MacCuarta, Brian, SJ, ed., Ulster 1641, Aspects of the Rising,
+        (Institute of Irish Studies, Belfast, 1993)
+      </li>
+      <li>
+        McKenny, Kevin, The Lagan Army in Ireland, 1640-1685, (Fourcourts Press,
+        Dublin, 2005)
+      </li>
+      <li>
+        O’Dowd, Mary, A History of Women in Ireland, 1500-1800, (Pearson
+        Education, Ltd., Harlow, UK, 2005)
+      </li>
+      <li>
+        Ohlmeyer, Jane N. ed., Ireland From Independence to Occupation
+        1641-1660, (Cambridge University Press, UK, 1995)
+      </li>
+      <li>
+        Perceval-Maxwell, M., The Scottish Migration to Ulster in the Reign of
+        James I, (Ulster Historical Foundation, Ireland, 1999)
+      </li>
+      <li>
+        Perceval-Maxwell, M., The Outbreak of the Irish Rebellion of 1641,
+        (McGill-Queens University Press, Canada, 1994)
+      </li>
+      <li>
+        Reid, Stuart and Turner, Graham, Scots Armies of the English Civil War,
+        (Osprey Publishing, Ltd., Oxford, 1999)
+      </li>
+      <li>
+        Reid, Stuart, Scots Armies of the 17th Century 1: The Army of the
+        Covenant, 1639-51, (Partizan Press, Essex, 2001)
+      </li>
+      <li>
+        Reid, Stuart, Scots Armies of the 17th Century 2: Scots Colors,
+        (Partizan Press, Essex, 2001)
+      </li>
+      <li>
+        Ryder, Ian, An English Army for Ireland, (Partizan Press, Essex, 1987)
+      </li>
+      <li>
+        Stevenson, David, Scottish Covenanters and Irish Confederates, (Ulster
+        Historical Foundation, Belfast 1981)
+      </li>
+      <li>
+        Stevenson, David, Highland Warrior, Alasdair MacColla and the Civil
+        Wars,( The Saltire Society, Edinburgh, 1980)
+      </li>
+      <li>
+        Wedgewood, C.V., Thomas Wentworth, First Earl of Strafford, 1593-1641,(
+        Pheonix Press, London, 1961)
+      </li>
+    </ol>
+    <h3>Suggested Additional Reading</h3>
+    <ul>
+      <li>
+        Canny, Nicholas, Making Ireland British, 1580-1650, (Oxford University
+        Press, Oxford, 2001)
+      </li>
+      <li>
+        Ellis, Steven G., Ireland in the Age of the Tudors, (Longman, UK, 1998)
+      </li>
+      <li>
+        Gardiner, S.R., History of the Great Civil War, (Volumes 1-4, Longman
+        Green and Co., London, 1888)
+      </li>
+      <li>
+        Reid, Stuart and Turner, Graham, Scots Armies of the English Civil War,
+        (Osprey Publishing, Ltd., Oxford, 1999)
+      </li>
+      <li>
+        Wiggins, Kenneth, Anatomy of a Siege, King Johns Castle, Limerick 1642,
+        (Boydell Press, Woodbridge, UK, 2001)
+      </li>
+      <li>
+        Wheeler, James Scott, The Irish and British Wars, 1637-1653, (Routledge
+        Press, London, 2002)
+      </li>
+      <li>
+        Young, John R, ed., Celtic Dimensions of the British Civil Wars, (John
+        Donald Publishers, LTD. Edinburgh, 1997)
+      </li>
+    </ul>
   </div>
 </template>
 
