@@ -9,7 +9,9 @@ import Contact from "./views/Contact.vue";
 // HISTORY ARTICLES ROUTES
 // KENT MILITIA
 import KentMilitia from "./views/HistoryArticles/KentMilitia/KentMilitia.vue";
-import Maryland from "./views/HistoryArticles/KentMilitia/Maryland.vue";
+
+//MARYLAND
+import Maryland from "./views/HistoryArticles/Maryland/Maryland.vue";
 // CZECHOSLVAK LEGION
 import CzechoslovakLegion from "./views/HistoryArticles/CzechoSlovakLegion/CzechoslovakLegion.vue";
 // IRISH HISTORY
@@ -72,8 +74,8 @@ export default new Router({
       component: KentMilitia
     },
     {
-      path: "/kent-militia/maryland",
-      name: "kent-militia-maryland",
+      path: "/maryland",
+      name: "maryland",
       component: Maryland
     },
     {

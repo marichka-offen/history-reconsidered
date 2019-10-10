@@ -5,10 +5,12 @@
       <div class="links" v-show="!articles">
         <router-link :to="{ name: 'kent-militia' }">
           <!-- KENT MILITIA -->
-          <span @click="kent = !kent">Kent Militia</span>
+          <span>Kent Militia</span>
         </router-link>
-        <router-link :to="{ name: 'kent-militia-maryland' }" v-show="!kent">
-          <small>Maryland (1634 - 1707)</small>
+
+        <!-- MARYLAND -->
+        <router-link :to="{ name: 'maryland' }">
+          <span>Maryland</span>
         </router-link>
 
         <!-- CZECHOSLVAK LEGION -->
@@ -95,7 +97,6 @@ export default {
   },
   data() {
     return {
-      kent: true,
       irish: true,
       dutch: true,
       scottish: true,
