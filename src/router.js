@@ -162,6 +162,7 @@ export default new Router({
       path: "/hussites",
       name: "hussites",
       component: Hussites
-    }
+    },
+    { path: "*", component: Home }
   ]
 });
