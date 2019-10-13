@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="form-page">
     <h3 class="center">
       Feel free to reach out with any questions, comments or concerns
     </h3>
@@ -57,6 +57,12 @@ export default {};
 </script>
 
 <style lang="scss" scoped>
+$theme-color: rgb(167, 37, 37);
+
+.form-page {
+  width: 100%;
+  padding: 0;
+}
 .form {
   width: 80%;
   margin: 0 auto;
@@ -68,7 +74,7 @@ export default {};
     padding: 1rem 1rem;
     border-radius: 3px;
     background-color: rgba(white, 0.5);
-    border: 1px solid rgba(#a72525, 0.2);
+    border: 1px solid rgba($theme-color, 0.2);
     width: 100%;
     display: block;
     transition: all 0.3s;
@@ -82,7 +88,7 @@ export default {};
     }
 
     &:focus:invalid {
-      border-bottom: 4px solid rgba(#a72525, 0.7);
+      border-bottom: 4px solid rgba($theme-color, 0.7);
     }
 
     &::-webkit-input-placeholder {
@@ -96,7 +102,7 @@ export default {};
     margin-top: 0.5rem;
     display: block;
     transition: all 0.3s;
-    color: #a72525;
+    color: $theme-color;
   }
 
   &__input:placeholder-shown + &__label {
@@ -111,7 +117,7 @@ button {
   margin: 2rem auto;
   padding: 1rem 2rem;
   border-radius: 3px;
-  background-color: #a72525;
+  background-color: $theme-color;
   color: #fff;
   border: none;
   font-family: "Goudy Bookletter 1911", serif;
