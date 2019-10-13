@@ -49,6 +49,15 @@
         <button type="submit">Send Message</button>
       </form>
     </div>
+    <div class="hide">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam adipisci
+      necessitatibus voluptates quia laborum repellat eius debitis quis libero
+      laudantium officia et dicta officiis hic, in delectus labore error
+      obcaecati!Lorem Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      Adipisci tempore ab animi ut laudantium architecto iste. Tenetur adipisci
+      perspiciatis optio pariatur, laudantium repellat voluptatibus, quos quas
+      ut consequuntur error explicabo.
+    </div>
   </div>
 </template>
 
@@ -60,7 +69,7 @@ export default {};
 $theme-color: rgb(167, 37, 37);
 
 .form-page {
-  width: 100%;
+  width: 80%;
   padding: 0;
 }
 .form {
@@ -131,5 +140,9 @@ button {
     transform: translateY(-0.3rem);
     box-shadow: 0 1rem 2rem rgba(black, 0.1);
   }
+}
+
+.hide {
+  visibility: hidden;
 }
 </style>
