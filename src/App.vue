@@ -48,6 +48,8 @@ export default {
 </script>
 
 <style lang="scss">
+$theme-color: rgb(167, 37, 37);
+
 @font-face {
   font-family: "Goudy Bookletter 1911";
   src: url("assets/fonts/goudy_bookletter_1911.otf") format("opentype");
@@ -73,7 +75,7 @@ html {
 body {
   margin: 0;
   font-family: "Goudy Bookletter 1911", serif;
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   line-height: 1.5;
 }
 
@@ -112,15 +114,15 @@ h1 {
 }
 h2 {
   font-size: 1.5em;
-  color: #a72525;
+  color: $theme-color;
 }
 h3 {
   font-size: 1.25em;
-  color: #a72525;
+  color: $theme-color;
 }
 h4 {
   font-size: 1.1em;
-  color: #a72525;
+  color: $theme-color;
 }
 h5 {
   font-size: 1em;
@@ -156,10 +158,9 @@ hr {
 blockquote {
   text-align: justify;
   font-family: "AquilineTwo", cursive;
-  font-size: 2.5rem;
+  font-size: 1.8rem;
   width: 80%;
   margin: 30px auto;
-  // letter-spacing: 1.5px;
 }
 
 ol,
@@ -193,7 +194,7 @@ img {
   bottom: 0;
   left: 50%;
   transform: translateX(-50%);
-  color: #a72525;
+  color: $theme-color;
 }
 .image {
   width: 70%;

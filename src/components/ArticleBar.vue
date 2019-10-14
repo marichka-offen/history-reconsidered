@@ -1,6 +1,8 @@
 <template>
   <div id="side-nav">
-    <h4 class="title pointer" @click="articles = !articles">History Articles</h4>
+    <h4 class="title pointer" @click="articles = !articles">
+      History Articles
+    </h4>
     <transition name="fade">
       <div class="links" v-show="!articles">
         <router-link :to="{ name: 'kent-militia' }">
@@ -47,7 +49,9 @@
         </router-link>
 
         <!-- SCOTTISH HISTORY -->
-        <span class="pointer" @click="scottish = !scottish">Scottish History</span>
+        <span class="pointer" @click="scottish = !scottish"
+          >Scottish History</span
+        >
         <router-link :to="{ name: 'mackeys-regiment' }" v-show="!scottish">
           <small>MacKay's Regiment</small>
         </router-link>
@@ -59,7 +63,9 @@
         </router-link>
 
         <!-- COLONIAL HISTORY -->
-        <span class="pointer" @click="colonial = !colonial">Colonial History</span>
+        <span class="pointer" @click="colonial = !colonial"
+          >Colonial History</span
+        >
         <router-link :to="{ name: 'british-america' }" v-show="!colonial">
           <small>British America</small>
         </router-link>
@@ -113,10 +119,11 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+$theme-color: rgb(167, 37, 37);
 .title {
   margin: 0;
   border-bottom: 1.5px solid rgba(#8d6f6f, 0.6);
-  color: #a72525;
+  color: $theme-color;
 }
 
 #side-nav {

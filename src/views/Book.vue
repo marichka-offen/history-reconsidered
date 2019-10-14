@@ -2,25 +2,15 @@
   <div>
     <h2>America's First Marines</h2>
     <div class="pages-grid">
-      <img
-        src="@/assets/images/book/book-ss1.png"
-        alt="America's First Marines book cover"
-      />
-      <img
-        src="@/assets/images/book/book-ss2.png"
-        alt="America's First Marines page"
-      />
-      <img
-        src="@/assets/images/book/book-ss3.png"
-        alt="America's First Marines page"
-      />
+      <img src="@/assets/images/book/book-ss1.png" alt="America's First Marines book cover" />
+      <img src="@/assets/images/book/book-ss2.png" alt="America's First Marines page" />
+      <img src="@/assets/images/book/book-ss3.png" alt="America's First Marines page" />
     </div>
     <h2 class="link">
       <a
         href="https://www.amazon.com/Americas-First-Marines-American-Regiment/dp/1463521146"
         target="_blank"
-        >Now for sale on Amazon.com</a
-      >
+      >Now for sale on Amazon.com</a>
     </h2>
 
     <h3>
@@ -35,9 +25,7 @@
       fellow colonists saw themselves, as they formed a separate identity ...
       becoming "Americans".
     </p>
-    <h3>
-      When I call Gooch’s Regiment “America’s First Marines” what do I mean?
-    </h3>
+    <h3>When I call Gooch’s Regiment “America’s First Marines” what do I mean?</h3>
     <p>
       Gooch’s Regiment was raised in nine North American colonies and placed on
       the British Army Establishment as a Regiment of Foot, but in the 18th
@@ -77,6 +65,7 @@ export default {};
 </script>
 
 <style lang="scss" scoped>
+$theme-color: rgb(167, 37, 37);
 img {
   width: 100%;
 }
@@ -86,7 +75,7 @@ img {
   gap: 3rem;
 }
 a {
-  color: #a72525;
+  color: $theme-color;
   text-decoration: underline;
 }
 .link {

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>The Battle of the Severn</h2>
+    <h2>The Battle of the Severn River, 1655</h2>
     <p>
       In 1648 Cecilius Calvert, 2nd Lord Baltimore reached an agreement with
       William Stone to resettle a group of Puritan settlers who had found
