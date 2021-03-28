@@ -91,7 +91,7 @@ body {
   background-position: center;
   background-attachment: fixed;
   filter: grayscale(10%);
-  width: fit-content;
+  width: 100%;
 }
 
 #app {

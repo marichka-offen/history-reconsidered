@@ -37,6 +37,8 @@ import Severn from "./views/HistoryArticles/ColonialHistory/Severn.vue";
 // THE HUSSITES
 import Hussites from "./views/HistoryArticles/Hussites/Hussites.vue";
 
+import NotFound from "./views/NotFound.vue";
+
 Vue.use(Router);
 
 export default new Router({
@@ -163,6 +165,6 @@ export default new Router({
       name: "hussites",
       component: Hussites
     },
-    { path: "*", component: Home }
+    { path: "*", component: NotFound }
   ]
 });
